@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – Workshop at [ICAPS 2021](https://icaps21.icaps-conference.org/)
+## For up-to-date information, visit the [PRL website](https://prl-theworkshop.github.io)
 
-You can use the [editor on GitHub](https://github.com/prl-theworkshop/prl-theworkshop.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+While AI Planning and Reinforcement Learning communities focus on similar sequential decision-making problems, these communities remain somewhat unaware of each other on specific problems, techniques, methodologies, and evaluation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This workshop aims to encourage discussion and collaboration between the researchers in the fields of AI planning and reinforcement learning. We aim to bridge the gap between the two communities, facilitate the discussion of differences and similarities in existing techniques, and encourage collaboration across the fields. We solicit interest from AI researchers that work in the intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision making. As such, the joint workshop program is an excellent opportunity to gather a large and diverse group of interested researchers.
 
-### Markdown
+## Topics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The workshop solicits work at the intersection of the fields of reinforcement learning and planning. We also solicit work solely in one area that can influence advances in the other so long as the connections are clearly articulated in the submission.
 
-```markdown
-Syntax highlighted code block
+Submissions are invited for topics on, but not limited to:
 
-# Header 1
-## Header 2
-### Header 3
+- Reinforcement learning (model-based, Bayesian, deep, etc.)
+- Model representation and learning for planning
+- Planning using approximated/uncertain (learned) models
+- Monte Carlo planning
+- Learning search heuristics for planner guidance
+- Theoretical aspects of planning and reinforcement learning
+- Reinforcement Learning and planning competition(s)
+- Multi-agent planning and learning
+- Applications of both reinforcement learning and planning
 
-- Bulleted
-- List
+## Important Dates
 
-1. Numbered
-2. List
+- Submission deadline: Feb 24, 2021
+- Notification date: March 19, 2021
+- Camera-ready deadline: April 16, 2021
+- Workshop date: June 8 or 9, 2021 (TBD)
 
-**Bold** and _Italic_ and `Code` text
+## Submission Instructions
 
-[Link](url) and ![Image](src)
-```
+We solicit workshop paper submissions relevant to the above call of the following types:
+- Long papers — up to 8 pages + unlimited references/appendices
+- Short papers — up to 4 pages + unlimited references/appendices
+- Extended abstracts — up to 2 pages + unlimited references/appendices
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Please format submissions in AAAI style (see instructions in the Author Kit 2021 at AAAI, http://www.aaai.org/Publications/Templates/AuthorKit21.zip).
 
-### Jekyll Themes
+Some accepted long papers will be accepted as contributed talks. All accepted long and short papers and extended abstracts will be given a slot in the poster presentation session. Extended abstracts are intended as brief summaries of already published papers (a reference to the publication is expected), preliminary work, position papers or challenges that might help bridge the gap.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prl-theworkshop/prl-theworkshop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Please send your inquiries by email to the organizers at [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com).
 
-### Support or Contact
+Paper submissions should be made through EasyChair, https://easychair.org/conferences/?conf=prl2021
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For up-to-date information, please visit the [PRL website](https://prl-theworkshop.github.io)
+
