@@ -48,8 +48,8 @@ For up-to-date information, please visit the [PRL website, https://prl-theworksh
 ## Organizers
 
 - [Hector Palacios](http://hectorpalacios.net/)
-- [Vicenç Gómez, https://www.upf.edu/web/vgomez]
-- [Anders Jonsson, https://www.upf.edu/web/anders-jonsson]
-- [Alan Fern, http://web.engr.oregonstate.edu/~afern/]
-- [Andrey Kolobov, https://www.microsoft.com/en-us/research/people/akolobov/]
-- [Scott Sanner, http://d3m.mie.utoronto.ca]
+- [Vicenç Gómez](https://www.upf.edu/web/vgomez)
+- [Anders Jonsson](https://www.upf.edu/web/anders-jonsson)
+- [Alan Fern](http://web.engr.oregonstate.edu/~afern/)
+- [Andrey Kolobov](https://www.microsoft.com/en-us/research/people/akolobov/)
+- [Scott Sanner](http://d3m.mie.utoronto.ca)
