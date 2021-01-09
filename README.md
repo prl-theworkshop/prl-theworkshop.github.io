@@ -45,6 +45,10 @@ Please send your inquiries by email to the organizers at [prl.theworkshop@gmail.
 
 For up-to-date information, please visit the [PRL website, https://prl-theworkshop.github.io](https://prl-theworkshop.github.io).
 
+## Previous Edition
+
+https://icaps20subpages.icaps-conference.org/workshops/prl/
+
 ## Organizers
 
 - [Hector Palacios](http://hectorpalacios.net/)
