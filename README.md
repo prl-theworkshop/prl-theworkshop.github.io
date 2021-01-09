@@ -47,7 +47,7 @@ For up-to-date information, please visit the [PRL website, https://prl-theworksh
 
 ## Previous Edition
 
-https://icaps20subpages.icaps-conference.org/workshops/prl/
+[https://icaps20subpages.icaps-conference.org/workshops/prl/](https://icaps20subpages.icaps-conference.org/workshops/prl/)
 
 ## Organizers
 
