@@ -24,7 +24,7 @@ Submissions are invited for topics on, but not limited to:
 
 ## Important Dates
 
-- Submission deadline: ~~March 24, 2021~~ (TBD).
+- Submission deadline: ~~March 24, 2021~~ (TBD. Likely around May 15, 2021).
 - Notification date: ~~April 16, 2021~~ (TBD).
 - Camera-ready deadline: ~~May 14, 2021~~ (TBD).
 - Workshop date: ~~June 8 or 9, 2021 (TBD)~~ August 2 - 13, 2021 (TBD).
