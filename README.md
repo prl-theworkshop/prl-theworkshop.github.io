@@ -22,6 +22,14 @@ Submissions are invited for topics on, but not limited to:
 - Multi-agent planning and learning
 - Applications of both reinforcement learning and planning
 
+## Invited Speakers
+
+- [Aviv Tamar](https://avivt.github.io/avivt/)
+- [Danijar Hafner](https://danijar.com)
+- [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
+- [André Barreto](https://www.lncc.br/~amsb/)
+- [Elias Bareinboim](https://causalai.net)
+
 ## Important Dates -- **ICAPS DATES CHANGED**
 
 - Submission deadline: April 21, 2021.
