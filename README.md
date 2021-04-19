@@ -32,11 +32,13 @@ Submissions are invited for topics on, but not limited to:
 
 ## Important Dates -- **ICAPS DATES CHANGED**
 
-- Submission deadline: April 21, 2021.
+- Submission deadline: April 21, 2021, any
 - Notification date: May 14, 2021.
 - Camera-ready deadline: June 11, 2021.
 - Workshop date: August 2 - 13, 2021 (TBD).
 
+The reference timezone for all deadlines is UTC-12. 
+That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time! 
 We apologize for yet another extension of the submission deadline, and for the change in the workshop dates. 
 The ICAPS conferences announced that, due to the COVID situation, it will be fully virtual and held on August 2 - 13, 2021.
 
