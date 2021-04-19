@@ -32,7 +32,7 @@ Submissions are invited for topics on, but not limited to:
 
 ## Important Dates -- **ICAPS DATES CHANGED**
 
-- Submission deadline: April 21, 2021, any
+- Submission deadline: April 21, 2021.
 - Notification date: May 14, 2021.
 - Camera-ready deadline: June 11, 2021.
 - Workshop date: August 2 - 13, 2021 (TBD).
