@@ -34,8 +34,8 @@ Submissions are invited for topics on, but not limited to:
 
 - Submission deadline: April 21, 2021.
 - Notification date: May 14, 2021.
-- Camera-ready deadline: June 11, 2021.
-- Workshop date: August 2 - 13, 2021 (TBD).
+- Camera-ready deadline: June 25, 2021. ––extended two weeks
+- Workshop date: August 4 - 6, 2021 (TBD).
 
 The reference timezone for all deadlines is UTC-12. 
 That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time!
