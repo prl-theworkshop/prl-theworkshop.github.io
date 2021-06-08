@@ -34,7 +34,7 @@ Submissions are invited for topics on, but not limited to:
 
 - Submission deadline: April 21, 2021.
 - Notification date: May 14, 2021.
-- Camera-ready deadline: June 25, 2021. ––extended two weeks
+- Camera-ready deadline: June 25, 2021. ––extended two weeks. Upload it through [EasyChair](https://easychair.org/conferences/?conf=prl2021).
 - Workshop date: August 4 - 6, 2021 (TBD).
 
 The reference timezone for all deadlines is UTC-12. 
