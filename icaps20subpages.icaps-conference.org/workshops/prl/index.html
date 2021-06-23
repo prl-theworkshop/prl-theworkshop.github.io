@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) &#8211; ICAPS 2020</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="ICAPS 2020 &raquo; Feed" href="../../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="ICAPS 2020 &raquo; Comments Feed" href="../../comments/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/icaps20subpages.icaps-conference.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='../../wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='eeb-css-frontend-css'  href='../../wp-content/plugins/email-encoder-bundle/core/includes/assets/css/style.css?ver=210602-111153' type='text/css' media='all' />
+<link rel='stylesheet' id='short-news-social-icons-css'  href='../../wp-content/themes/short-news/assets/css/socicon.css?ver=3.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='../../wp-content/themes/short-news/style.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='short-news-fonts-css'  href='https://fonts.googleapis.com/css?family=Work+Sans%3A400%2C700%2C900%2C400italic%7CRubik%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;display=fallback' type='text/css' media='all' />
+<link rel='stylesheet' id='short-news-style-css'  href='../../wp-content/themes/short-news-child/style.css?ver=1.1.0.1581350116' type='text/css' media='all' />
+<style id='short-news-style-inline-css' type='text/css'>
+
+			@media screen and (min-width: 600px) {
+			.site-logo {max-width: 100px;}
+			}.custom-header {background-image: url(../../wp-content/uploads/2020/08/webpage-header2.png);}.custom-header {padding-top: 40px;padding-bottom: 40px;}.custom-header {background-position: center center;}.site-description {color: #ffffff;}
+		a, .site-title a:hover, .entry-title a:hover, .main-navigation ul ul li:hover > a, .widget a:hover, .widget_recent_comments a,
+		blockquote:before, .cat-links a, .comment-metadata .comment-edit-link, .standard-post .read-more:hover,
+		.posts-navigation a:hover, .post-navigation a:hover .meta-nav, .post-navigation a:hover .post-title,
+		.author-link a:hover, .entry-content .has-accent-color {
+		color: #0573b4;
+		}
+		button, input[type='button'], input[type='reset'], input[type='submit'], .main-navigation > ul > li.current-menu-item:after,
+		.sidebar .widget_tag_cloud a:hover, .single .cat-links a, .entry-meta-top .comments-link > span:hover, .entry-meta-top .comments-link > a:hover,
+		.standard-post .read-more:after, .newsticker .news-dot, .pagination .current, .pagination .page-numbers:hover,
+		.featured-post-header .cat-links a:hover, .post-edit-link, .reply a, #sb_instagram .sbi_follow_btn a, .entry-content .has-accent-background-color {
+		background-color: #0573b4;
+		}
+		.entry-meta-top .comments-link > a:hover:after, .entry-meta-top .comments-link > span:hover:after {border-top-color: #0573b4;}
+</style>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='../../wp-content/plugins/email-encoder-bundle/core/includes/assets/js/custom.js?ver=210602-111153' id='eeb-js-frontend-js'></script>
+<link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="alternate" type="application/json" href="../../wp-json/wp/v2/pages/523" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<link rel="canonical" href="../../index.html?p=523" />
+<link rel='shortlink' href='../../index.html?p=523' />
+<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embed?url=https:%252F%252Ficaps20subpages.icaps-conference.org%252Fworkshops%252Fprl%252F" />
+<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed?url=https:%252F%252Ficaps20subpages.icaps-conference.org%252Fworkshops%252Fprl%252F&amp;format=xml" />
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<link rel="icon" href="../../wp-content/uploads/2019/02/logo_square.png" sizes="32x32" />
+<link rel="icon" href="../../wp-content/uploads/2019/02/logo_square.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="../../wp-content/uploads/2019/02/logo_square.png" />
+<meta name="msapplication-TileImage" content="https://icaps20subpages.icaps-conference.org/wp-content/uploads/2019/02/logo_square.png" />
+		<style type="text/css" id="wp-custom-css">
+			#site-navigation li a {
+   text-transform:none;
+}
+.custom-header {
+	min-height: 150px;
+}		</style>
+		</head>
+<body class="page-template page-template-page-templates page-template-fullwidth page-template-page-templatesfullwidth-php page page-id-523 page-child parent-pageid-81 header-style-1 site-boxed has-no-sidebar">
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="../../index.html?p=523#main">Skip to content</a>
+		
+	<header id="masthead" class="site-header" role="banner">
+			
+			
+	<div class="header-middle header-title-left custom-header">
+		<div class="container flex-container">
+			<div class="site-branding">
+				<p class="site-title"><a href="../../index.html" rel="home">ICAPS 2020</a></p><p class="site-description">The 30th International Conference on Automated Planning and Scheduling</p>			</div>
+					</div>
+	</div>
+	
+	<div class="header-bottom menu-left">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+				
+	<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Main Menu">
+		<ul id="main-menu" class="main-menu"><li id="menu-item-1931" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1931"><a href="https://icaps20.icaps-conference.org">Back to ICAPS&#8217;20 main page</a></li>
+</ul>	</nav>
+					</div>
+			</div>
+		</div>
+	</div>
+		</header><!-- .site-header -->
+	
+	<div id="mobile-header" class="mobile-header">
+		<div class="mobile-navbar">
+			<div class="container">
+				<span id="menu-toggle" class="menu-toggle" title="Menu"><span class="button-toggle"></span></span>
+							</div>
+		</div>
+		<nav id="mobile-navigation" class="main-navigation mobile-navigation" role="navigation" aria-label="Main Menu"></nav>
+	</div>
+	
+		
+	<div id="content" class="site-content">
+		<div class="container">
+			<div class="site-inner">
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-523" class="post-523 page type-page status-publish hentry">
+	
+	<header class="entry-header">
+		<h1 class="entry-title"><span>Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)</span></h1>	</header><!-- .entry-header -->
+
+		
+	<div class="entry-content">
+		
+<p>While AI Planning and Reinforcement Learning communities focus on similar sequential decision-making problems, these communities remain somewhat unaware of each other on specific problems, techniques, methodologies, and evaluation.  </p>
+
+
+
+<p>This workshop aims to encourage discussion and collaboration between the researchers in the fields of AI planning and reinforcement learning. We aim to bridge the gap between the two communities, facilitate the discussion of differences and similarities in existing techniques, and encourage collaboration across the fields. We solicit interest from AI researchers that work in the intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision making. As such, the joint workshop program is an excellent opportunity to gather a large and diverse group of interested researchers.</p>
+
+
+
+<h3>Proceedings are now available <a href="../../wp-content/uploads/2020/11/PRL2020-proceedings.pdf">here</a>.</h3>
+
+
+
+<h3><strong>Participation</strong></h3>
+
+
+
+<p>The workshop will take place online, on October 22nd and 23rd. In order to participate in the workshop, you need to <a href="../../index.html?p=1215">register for ICAPS</a>. The registration is free, and once registered, you will get a password to Gather platform and a direct link to the virtual conference. Please remember to select the PRL workshop when registering.
+</p>
+
+
+
+<p>An additional discussion will take place on a dedicated Slack Workspace. Please <a href="https://join.slack.com/t/newworkspace-1027357/shared_invite/zt-hyrggq69-pAEYaKc5jtOiG6ZZoJYa~Q">join</a> the workspace in advance and join the dedicated channels for relevant papers.</p>
+
+
+
+<h3>Invited Speakers</h3>
+
+
+
+<p><a href="https://www.youtube.com/playlist?list=PL92l-Yigsz0vquvIn-SYNZuwY8jG5Thvj" target="_blank" rel="noreferrer noopener">Playlist of all the invited talks.</a></p>
+
+
+
+<ul><li><details> <summary><a href="https://willdabney.com/">Will Dabney</a>, DeepMind (recorded) </summary> <p> <b>Title:</b> <a href="https://youtu.be/iqIGHSgYtbs">Advances in Distributional Reinforcement Learning And Connections With Planning</a> <br><br> <b>Abstract:</b> <br> Distributional Reinforcement Learning has seen continued research progress in recent years, largely focused on either theoretical analysis or developing new, empirically validated, methods for approximating the distribution of returns. In this talk, we will discuss these recent advances, attempt to understand the reasons for their empirical success, and finally investigate connections with planning where distributional reinforcement learning may suggest promising future work. <br><br> <b> Bio:</b> <br> Will Dabney is a research scientist at DeepMind. His research focuses on reinforcement learning, with collaborations into other areas of machine learning and neuroscience. Recent work has been focused on distributional reinforcement learning and representation learning, but core problems such as exploration and temporal abstraction continue to beckon. </p> </details></li></ul>
+
+
+
+<ul><li><details> <summary> <a href="https://web.engr.oregonstate.edu/~afern/">Alan Fern</a>, Oregon State University (recorded) </summary> <p> <b>Title:</b>  <a href="https://youtu.be/a2m07Qca_pw">Deep Flat MDPs for Offline Model-Based Reinforcement Learning</a> <br><br> <b>Abstract:</b> <br>  While there has been a growing interest in model-based RL, it is rare to see optimal, or near-optimal, planning incorporated into actual implementations. This is especially true in the offline RL setting, where a model must be estimated from a static set of experience data. In this talk, we will describe our recent efforts to push the integration of deep representation learning with near-optimal planners for offline RL. In particular, we will introduce the Deep Averagers with Costs MDP (DAC-MDP) as a principled way to leverage optimal planners for flat/tabular MDP representations derived from continuous deep representations. Using a planner based on a GPU-implementation of value iteration, we demonstrate scalability to complex image-based environments such as Atari with relatively simple representations derived from offline model-free learners. We also illustrate potential use-cases of our planning-based approach for zero-shot adaptation to changes in the environment and optimization objectives. We will end with a discussion of future directions suggested by the work for further integration of symbolic planners and RL. <br><br> <b> Bio:</b> <br>  Alan Fern is Professor of Computer Science and Associate Head of Research for the School of EECS at Oregon State University. He received his Ph.D. (2004) and M.S. (2000) in computer engineering from Purdue University, and his B.S. (1997) in electrical engineering from the University of Maine. He is an associate editor of the Machine Learning Journal, the Journal of Artificial Intelligence Research, and serves on the executive council of the International Conference on Automated Planning and Scheduling. His research interests span a range of topics in artificial intelligence, including machine learning and automated planning/control, with a particular interest in the intersection of those areas. </p> </details></li></ul>
+
+
+
+<ul><li><details> <summary>
+<a href="http://cs.brown.edu/~mlittman/">Michael Littman</a>, Brown University (recorded)</summary> <p> <b>Title:</b> <a href="https://youtu.be/45FKxa3qPHo">Logical Planning in Murky Perceptual Domains: From Soup to Nots</a><br><br> <b>Abstract:</b> <br> 
+I&#8217;ll talk about the challenge of using planning successfully in real-world perceptual domains and what I think are the most promising ideas for learning plannable representations.
+<br><br> <b> Bio:</b> <br> 
+Michael Littman studies machine learning and decision making under
+uncertainty.&nbsp; He has earned multiple awards for teaching and his
+research has been recognized with three best-paper awards and two
+influential paper awards for his work on reinforcement learning,
+probabilistic planning, and automated crossword-puzzle solving.
+Littman has served on the editorial boards for the Journal of Machine
+Learning Research and the Journal of Artificial Intelligence Research.
+He was general chair of International Conference on Machine Learning
+2013 and program chair of the Association for the Advancement of
+Artificial Intelligence (AAAI) Conference 2013. He is co-director of
+Brown&#8217;s Humanity Centered Robotics Initiative and a Fellow of the
+Association for the Advancement of Artificial Intelligence and the
+Association for Computing Machinery.&nbsp;
+</p> </details></li></ul>
+
+
+
+<ul><li><details> <summary>
+<a href="http://www.furidamu.org/">Julian Schrittwieser</a>, DeepMind (recorded)
+</summary> <p> <b>Title:</b> 
+<a href="https://youtu.be/bT877A_kPNM">MuZero &#8211; Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
+<br><br> <b>Abstract:</b> <br> 
+Constructing agents with planning capabilities has long been one of the main challenges in the pursuit of artificial intelligence. Tree-based planning methods have enjoyed huge success in challenging domains, such as chess and Go, where a perfect simulator is available. However, in real-world problems the dynamics governing the environment are often complex and unknown. The MuZero algorithm, by combining a tree-based search with a learned model, achieves superhuman performance in a range of challenging and visually complex domains, without any knowledge of their underlying dynamics. MuZero learns a model that, when applied iteratively, predicts the quantities most directly relevant to planning: the reward, the action-selection policy, and the value function.
+When evaluated on 57 different Atari games &#8211; the canonical video game environment for testing AI techniques, in which model-based planning approaches have historically struggled &#8211; our new algorithm achieved a new state of the art. When evaluated on Go, chess and shogi, without any knowledge of the game rules, MuZero matched the superhuman performance of the AlphaZero algorithm that was supplied with the game rules.
+<br><br> <b> Bio:</b> <br> 
+Julian Schrittwieser is a senior researcher and tech lead at DeepMind, where he has been working on Reinforcement Learning for the last six years. Previously, he was an engineer at Google and studied at the technical university of Vienna.
+His past work includes AlphaGo, AlphaGo Zero, AlphaZero and most recently MuZero. He is excited about the application of RL and other machine learning techniques to solve real world problems.
+In his spare time, he likes to run, learn languages and travel; he sometimes blogs at <a href="http://www.furidamu.org/">http://www.furidamu.org/</a></p> </details></li></ul>
+
+
+
+<ul><li><details> <summary>
+<a href="http://www.cs.utexas.edu/~pstone/">Peter Stone</a>, The University of Texas at Austin (recorded)
+</summary> <p> <b>Title:</b> 
+<a href="https://youtu.be/uGYM8BLDanc">Task-Motion Navigation Planning with Learning for Adaptable Mobile Service Robots</a><br><br> <b>Abstract:</b> <br> 
+Task-motion planning (TMP) addresses the problem of efficiently generating executable and low-cost task plans in a discrete space such that the (initially unknown) action costs are determined by motion plans in a corresponding continuous space. A task-motion plan for a mobile service robot that behaves in a highly dynamic domain can be sensitive to domain uncertainty and changes, leading to suboptimal behaviors or execution failures. This talk examines the ways in which machine learning can be integrated into a TMP system to increase generality and robustsness, with particular focus on navigation planning problems.
+<br><br> <b> Bio:</b> <br> 
+Dr. Peter Stone is the David Bruton, Jr. Centennial Professor and Associate Chair of Computer Science, as well as Chair of the Robotics Consortium, at the University of Texas at Austin. In 2013 he was awarded the University of Texas System Regents&#8217; Outstanding Teaching Award and in 2014 he was inducted into the UT Austin Academy of Distinguished Teachers, earning him the title of University Distinguished Teaching Professor. Professor Stone&#8217;s research interests in Artificial Intelligence include machine learning (especially reinforcement learning), multiagent systems, and robotics. Professor Stone received his Ph.D in Computer Science in 1998 from Carnegie Mellon University. From 1999 to 2002 he was a Senior Technical Staff Member in the Artificial Intelligence Principles Research Department at AT&amp;T Labs &#8211; Research. He is an Alfred P. Sloan Research Fellow, Guggenheim Fellow, AAAI Fellow, IEEE Fellow, AAAS Fellow, Fulbright Scholar, and 2004 ONR Young Investigator. In 2007 he received the prestigious IJCAI Computers and Thought Award, given biannually to the top AI researcher under the age of 35, and in 2016 he was awarded the ACM/SIGAI Autonomous Agents Research Award. Professor Stone co-founded Cogitai, Inc., a startup company focused on continual learning, in 2015, and currently serves as Executive Director of Sony AI America.
+</p> </details></li></ul>
+
+
+
+<h3>Program</h3>
+
+
+
+<p><strong>October 22nd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td><strong>GMT</strong></td><td><strong>Canb</strong></td><td><strong>Paris</strong></td><td><strong>NYC</strong></td><td><strong>LA</strong></td><td></td></tr><tr><td>18:00</td><td>5:00</td><td>20:00</td><td>14:00</td><td>11:00</td><td><strong>Invited Talk: Julian Schrittwieser</strong></td></tr><tr><td>18:40</td><td>5:40</td><td>20:40</td><td>14:40</td><td>11:40</td><td>#21 Frederik Drachmann, Andrea Dittadi and Thomas Bolander, Planning from Pixels in Atari with Learned Symbolic Representations</td></tr><tr><td>18:50</td><td>5:50</td><td>20:50</td><td>14:50</td><td>11:50</td><td>#18 Brendan Juba, Hai Le and Roni Stern, Safe Learning of Lifted Action Models</td></tr><tr><td>19:00</td><td>6:00</td><td>21:00</td><td>15:00</td><td>12:00</td><td>Break</td></tr><tr><td>19:15</td><td>6:15</td><td>21:15</td><td>15:15</td><td>12:15</td><td><strong>Invited Talk: Alan Fern</strong></td></tr><tr><td>19:55</td><td>6:55</td><td>21:55</td><td>15:55</td><td>12:55</td><td>Discussion Session (Chair: Alan Fern): Learning Symbolic Models for Planning</td></tr><tr><td>20:15</td><td>7:15</td><td>22:15</td><td>16:15</td><td>13:15</td><td>Posters</td></tr><tr><td>21:15</td><td>8:15</td><td>23:15</td><td>17:15</td><td>14:15</td><td>Break</td></tr><tr><td>21:30</td><td>8:30</td><td>23:30</td><td>17:30</td><td>14:30</td><td><strong>Invited Talk: Peter Stone</strong></td></tr><tr><td>22:10</td><td>9:10</td><td>0:10</td><td>18:10</td><td>15:10</td><td>#23 Maximilian Fickert, Tianyi Gu, Leonhard Staut, Sai Lekyang, Wheeler Ruml, Joerg Hoffmann and Marek Petrik, Real-time Planning as Data-driven Decision-making</td></tr><tr><td>22:20</td><td>9:20</td><td>0:20</td><td>18:20</td><td>15:20</td><td>#12 Thomas Moerland, Anna Deichler, Simone Baldi, Joost Broekens and Catholijn Jonker, Think Neither Too Fast Nor Too Slow: The Computational Trade-off Between Planning And Reinforcement Learning</td></tr><tr><td>22:30</td><td>9:30</td><td>0:30</td><td>18:30</td><td>15:30</td><td>#8 Tomas Brazdil, Krishnendu Chatterjee, Petr Novotný and Jiří Vahala, Reinforcement Learning of Risk-Constrained Policies in Markov Decision Processes (Extended Abstract)</td></tr><tr><td>22:40</td><td>9:40</td><td>0:40</td><td>18:40</td><td>15:40</td><td>Discussion Session (Chair: Alan Fern and Hector Palacios): Interplay between RL and Search</td></tr></tbody></table></figure>
+
+
+
+<p><strong>October 23rd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td><strong>GMT</strong></td><td><strong>Canb</strong></td><td><strong>Paris</strong></td><td><strong>NYC</strong></td><td><strong>LA</strong></td><td></td></tr><tr><td>18:00</td><td>5:00</td><td>20:00</td><td>14:00</td><td>11:00</td><td><strong>Invited Talk: Michael Littman</strong></td></tr><tr><td>18:40</td><td>5:40</td><td>20:40</td><td>14:40</td><td>11:40</td><td>#17 Sankalp Garg, Aniket Bajpai and Mausam Mausam, Symbolic Network: Generalized Neural Policies for Relational MDPs</td></tr><tr><td>18:50</td><td>5:50</td><td>20:50</td><td>14:50</td><td>11:50</td><td>#5 Or Rivlin, Tamir Hazan and Erez Karpas, Generalized Planning With Deep Reinforcement Learning</td></tr><tr><td>19:00</td><td>6:00</td><td>21:00</td><td>15:00</td><td>12:00</td><td>#1 Tom Silver and Rohan Chitnis, PDDLGym: Gym Environments from PDDL Problems</td></tr><tr><td>19:10</td><td>6:10</td><td>21:10</td><td>15:10</td><td>12:10</td><td>Discussion Session (Chairs: Vicenç Gómez and Scott Sanner): Challenge Problems for RL and Planning</td></tr><tr><td>19:30</td><td>6:30</td><td>21:30</td><td>15:30</td><td>12:30</td><td>Break</td></tr><tr><td>19:45</td><td>6:45</td><td>21:45</td><td>15:45</td><td>12:45</td><td><strong>Invited Talk: Will Dabney</strong></td></tr><tr><td>20:25</td><td>7:25</td><td>22:25</td><td>16:25</td><td>13:25</td><td>#13 David Speck, André Biedenkapp, Frank Hutter, Robert Mattmüller and Marius Lindauer, Learning Heuristic Selection with Dynamic Algorithm Configuration</td></tr><tr><td>20:35</td><td>7:35</td><td>22:35</td><td>16:35</td><td>13:35</td><td>#9 Kevin Osanlou, Jeremy Frank, J. Benton, Andrei Bursuc, Christophe Guettier, Eric Jacopin and Tristan Cazenave, Time-based Dynamic Controllability of Disjunctive Temporal Networks with Uncertainty: A Tree Search Approach with Graph Neural Network Guidance</td></tr><tr><td>20:45</td><td>7:45</td><td>22:45</td><td>16:45</td><td>13:45</td><td>#10 Andrea Micheli and Alessandro Valentini, Synthesis of Search Heuristics for Temporal Planning via Reinforcement Learning</td></tr><tr><td>20:55</td><td>7:55</td><td>22:55</td><td>16:55</td><td>13:55</td><td>Discussion Session (Chairs: Hector Palacios and Michael Katz): Learning Planning Heuristics</td></tr></tbody></table></figure>
+
+
+
+<h3>Accepted papers</h3>
+
+
+
+<p>[EasyChair id] Paper title (authors). EasyChair id is used for identifying papers in the poster session</p>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td>[1] PDDLGym: Gym Environments from PDDL Problems (Tom Silver&nbsp;and Rohan Chitnis) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_1.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-01.pdf">poster</a>)</td></tr><tr><td>[3] Model-free Automated Planning Using Neural Networks (Michaela Urbanovská, Jan Bím, Leah Chrestien, Antonín Komenda and Tomáš Pevný) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_3.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-03.pdf">poster</a>)</td></tr><tr><td>[5] Generalized Planning With Deep Reinforcement Learning (Or Rivlin, Tamir Hazan and Erez Karpas) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_5.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-05.pdf">poster</a>)</td></tr><tr><td>[8] Reinforcement Learning of Risk-Constrained Policies in Markov Decision Processes (Extended Abstract) (Tomas Brazdil,&nbsp;Krishnendu Chatterjee,&nbsp;Petr Novotný&nbsp;and Jiří Vahala) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_8.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-08.pdf">poster</a>)</td></tr><tr><td>[9] Time-based Dynamic Controllability of Disjunctive Temporal Networks with Uncertainty: A Tree Search Approach with Graph Neural Network Guidance (Kevin Osanlou, Jeremy Frank, J. Benton, Andrei Bursuc, Christophe Guettier, Eric Jacopin and&nbsp;Tristan Cazenave) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_9.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-09.pdf">poster</a>)</td></tr><tr><td>[10] Synthesis of Search Heuristics for Temporal Planning via Reinforcement Learning (Andrea Micheli&nbsp;and Alessandro Valentini) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_10.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-10.pdf">poster</a>)</td></tr><tr><td>[11] A Framework for Reinforcement Learning and Planning: Extended Abstract (Thomas Moerland,&nbsp;Joost Broekens&nbsp;and&nbsp;Catholijn Jonker) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_11.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-11.pdf">poster</a>)</td></tr><tr><td>[12] Think Neither Too Fast Nor Too Slow: The Computational Trade-off Between Planning And Reinforcement Learning (Thomas Moerland, Anna Deichler,&nbsp;Simone Baldi,&nbsp;Joost Broekens&nbsp;and&nbsp;Catholijn Jonker) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_12.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-12.pdf">poster</a>)</td></tr><tr><td>[13] Learning Heuristic Selection with Dynamic Algorithm Configuration (David Speck, André Biedenkapp, Frank Hutter,&nbsp;Robert Mattmüller&nbsp;and Marius Lindauer) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_13.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-13.pdf">poster</a>)</td></tr><tr><td>[14] Knowing When To Look Back: Bidirectional Rollouts in Dyna-style Planning (Yat Long Lo, Jia Pan and Albert Y.S. Lam) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_14.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-14.pdf">poster</a>)</td></tr><tr><td>[15] PBCS: Efficient Exploration and Exploitation Using a Synergy between Reinforcement Learning and Motion Planning (Guillaume Matheron, Olivier Sigaud and Nicolas Perrin) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_15.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-15.pdf">poster</a>)</td></tr><tr><td>[16] Hierarchical Reinforcement Learning in StarCraft II with Human Expertise in Subgoals Selection (Xinyi Xu, Tiancheng Huang, Pengfei Wei, Akshay Narayan and Tze-Yun Leong) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_16.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-16.pdf">poster</a>)</td></tr><tr><td>[17] Symbolic Network: Generalized Neural Policies for Relational MDPs (Sankalp Garg,&nbsp;Aniket Bajpai&nbsp;and&nbsp;Mausam Mausam) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_17.pdf">pdf</a>)</td></tr><tr><td>[18] Safe Learning of Lifted Action Models (Brendan Juba,&nbsp;Hai Le&nbsp;and&nbsp;Roni Stern) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_18.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-18.pdf">poster</a>)</td></tr><tr><td>[19] Reinforcement Learning for Planning Heuristics (Patrick Ferber,&nbsp;Malte Helmert&nbsp;and&nbsp;Joerg Hoffmann) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_19.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-19.pdf">poster</a>)</td></tr><tr><td>[20] Bridging the gap between Markowitz planning and deep reinforcement learning (Eric Benhamou, David Saltiel, Sandrine Ungari and Abhishek Mukhopadhyay) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_20.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-20.pdf">poster</a>)</td></tr><tr><td>[21] Planning from Pixels in Atari with Learned Symbolic Representations (Frederik Drachmann, Andrea Dittadi and&nbsp;Thomas Bolander) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_21.pdf">pdf</a>)</td></tr><tr><td>[22] Offline Learning for Planning: A Summary (Giorgio Angelotti, Nicolas Drougard and Caroline Ponzoni Carvalho Chanel) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_22.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-22.pdf">poster</a>)</td></tr><tr><td>[23] Real-time Planning as Data-driven Decision-making (Maximilian Fickert, Tianyi Gu, Leonhard Staut, Sai Lekyang, Wheeler Ruml, Joerg Hoffmann and Marek Petrik) (<a href="../../wp-content/uploads/2020/10/PRL2020_paper_23.pdf">pdf</a>) (<a href="../../wp-content/uploads/2020/10/PRL-poster-23.pdf">poster</a>)</td></tr></tbody></table></figure>
+
+
+
+<h3>Topics</h3>
+
+
+
+<p>The workshop solicits work at the intersection of the fields of reinforcement learning and planning. We also solicit work solely in one area that can influence advances in the other so long as the connections are <strong>clearly articulated</strong> in the submission.</p>
+
+
+
+<p>Submissions are invited for topics on, but not limited to:</p>
+
+
+
+<ul><li>Reinforcement learning (model-based, Bayesian, deep, etc.)</li><li>Model representation and learning for planning</li><li>Planning using approximated/uncertain (learned) models</li><li>Monte Carlo planning</li><li>Learning search heuristics for planner guidance</li><li>Theoretical aspects of planning and reinforcement learning</li><li>Reinforcement Learning and planning competition(s)</li><li>Multi-agent planning and learning</li><li>Applications of both reinforcement learning and planning</li></ul>
+
+
+
+<h3>Important Dates</h3>
+
+
+
+<ul><li><s>Submission deadline: August 3, 2020 (UTC-12 timezone)</s></li><li><s>Notification date: August 26, 2020</s></li><li><s>Camera-ready deadline: September 25, 2020</s></li><li>Workshop date: October 22 &amp; 23, 2020</li></ul>
+
+
+
+<h3>Submission Instructions</h3>
+
+
+
+<p>We solicit workshop paper submissions relevant to the above call of the following types:</p>
+
+
+
+<ul><li>Long papers &#8212; up to 8 pages + unlimited references / appendices</li><li>Short papers &#8212; up to 4 pages + unlimited references / appendices</li><li>Extended abstracts &#8212; up to 2 pages + unlimited references / appendices</li></ul>
+
+
+
+<p>Please format submissions in AAAI style (see instructions in the <a href="http://www.aaai.org/Publications/Templates/AuthorKit20.zip" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Author Kit at AAAI, AuthorKit20.zip</a>) and keep them to at most 9 pages including references. Authors considering submitting to the workshop papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main ICAPS conference to the workshop.</p>
+
+
+
+<p>Some accepted long papers will be accepted as contributed talks. All accepted long and short papers and extended abstracts will be given a slot in the poster presentation session.  Extended abstracts are intended as brief summaries of already published papers, preliminary work, position papers or challenges that might help bridge the gap.</p>
+
+
+
+<p>As the main purpose of this workshop is to solicit discussion, the authors are invited to use the appendix of their submissions for that purpose.</p>
+
+
+
+<p>Paper submissions should be made through <a href="https://easychair.org/conferences/?conf=prl2020" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">EasyChair, https://easychair.org/conferences/?conf=prl2020</a>.</p>
+
+
+
+<p></p>
+
+
+
+<h3>Organizers</h3>
+
+
+
+<ul><li>Chair – <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Michael.Katz1" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Michael Katz, </a>IBM T.J. Watson Research Center, NY, USA</li><li>Chair – <a href="https://hectorpalacios.net/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Hector Palacios, </a>Element AI, Montreal, Canada</li><li><a href="http://web.engr.oregonstate.edu/~afern/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Alan Fern,</a> Oregon State University, USA</li><li><a href="https://www.upf.edu/web/vgomez" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Vicenç Gómez, </a>Universitat Pompeu Fabra, Barcelona, Spain</li><li><a href="https://www.upf.edu/web/anders-jonsson" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Anders Jonsson, </a>Universitat Pompeu Fabra, Barcelona, Spain</li><li><a style="font-size: 1rem" href="https://d3m.mie.utoronto.ca/">Scott Sanner, </a><span style="font-size: 1rem">University of Toronto, Toronto, Canada</span></li></ul>
+
+
+
+<p>Please send your inquiries by <a href="javascript:;" data-enc-email="cey2020.vpncfjf[at]tznvy.pbz" class="mail-link" data-wpel-link="ignore">email to the organizers</a>.</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+			</div><!-- .site-inner -->
+		</div><!-- .container -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		
+					<div class="widget-area" role="complementary">
+				<div class="container">
+					<div class="row">
+						<div class="col-12 col-md-12" id="footer-area-1">
+							<aside id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div style="text-align:center;">
+<a href="https://www.uni-saarland.de/en/legal-notice.html" target="_blank" rel="noopener">Legal Notice</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.uni-saarland.de/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a>
+</div></div></aside>						</div>	
+						<!--<div class="col-4 col-md-4" id="footer-area-2">
+													</div>
+						<div class="col-4 col-md-4" id="footer-area-3">
+													</div>-->
+					</div>
+				</div>
+			</div><!-- .widget-area -->
+						
+		<div class="footer-copy">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 col-sm-12">
+						<div class="site-credits">
+							<span>&copy; 2021 ICAPS 2020</span>														<!--<span>
+								<a href="https://wordpress.org/">
+									Powered by WordPress								</a>
+							</span>
+							<span>
+								<a href="https://www.designlabthemes.com/" rel="nofollow">
+									Theme by Design Lab								</a>
+							</span>-->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- .footer-copy -->
+		
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' id='eeb-js-ajax-ef-js-extra'>
+/* <![CDATA[ */
+var eeb_ef = {"ajaxurl":"https:\/\/icaps20subpages.icaps-conference.org\/wp-admin\/admin-ajax.php","security":"fc43438941"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/email-encoder-bundle/core/includes/assets/js/encoder-form.js?ver=210602-111153' id='eeb-js-ajax-ef-js'></script>
+<script type='text/javascript' src='../../wp-content/themes/short-news/assets/js/main.js?ver=20180928' id='short-news-script-js'></script>
+<script type='text/javascript' src='../../wp-content/themes/short-news/assets/js/skip-link-focus-fix.js?ver=20180901' id='short-news-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='../../wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+
+</body>
+</html>
