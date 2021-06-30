@@ -24,10 +24,10 @@ Submissions are invited for topics on, but not limited to:
 
 ## Invited Speakers
 
-- [Aviv Tamar](https://avivt.github.io/avivt/)
+- [Aviv Tamar](https://avivt.github.io/avivt/) – "Learning to Plan and Planning to Learn"
 - [Danijar Hafner](https://danijar.com)
 - [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
-- [André Barreto](https://www.lncc.br/~amsb/)
+- [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
 
 ## Important Dates -- **ICAPS DATES CHANGED**
@@ -42,6 +42,34 @@ That is, as long as there is still some place anywhere in the world where the de
 
 We apologize for yet another extension of the submission deadline, and for the change in the workshop dates.
 The ICAPS conferences announced that, due to the COVID situation, it will be fully virtual and held on August 2 - 13, 2021.
+
+## Tentative program structure
+
+In general, the program will consist of the following kind of activities.
+
+* Invited talks. 30m + 10m for Q&A.
+* Oral presentations for some papers. 8m + 2m for Q&A.
+* One poster session. 60m.
+* Discussion sessions. 20m.
+
+The program is span 10 hours split in two consecutive days in 4-6 August. A day of the program might as follows
+
+* Invited talk – 40m
+* Oral talks – 20m
+* Break – 10m
+* Invited talk – 40m
+* Discussion – 20m
+* Break – 10m
+* Poster session – 60m
+* Invited talk – 40m
+* Oral talks – 20m
+* Discussion – 20m
+
+Next updates to the program will include
+* Time slots and which days in 4-6 August.
+* Titles of invited talks.
+* Selected papers for oral presentations.
+* Discussion titles
 
 ## Accepted papers
 
