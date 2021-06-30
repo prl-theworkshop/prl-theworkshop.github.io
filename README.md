@@ -1,4 +1,4 @@
-# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – [Workshop at ICAPS 2021 (August 4-6)](https://icaps21.icaps-conference.org/workshops/PRL/)
+# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – [Workshop at ICAPS 2021 (August 5-6)](https://icaps21.icaps-conference.org/workshops/PRL/)
 
 ### This site presents the most up-to-date information about the workshop. Please, visit [ICAPS 2021](https://icaps21.icaps-conference.org/) for more general information.
 
@@ -30,7 +30,7 @@ Submissions are invited for topics on, but not limited to:
 - [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
 
-## Program (under construction)
+## Program (subject to minor changes)
 
 The event will be fully virtual, consisting of:
 
@@ -41,16 +41,33 @@ The event will be fully virtual, consisting of:
 
 The program spans 10 hours split into two consecutive days
 
-* Invited talk – 40m
-* Oral talks – 20m
-* Break – 10m
-* Invited talk – 40m
-* Discussion – 20m
-* Break – 10m
-* Poster session – 60m
-* Invited talk – 40m
-* Oral talks – 20m
-* Discussion – 20m
+### August 5 (10:00 to 15:00 US East time)
+10:00	Invited Talk 
+10:40	Contributed talk
+10:50	Contributed talk
+11:00	Break
+11:15	Invited Talk
+11:55	Discussion Session
+12:15	Posters
+13:15	Break
+13:30	Invited Talk: Peter Stone
+14:10	Contributed talk
+14:20	Contributed talk
+14:30	Contributed talk
+14:40	Discussion Session
+
+### August 6 (10:00 to 15:00 US East time)
+10:00	Invited Talk
+10:40	Contributed talk
+10:50	Contributed talk
+11:00	Contributed talk
+11:10 Discussion Session
+11:30	Break
+11:45 Invited Talk
+12:25	Contributed talk
+12:35	Contributed talk
+12:45 Contributed talk
+12:55	Discussion Session and Closing remarks
 
 ## Accepted papers
 
