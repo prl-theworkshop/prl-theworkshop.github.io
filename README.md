@@ -99,12 +99,12 @@ Please send your inquiries by email to the organizers at [prl.theworkshop@gmail.
 For up-to-date information, please visit the [PRL website, https://prl-theworkshop.github.io](https://prl-theworkshop.github.io).
 
 
-## Important Dates --
+## Important Dates
 
 - Submission deadline: April 21, 2021 (PASSED)
 - Notification date: May 14, 2021. (PASSED)
 - Camera-ready deadline: June 25, 2021. ––extended two weeks. Upload it through [EasyChair](https://easychair.org/conferences/?conf=prl2021). (PASSED)
-- Workshop date: August 4 - 6, 2021
+- Workshop date: August 4-6, 2021
 
 The reference timezone for all deadlines is UTC-12.
 
