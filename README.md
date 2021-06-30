@@ -41,9 +41,9 @@ The event will be fully virtual, consisting of:
 
 The program spans 10 hours split into two consecutive days
 
-### August 5 (10:00 to 15:00 US East time)
+### August 5 (10:00 to 15:00 EST)
 
-| | | 
+| Time (EST) | | 
 | ------------- | ------------- |
 | 10:00  | Invited Talk  |
 | 10:40  | Contributed Talk  |
@@ -61,7 +61,7 @@ The program spans 10 hours split into two consecutive days
 
 ### August 6 (10:00 to 15:00 US East time)
 
-| | | 
+| Time (EST) | | 
 | ------------- | ------------- |
 | 10:00 | Invited Talk |
 | 10:40 | Contributed talk |
