@@ -43,18 +43,11 @@ The program spans 10 hours split into two consecutive days
 
 ### August 5 (10:00 to 15:00 US East time)
 
-||      |
-||	talk |
-
-
-|   |  |
 | ------------- | ------------- |
 | 10:00  | Invited Talk  |
 | 10:40  | Contributed Talk  |
-
-10:50	Contributed talk
-
-11:00	Break
+| 10:50  |	Contributed talk |
+| 11:00  |  Break |
 
 11:15	Invited Talk
 11:55	Discussion Session
