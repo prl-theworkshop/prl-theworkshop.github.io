@@ -47,6 +47,10 @@ The program spans 10 hours split into two consecutive days
 |10:40|	Contributed talk |
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 10:50	Contributed talk
 
