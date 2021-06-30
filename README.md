@@ -59,7 +59,7 @@ The program spans 10 hours split into two consecutive days
 | 14:30  |	Contributed talk  |
 | 14:40  |	Discussion Session  |
 
-### August 6 (10:00 to 15:00 US East time)
+### August 6 (10:00 to 15:00 EST)
 
 | Time (EST) | | 
 | ------------- | ------------- |
