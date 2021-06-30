@@ -44,20 +44,20 @@ The program spans 10 hours split into two consecutive days
 ### August 5 (10:00 to 15:00 US East time)
 
 | | | 
+| ------------- | ------------- |
 | 10:00  | Invited Talk  |
 | 10:40  | Contributed Talk  |
-| 10:50  |	Contributed talk |
-| 11:00  |  Break |
-
-11:15	Invited Talk
-11:55	Discussion Session
-12:15	Posters
-13:15	Break
-13:30	Invited Talk: Peter Stone
-14:10	Contributed talk
-14:20	Contributed talk
-14:30	Contributed talk
-14:40	Discussion Session
+| 10:50  | Contributed talk |
+| 11:00  | Break |
+| 11:15  | Invited Talk  |
+| 11:55  |	Discussion Session  |
+| 12:15  |	Posters  |
+| 13:15  |	Break  |
+| 13:30  |	Invited Talk:  |
+| 14:10  |	Contributed talk  |
+| 14:20  |	Contributed talk  |
+| 14:30  |	Contributed talk  |
+| 14:40  |	Discussion Session  |
 
 ### August 6 (10:00 to 15:00 US East time)
 10:00	Invited Talk
