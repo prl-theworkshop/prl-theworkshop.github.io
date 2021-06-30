@@ -30,7 +30,7 @@ Submissions are invited for topics on, but not limited to:
 - [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
 
-## Program (subject to minor changes)
+## Program
 
 The event will be fully virtual, consisting of:
 
@@ -60,17 +60,20 @@ The program spans 10 hours split into two consecutive days
 | 14:40  |	Discussion Session  |
 
 ### August 6 (10:00 to 15:00 US East time)
-10:00	Invited Talk
-10:40	Contributed talk
-10:50	Contributed talk
-11:00	Contributed talk
-11:10 Discussion Session
-11:30	Break
-11:45 Invited Talk
-12:25	Contributed talk
-12:35	Contributed talk
-12:45 Contributed talk
-12:55	Discussion Session and Closing remarks
+
+| | | 
+| ------------- | ------------- |
+| 10:00 | Invited Talk |
+| 10:40 | Contributed talk |
+| 10:50 | Contributed talk |
+| 11:00 | Contributed talk |
+| 11:10 | Discussion Session |
+| 11:30 | Break |
+| 11:45 | Invited Talk |
+| 12:25 | Contributed talk |
+| 12:35 | Contributed talk |
+| 12:45 | Contributed talk |
+| 12:55 | Discussion Session and Closing remarks |
 
 ## Accepted papers
 
