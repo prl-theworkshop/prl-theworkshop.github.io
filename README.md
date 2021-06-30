@@ -40,16 +40,16 @@ Submissions are invited for topics on, but not limited to:
 The reference timezone for all deadlines is UTC-12.
 That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time!
 
-## Tentative program structure – fully virtual
+## Program (under construction)
 
-In general, the program will consist of the following kind of activities.
+The event will be fully virtual, consisting of:
 
 * Invited talks. 30m + 10m for Q&A.
 * Oral presentations for some papers. 8m + 2m for Q&A.
 * One poster session. 60m.
 * Discussion sessions. 20m.
 
-The program is span 10 hours split in two consecutive days in 4-6 August. A day of the program might as follows
+The program spans 10 hours split into two consecutive days
 
 * Invited talk – 40m
 * Oral talks – 20m
@@ -61,12 +61,6 @@ The program is span 10 hours split in two consecutive days in 4-6 August. A day 
 * Invited talk – 40m
 * Oral talks – 20m
 * Discussion – 20m
-
-Next updates to the program will include
-* Time slots and which days in 4-6 August.
-* Titles of invited talks.
-* Selected papers for oral presentations.
-* Discussion titles
 
 ## Accepted papers
 
