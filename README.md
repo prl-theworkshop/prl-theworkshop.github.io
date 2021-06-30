@@ -73,7 +73,7 @@ The program spans 10 hours split into two consecutive days
 | 12:25 | Contributed talk |
 | 12:35 | Contributed talk |
 | 12:45 | Contributed talk |
-| 12:55 | Discussion Session and Closing remarks |
+| 12:55 | Discussion Session and closing remarks |
 
 ## Accepted papers
 
