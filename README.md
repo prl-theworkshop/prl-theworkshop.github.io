@@ -30,7 +30,7 @@ Submissions are invited for topics on, but not limited to:
 - [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
 
-## Program
+## Program – to be confirmed
 
 The event will be fully virtual, consisting of:
 
