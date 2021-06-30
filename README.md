@@ -1,4 +1,4 @@
-# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – [Workshop at ICAPS 2021](https://icaps21.icaps-conference.org/workshops/PRL/)
+# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – [Workshop at ICAPS 2021 (August 4-6)](https://icaps21.icaps-conference.org/workshops/PRL/)
 
 ### This site presents the most up-to-date information about the workshop. Please, visit [ICAPS 2021](https://icaps21.icaps-conference.org/) for more general information.
 
