@@ -25,7 +25,7 @@ Submissions are invited for topics on, but not limited to:
 ## Invited Speakers
 
 - [Aviv Tamar](https://avivt.github.io/avivt/) – "Learning to Plan and Planning to Learn"
-- [Danijar Hafner](https://danijar.com)
+- [Danijar Hafner](https://danijar.com) - "General Agents through World Models"
 - [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 - [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
@@ -45,7 +45,7 @@ The program spans 10 hours split into two consecutive days
 
 | Time (EST) | | 
 | ------------- | ------------- |
-| 10:00  | Invited Talk  |
+| 10:00  | Invited Talk: Danijar Hafner. <em>General Agents through World Models</em>  |
 | 10:40  | Contributed talk: AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
 | 10:50  | Contributed talk: Efficient PAC Reinforcement Learning in Regular Decision Processes |
 | 11:00  | Break |
