@@ -46,17 +46,17 @@ The program spans 10 hours split into two consecutive days
 | Time (EST) | | 
 | ------------- | ------------- |
 | 10:00  | Invited Talk  |
-| 10:40  | Contributed Talk  |
-| 10:50  | Contributed talk |
+| 10:40  | Contributed talk: AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
+| 10:50  | Contributed talk: Efficient PAC Reinforcement Learning in Regular Decision Processes |
 | 11:00  | Break |
 | 11:15  | Invited Talk  |
 | 11:55  |	Discussion Session  |
 | 12:15  |	Posters  |
 | 13:15  |	Break  |
 | 13:30  |	Invited Talk:  |
-| 14:10  |	Contributed talk  |
-| 14:20  |	Contributed talk  |
-| 14:30  |	Contributed talk  |
+| 14:10  |	Contributed talk: Extending Graph Neural Networks for Generalized Stochastic Planning |
+| 14:20  |	Contributed talk: Online Learning of Generalised Linear Function Approximation in Relational MDPs |
+| 14:30  |	Contributed talk: RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
 | 14:40  |	Discussion Session  |
 
 ### August 6 (10:00-13:00 EST)
@@ -64,15 +64,15 @@ The program spans 10 hours split into two consecutive days
 | Time (EST) | | 
 | ------------- | ------------- |
 | 10:00 | Invited Talk |
-| 10:40 | Contributed talk |
-| 10:50 | Contributed talk |
-| 11:00 | Contributed talk |
+| 10:40 | Contributed talk: Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators |
+| 10:50 | Contributed talk: Domain-independent reward machines for modular integration of planning and learning |
+| 11:00 | Contributed talk: Neural Network Heuristic Functions for Classical Planning: Reinforcement Learning and Comparison to Other Methods |
 | 11:10 | Discussion Session |
 | 11:30 | Break |
 | 11:45 | Invited Talk |
-| 12:25 | Contributed talk |
-| 12:35 | Contributed talk |
-| 12:45 | Contributed talk |
+| 12:25 | Contributed talk: Neural Network Action Policy Verification via Predicate Abstraction |
+| 12:35 | Contributed talk: Debugging a Policy: A Framework for Automatic Action Policy Testing|
+| 12:45 | Contributed talk: AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training (Extended Abstract)|
 | 12:55 | Discussion Session and closing remarks |
 
 ## Accepted papers
