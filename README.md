@@ -30,7 +30,7 @@ Submissions are invited for topics on, but not limited to:
 - [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
 
-## Program – to be confirmed
+## Program outline
 
 The event will be fully virtual, consisting of:
 
@@ -39,9 +39,20 @@ The event will be fully virtual, consisting of:
 * One poster session. 60m.
 * Discussion sessions. 20m.
 
-The program spans 10 hours split into two consecutive days
+The **confirmed** time slots for the PRL workshops are:
 
-### August 5 (10:00-15:00 EST)
+* August 5th and 6th
+* Both days from 14h-19h GMT. That is
+	* 16h-21h CET, Central European Time.
+	* 10h-15h EST, US East time.
+
+These slots accommodate the time zone of 18 the 25 accepted papers.
+
+## Program details – DRAFT
+
+The order of the talks is likely to change.
+
+### August 5 (14h-19h GMT)
 
 | Time (EST) | | 
 | ------------- | ------------- |
@@ -59,7 +70,7 @@ The program spans 10 hours split into two consecutive days
 | 14:30  |	Contributed talk: RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
 | 14:40  |	Discussion Session  |
 
-### August 6 (10:00-13:00 EST)
+### August 6 (14h-19h GMT)
 
 | Time (EST) | | 
 | ------------- | ------------- |
@@ -77,31 +88,31 @@ The program spans 10 hours split into two consecutive days
 
 ## Accepted papers
 
-* Open-Loop Online Planning for F1 Race Strategy Identification ([PDF](prl2021/papers/PRL2021_paper_1.pdf))
-* SOLO: Search Online, Learn Offline for Combinatorial Optimization Problems ([PDF](prl2021/papers/PRL2021_paper_4.pdf))
-* RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction ([PDF](prl2021/papers/PRL2021_paper_5.pdf))
-* Neural Network Action Policy Verification via Predicate Abstraction ([PDF](prl2021/papers/PRL2021_paper_7.pdf))
-* A Reinforcement Learning Environment For Job-Shop Scheduling ([PDF](prl2021/papers/PRL2021_paper_9.pdf))
-* Learning Search Guidance from Failures with Eliminable Edge Sets ([PDF](prl2021/papers/PRL2021_paper_10.pdf))
-* First-Order Function Approximation for Transfer Learning in Relational MDPs ([PDF](prl2021/papers/PRL2021_paper_11.pdf))
-* AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training (Extended Abstract) ([PDF](prl2021/papers/PRL2021_paper_13.pdf))
-* Can Reinforcement Learning solve the Human Allocation Problem? ([PDF](prl2021/papers/PRL2021_paper_15.pdf))
-* Debugging a Policy: A Framework for Automatic Action Policy Testing ([PDF](prl2021/papers/PRL2021_paper_16.pdf))
-* Planning with Rolling Horizon Evolution using learned State Space Models ([PDF](prl2021/papers/PRL2021_paper_17.pdf))
-* Neural Network Heuristic Functions for Classical Planning: Reinforcement Learning and Comparison to Other Methods ([PDF](prl2021/papers/PRL2021_paper_20.pdf))
-* Discount Factor Estimation in a Model-Based Inverse Reinforcement Learning Framework ([PDF](prl2021/papers/PRL2021_paper_21.pdf))
-* Obtaining Approximately Admissible Heuristic Functions through Deep Reinforcement Learning and A* Search ([PDF](prl2021/papers/PRL2021_paper_23.pdf))
-* dcss ai wrapper: An API for Dungeon Crawl Stone Soup providing both Vector and Symbolic State Representations ([PDF](prl2021/papers/PRL2021_paper_24.pdf))
-* Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators ([PDF](prl2021/papers/PRL2021_paper_26.pdf))
-* A Generic Dialog Agent for Information Retrieval Based on Automated Planning Within a Reinforcement Learning Platform ([PDF](prl2021/papers/PRL2021_paper_28.pdf))
-* Scalable Risk-Sensitive Planning by Gradient Descent ([PDF](prl2021/papers/PRL2021_paper_30.pdf))
-* Extending Graph Neural Networks for Generalized Stochastic Planning ([PDF](prl2021/papers/PRL2021_paper_31.pdf))
-* Bounded-Suboptimal Search with Learned Heuristics ([PDF](prl2021/papers/PRL2021_paper_33.pdf))
-* Guiding Robot Exploration in Reinforcement Learning via Automated Planning: an Abstract ([PDF](prl2021/papers/PRL2021_paper_35.pdf))
-* AI Planning Annotation in Reinforcement Learning: Options and Beyond ([PDF](prl2021/papers/PRL2021_paper_36.pdf))
-* Efficient PAC Reinforcement Learning in Regular Decision Processes ([PDF](prl2021/papers/PRL2021_paper_37.pdf))
-* Domain-independent reward machines for modular integration of planning and learning ([PDF](prl2021/papers/PRL2021_paper_38.pdf))
-* Learning a Symbolic Planning Domain through the Interaction with Continuous Environments ([PDF](prl2021/papers/PRL2021_paper_39.pdf))
+* Open-Loop Online Planning for F1 Race Strategy Identification (Diego Piccinotti, Amarildo Likmeta, Nicolo Brunello and Marcello Restelli) ([PDF](prl2021/papers/PRL2021_paper_1.pdf))
+* SOLO: Search Online, Learn Offline for Combinatorial Optimization Problems (Joel Oren, Chana Ross, Maksym Lefarov, Felix Richter, Ayal Taitler, Zohar Feldman Zohar Feldman, Dotan Di Castro and Christian Daniel) ([PDF](prl2021/papers/PRL2021_paper_4.pdf))
+* RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction (Harsha Kokel, Arjun Manoharan, Sriraam Natarajan, Balaraman Ravindran and Prasad Tadepalli) ([PDF](prl2021/papers/PRL2021_paper_5.pdf))
+* Neural Network Action Policy Verification via Predicate Abstraction (Marcel Vinzent and Jörg Hoffmann) ([PDF](prl2021/papers/PRL2021_paper_7.pdf))
+* A Reinforcement Learning Environment For Job-Shop Scheduling (Pierre Tassel, Martin Gebser and Konstantin Schekotihin) ([PDF](prl2021/papers/PRL2021_paper_9.pdf))
+* Learning Search Guidance from Failures with Eliminable Edge Sets (Catherine Zeng and Tom Silver) ([PDF](prl2021/papers/PRL2021_paper_10.pdf))
+* First-Order Function Approximation for Transfer Learning in Relational MDPs (Jun Hao Alvin Ng and Ron Petrick) ([PDF](prl2021/papers/PRL2021_paper_11.pdf))
+* AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training (Extended Abstract) (Thiago D. Simão, Nils Jansen and Matthijs T. J. Spaan) ([PDF](prl2021/papers/PRL2021_paper_13.pdf))
+* Can Reinforcement Learning solve the Human Allocation Problem? (Phong Nguyen) ([PDF](prl2021/papers/PRL2021_paper_15.pdf))
+* Debugging a Policy: A Framework for Automatic Action Policy Testing (Marcel Steinmetz, Timo P. Gros, Philippe Heim, Daniel Höller and Joerg Hoffmann) ([PDF](prl2021/papers/PRL2021_paper_16.pdf))
+* Predictive Control Using Learned State Space Models via Rolling Horizon Evolution (Alvaro Ovalle and Simon Lucas) ([PDF](prl2021/papers/PRL2021_paper_17.pdf))
+* Neural Network Heuristics for Classical Planning: Reinforcement Learning and Comparison to Other Methods (Patrick Ferber, Florian Geißer, Felipe Trevizan, Malte Helmert and Joerg Hoffmann) ([PDF](prl2021/papers/PRL2021_paper_20.pdf))
+* Discount Factor Estimation in a Model-Based Inverse Reinforcement Learning Framework (Babatunde Giwa and Chi-Guhn Lee) ([PDF](prl2021/papers/PRL2021_paper_21.pdf))
+* Obtaining Approximately Admissible Heuristic Functions through Deep Reinforcement Learning and A* Search (Forest Agostinelli, Stephen McAleer, Alexander Shmakov, Roy Fox, Marco Valtorta, Biplav Srivastava and Pierre Baldi) ([PDF](prl2021/papers/PRL2021_paper_23.pdf))
+* dcss ai wrapper: An API for Dungeon Crawl Stone Soup providing both Vector and Symbolic State Representations (Dustin Dannenhauer, Zohreh A. Dannenhauer, Jonathon Decker, Adam Amos-Binks, Michael Floyd and David Aha) ([PDF](prl2021/papers/PRL2021_paper_24.pdf))
+* Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators (Clement Gehring, Masataro Asai, Rohan Chitnis, Tom Silver, Leslie Kaelbling, Shirin Sohrabi and Michael Katz) ([PDF](prl2021/papers/PRL2021_paper_26.pdf))
+* A Generic Dialog Agent for Information Retrieval Based on Automated Planning Within a Reinforcement Learning Platform (Vishal Pallagani and Biplav Srivastava) ([PDF](prl2021/papers/PRL2021_paper_28.pdf))
+* Scalable Risk-Sensitive Planning by Gradient Descent (Noah Patton, Jihwan Jeong, Michael Gimelfarb and Scott Sanner) ([PDF](prl2021/papers/PRL2021_paper_30.pdf))
+* Extending Graph Neural Networks for Generalized Stochastic Planning (Ziqi Zhang and Florian Geißer) ([PDF](prl2021/papers/PRL2021_paper_31.pdf))
+* Bounded-Suboptimal Search with Learned Heuristics (Matias Greco and Jorge A. Baier) ([PDF](prl2021/papers/PRL2021_paper_33.pdf))
+* Guiding Robot Exploration in Reinforcement Learning via Automated Planning: an Abstract (Yohei Hayamizu, Saeid Amiri, Kishan Chandan, Keiki Takadama and Shiqi Zhang) ([PDF](prl2021/papers/PRL2021_paper_35.pdf))
+* AI Planning Annotation in Reinforcement Learning: Options and Beyond (Junkyu Lee, Michael Katz, Don Joven Agravante, Miao Liu, Tim Klinger, Murray Campbell, Shirin Sohrabi and Gerald Tesauro) ([PDF](prl2021/papers/PRL2021_paper_36.pdf))
+* Efficient PAC Reinforcement Learning in Regular Decision Processes (Alessandro Ronca and Giuseppe De Giacomo) ([PDF](prl2021/papers/PRL2021_paper_37.pdf))
+* Domain-independent reward machines for modular integration of planning and learning (Giuseppe De Giacomo, Marco Favorito, Luca Iocchi and Fabio Patrizi) ([PDF](prl2021/papers/PRL2021_paper_38.pdf))
+* Learning a Symbolic Planning Domain through the Interaction with Continuous Environments (Elena Umili, Emanuele Antonioni, Francesco Riccio, Roberto Capobianco, Daniele Nardi and Giuseppe De Giacomo) ([PDF](prl2021/papers/PRL2021_paper_39.pdf))
 
 
 ## Submission Instructions
