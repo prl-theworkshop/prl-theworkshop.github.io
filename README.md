@@ -1,4 +1,4 @@
-# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – [Workshop at ICAPS 2021](https://icaps21.icaps-conference.org/workshops/PRL/)
+# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – [Workshop at ICAPS 2021 (August 5-6)](https://icaps21.icaps-conference.org/workshops/PRL/)
 
 ### This site presents the most up-to-date information about the workshop. Please, visit [ICAPS 2021](https://icaps21.icaps-conference.org/) for more general information.
 
@@ -25,48 +25,55 @@ Submissions are invited for topics on, but not limited to:
 ## Invited Speakers
 
 - [Aviv Tamar](https://avivt.github.io/avivt/) – "Learning to Plan and Planning to Learn"
-- [Danijar Hafner](https://danijar.com)
+- [Danijar Hafner](https://danijar.com) - "General Agents through World Models"
 - [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 - [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
 
-## Important Dates -- **ICAPS DATES CHANGED**
+## Program – to be confirmed
 
-- Submission deadline: April 21, 2021.
-- Notification date: May 14, 2021.
-- Camera-ready deadline: June 25, 2021. ––extended two weeks. Upload it through [EasyChair](https://easychair.org/conferences/?conf=prl2021).
-- Workshop date: August 4 - 6, 2021 (TBD).
-
-The reference timezone for all deadlines is UTC-12.
-That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time!
-
-## Tentative program structure – fully virtual
-
-In general, the program will consist of the following kind of activities.
+The event will be fully virtual, consisting of:
 
 * Invited talks. 30m + 10m for Q&A.
 * Oral presentations for some papers. 8m + 2m for Q&A.
 * One poster session. 60m.
 * Discussion sessions. 20m.
 
-The program is span 10 hours split in two consecutive days in 4-6 August. A day of the program might as follows
+The program spans 10 hours split into two consecutive days
 
-* Invited talk – 40m
-* Oral talks – 20m
-* Break – 10m
-* Invited talk – 40m
-* Discussion – 20m
-* Break – 10m
-* Poster session – 60m
-* Invited talk – 40m
-* Oral talks – 20m
-* Discussion – 20m
+### August 5 (10:00-15:00 EST)
 
-Next updates to the program will include
-* Time slots and which days in 4-6 August.
-* Titles of invited talks.
-* Selected papers for oral presentations.
-* Discussion titles
+| Time (EST) | | 
+| ------------- | ------------- |
+| 10:00  | Invited Talk:  |
+| 10:40  | Contributed talk: AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
+| 10:50  | Contributed talk: Efficient PAC Reinforcement Learning in Regular Decision Processes |
+| 11:00  | Break |
+| 11:15  | Invited Talk  |
+| 11:55  |	Discussion Session  |
+| 12:15  |	Posters  |
+| 13:15  |	Break  |
+| 13:30  |	Invited Talk:  |
+| 14:10  |	Contributed talk: Extending Graph Neural Networks for Generalized Stochastic Planning |
+| 14:20  |	Contributed talk: Online Learning of Generalised Linear Function Approximation in Relational MDPs |
+| 14:30  |	Contributed talk: RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
+| 14:40  |	Discussion Session  |
+
+### August 6 (10:00-13:00 EST)
+
+| Time (EST) | | 
+| ------------- | ------------- |
+| 10:00 | Invited Talk |
+| 10:40 | Contributed talk: Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators |
+| 10:50 | Contributed talk: Domain-independent reward machines for modular integration of planning and learning |
+| 11:00 | Contributed talk: Neural Network Heuristic Functions for Classical Planning: Reinforcement Learning and Comparison to Other Methods |
+| 11:10 | Discussion Session |
+| 11:30 | Break |
+| 11:45 | Invited Talk |
+| 12:25 | Contributed talk: Neural Network Action Policy Verification via Predicate Abstraction |
+| 12:35 | Contributed talk: Debugging a Policy: A Framework for Automatic Action Policy Testing|
+| 12:45 | Contributed talk: AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training (Extended Abstract)|
+| 12:55 | Discussion Session and closing remarks |
 
 ## Accepted papers
 
@@ -113,6 +120,16 @@ Paper submissions should be made through [EasyChair, https://easychair.org/confe
 Please send your inquiries by email to the organizers at [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com).
 
 For up-to-date information, please visit the [PRL website, https://prl-theworkshop.github.io](https://prl-theworkshop.github.io).
+
+
+## Important Dates
+
+- Submission deadline: April 21, 2021 (PASSED)
+- Notification date: May 14, 2021. (PASSED)
+- Camera-ready deadline: June 25, 2021. ––extended two weeks. Upload it through [EasyChair](https://easychair.org/conferences/?conf=prl2021). (PASSED)
+- Workshop date: August 4-6, 2021
+
+The reference timezone for all deadlines is UTC-12.
 
 ## Previous Edition
 
