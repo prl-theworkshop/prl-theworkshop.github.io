@@ -60,7 +60,7 @@ The order of the talks is likely to change.
 | 10:40  | Contributed talk: AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
 | 10:50  | Contributed talk: Efficient PAC Reinforcement Learning in Regular Decision Processes |
 | 11:00  | Break |
-| 11:15  | Invited Talk  |
+| 11:15  | Invited Talk: Elias Bareinboim |
 | 11:55  |	Discussion Session  |
 | 12:15  |	Posters  |
 | 13:15  |	Break  |
