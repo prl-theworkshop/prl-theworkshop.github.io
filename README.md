@@ -80,7 +80,7 @@ The order of the talks is likely to change.
 | 11:00 | Contributed talk: Neural Network Heuristic Functions for Classical Planning: Reinforcement Learning and Comparison to Other Methods |
 | 11:10 | Discussion Session |
 | 11:30 | Break |
-| 11:45 | Invited Talk |
+| 11:45 | Invited Talk: Elias Bareinboim |
 | 12:25 | Contributed talk: Neural Network Action Policy Verification via Predicate Abstraction |
 | 12:35 | Contributed talk: Debugging a Policy: A Framework for Automatic Action Policy Testing|
 | 12:45 | Contributed talk: AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training (Extended Abstract)|
