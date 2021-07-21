@@ -26,7 +26,8 @@ Submissions are invited for topics on, but not limited to:
 
 - [Aviv Tamar](https://avivt.github.io/avivt/) – "Learning to Plan and Planning to Learn"
 - [Danijar Hafner](https://danijar.com) - "General Agents through World Models"
-- [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
+- [Emma Brunskill](https://cs.stanford.edu/people/ebrun/) – "Careful Pessimism"
+   - Abstract: There is significant potential to better leverage historical data to improve future decision making, as in offline batch reinforcement learning. Pessimism with respect to quantified uncertainty has received significant recent interest in offline batch RL methods. I’ll present some of our recent work in this direction including pessimistic Bellman backup planning.
 - [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
 
@@ -52,7 +53,7 @@ These slots accommodate the time zone of 18 the 25 accepted papers.
 
 The order of the talks is likely to change.
 
-### August 5 (14h-19h GMT)
+### Thursday, August 5 (14h-19h GMT)
 
 | Time (EST) | | 
 | ------------- | ------------- |
@@ -60,17 +61,17 @@ The order of the talks is likely to change.
 | 10:40  | Contributed talk: AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
 | 10:50  | Contributed talk: Efficient PAC Reinforcement Learning in Regular Decision Processes |
 | 11:00  | Break |
-| 11:15  | Invited Talk: Elias Bareinboim |
+| 11:15  | Invited Talk:  |
 | 11:55  |	Discussion Session  |
 | 12:15  |	Posters  |
 | 13:15  |	Break  |
-| 13:30  |	Invited Talk:  |
+| 13:30  |	Invited Talk: Emma Brunskill. <em>Careful Pessimism</em>|
 | 14:10  |	Contributed talk: Extending Graph Neural Networks for Generalized Stochastic Planning |
 | 14:20  |	Contributed talk: Online Learning of Generalised Linear Function Approximation in Relational MDPs |
 | 14:30  |	Contributed talk: RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
 | 14:40  |	Discussion Session  |
 
-### August 6 (14h-19h GMT)
+### Friday, August 6 (14h-19h GMT)
 
 | Time (EST) | | 
 | ------------- | ------------- |
