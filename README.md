@@ -51,7 +51,7 @@ These slots accommodate the time zone of 18 the 25 accepted papers.
 
 ## Program details – DRAFT
 
-The order of the talks is likely to change.
+NB: The order of the _contributed_ talks is likely to change.
 
 ### Thursday, August 5 (14h-19h GMT)
 
