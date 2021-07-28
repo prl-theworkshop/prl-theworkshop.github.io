@@ -42,8 +42,8 @@ The event will be fully virtual, consisting of:
 
 The workshop program spans two days, August 5 and 6.
 
-* [Start at 14h GMT, 10h EST, 16h Central European time (CEST)](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=8&day=5&hour=14&min=0&sec=0&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
-* [Finish at 19h GMT, 15h EST, 21h Central European time (CEST)](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=8&day=4&hour=19&min=0&sec=0&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
+* [Starts at 14h GMT, 10h EST, 16h Central European time (CEST)](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=8&day=5&hour=14&min=0&sec=0&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
+* [Finishes at 19h GMT, 15h EST, 21h Central European time (CEST)](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=8&day=4&hour=19&min=0&sec=0&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
 * [Time conversion table](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210805&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
 
 ### Thursday, August 5.
