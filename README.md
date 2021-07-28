@@ -49,7 +49,7 @@ The workshop program spans two days, August 5 and 6.
 ### Thursday, August 5.
 
 | Time (EST) | | |
-| ------------- | ------------- | ------------- |
+| :---: | ------------------ | ------------- |
 | 10:00  | Invited Talk | [Danijar Hafner](https://danijar.com). <em>General Agents through World Models</em> |
 | 10:40  | Contributed talk | AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
 | 10:50  | Contributed talk | Efficient PAC Reinforcement Learning in Regular Decision Processes |
