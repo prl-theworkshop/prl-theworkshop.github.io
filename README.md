@@ -49,7 +49,7 @@ The workshop program spans two days, August 5 and 6.
 ### Thursday, August 5.
 
 | Time (EST) | | |
-| :---: | ------------------ | ------------- |
+| :---: | -------------------- | ------------- |
 | 10:00  | Invited Talk | [Danijar Hafner](https://danijar.com). <em>General Agents through World Models</em> |
 | 10:40  | Contributed talk | AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
 | 10:50  | Contributed talk | Efficient PAC Reinforcement Learning in Regular Decision Processes |
@@ -67,7 +67,7 @@ The workshop program spans two days, August 5 and 6.
 ### Friday, August 6.
 
 | Time (EST) | | |
-| ------------- | ------------- | ------------- |
+| :---: | -------------------- | ------------- |
 | 10:00 | Invited Talk | [André Barreto](https://www.lncc.br/~amsb/). <em>Value-Based Representation and Model Learning</em> |
 | 10:40 | Contributed talk | Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators |
 | 10:50 | Contributed talk | Domain-independent reward machines for modular integration of planning and learning |
