@@ -77,7 +77,7 @@ The workshop program spans two days, August 5 and 6.
 | 11:45 | Invited Talk | [Elias Bareinboim](https://causalai.net) |
 | 12:25 | Contributed talk | Neural Network Action Policy Verification via Predicate Abstraction |
 | 12:35 | Contributed talk | Debugging a Policy: A Framework for Automatic Action Policy Testing|
-| 12:45 | Contributed talk | AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training (Extended Abstract)|
+| 12:45 | Contributed talk | AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training |
 | 12:55 | Discussion Session | Next steps |
 | 13:05 | Closing remarks | |
 
