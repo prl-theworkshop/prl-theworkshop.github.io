@@ -31,7 +31,7 @@ Submissions are invited for topics on, but not limited to:
 - [André Barreto](https://www.lncc.br/~amsb/) – "Value-Based Representation and Model Learning"
 - [Elias Bareinboim](https://causalai.net)
 
-## Program outline
+## Schedule – confirmed
 
 The event will be fully virtual, consisting of:
 
@@ -39,19 +39,6 @@ The event will be fully virtual, consisting of:
 * Oral presentations for some papers. 8m + 2m for Q&A.
 * One poster session. 60m.
 * Discussion sessions. 20m.
-
-The **confirmed** time slots for the PRL workshops are:
-
-* August 5th and 6th
-* Both days from 14h-19h GMT. That is
-	* 16h-21h CET, Central European Time.
-	* 10h-15h EST, US East time.
-
-These slots accommodate the time zone of 18 the 25 accepted papers.
-
-## Program details – DRAFT
-
-NB: The order of the _contributed_ talks is likely to change.
 
 ### Thursday, August 5 (14h-19h GMT)
 
