@@ -40,8 +40,13 @@ The event will be fully virtual, consisting of:
 * One poster session. 60m.
 * Discussion sessions. 20m.
 
-### Thursday, August 5 (14h-19h GMT)
+The workshop program spans two days, August 5 and 6.
 
+* [Start at 14h GMT, 10h EST, 16h Central European time (CEST)](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=8&day=5&hour=14&min=0&sec=0&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
+* [Finish at 19h GMT, 15h EST, 21h Central European time (CEST)](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=8&day=4&hour=19&min=0&sec=0&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
+* [Time conversion table](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210805&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
+
+### Thursday, August 5.
 | Time (EST) | | 
 | ------------- | ------------- |
 | 10:00  | Invited Talk: [Danijar Hafner](https://danijar.com). <em>General Agents through World Models</em> |
@@ -58,7 +63,7 @@ The event will be fully virtual, consisting of:
 | 14:30  |	Contributed talk: RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
 | 14:40  |	Discussion Session: Safe, Risk-sensitive, and Robust Planning and RL |
 
-### Friday, August 6 (14h-19h GMT)
+### Friday, August 6.
 
 | Time (EST) | | 
 | ------------- | ------------- |
