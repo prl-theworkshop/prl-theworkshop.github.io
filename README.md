@@ -56,7 +56,7 @@ The workshop program spans two days, August 5 and 6.
 | 11:00  | Break | | 
 | 11:15  | Invited Talk | [Aviv Tamar](https://avivt.github.io/avivt/). <em>Learning to Plan and Planning to Learn</em> |
 | 11:55  |	Discussion Session | Abstractions in Planning & RL |
-| 12:15  |	Posters  | |
+| 12:15  |	Posters  | Gather.town |
 | 13:15  |	Break  | |
 | 13:30  |	Invited Talk | [Emma Brunskill](https://cs.stanford.edu/people/ebrun/). <em>Careful Pessimism</em>|
 | 14:10  |	Contributed talk | Extending Graph Neural Networks for Generalized Stochastic Planning |
