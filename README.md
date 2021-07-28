@@ -48,38 +48,38 @@ The workshop program spans two days, August 5 and 6.
 
 ### Thursday, August 5.
 
-| Time (EST) | | 
-| ------------- | ------------- |
-| 10:00  | Invited Talk: [Danijar Hafner](https://danijar.com). <em>General Agents through World Models</em> |
-| 10:40  | Contributed talk: AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
-| 10:50  | Contributed talk: Efficient PAC Reinforcement Learning in Regular Decision Processes |
-| 11:00  | Break |
-| 11:15  | Invited Talk: [Aviv Tamar](https://avivt.github.io/avivt/). <em>Learning to Plan and Planning to Learn</em> |
-| 11:55  |	Discussion Session: Abstractions in Planning & RL |
-| 12:15  |	Posters  |
-| 13:15  |	Break  |
-| 13:30  |	Invited Talk: [Emma Brunskill](https://cs.stanford.edu/people/ebrun/). <em>Careful Pessimism</em>|
-| 14:10  |	Contributed talk: Extending Graph Neural Networks for Generalized Stochastic Planning |
-| 14:20  |	Contributed talk: Online Learning of Generalised Linear Function Approximation in Relational MDPs |
-| 14:30  |	Contributed talk: RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
-| 14:40  |	Discussion Session: Safe, Risk-sensitive, and Robust Planning and RL |
+| Time (EST) | | |
+| ------------- | ------------- | ------------- |
+| 10:00  | Invited Talk | [Danijar Hafner](https://danijar.com). <em>General Agents through World Models</em> |
+| 10:40  | Contributed talk | AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
+| 10:50  | Contributed talk | Efficient PAC Reinforcement Learning in Regular Decision Processes |
+| 11:00  | Break | | 
+| 11:15  | Invited Talk | [Aviv Tamar](https://avivt.github.io/avivt/). <em>Learning to Plan and Planning to Learn</em> |
+| 11:55  |	Discussion Session | Abstractions in Planning & RL |
+| 12:15  |	Posters  | |
+| 13:15  |	Break  | |
+| 13:30  |	Invited Talk | [Emma Brunskill](https://cs.stanford.edu/people/ebrun/). <em>Careful Pessimism</em>|
+| 14:10  |	Contributed talk | Extending Graph Neural Networks for Generalized Stochastic Planning |
+| 14:20  |	Contributed talk | Online Learning of Generalised Linear Function Approximation in Relational MDPs |
+| 14:30  |	Contributed talk | RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
+| 14:40  |	Discussion Session | Safe, Risk-sensitive, and Robust Planning and RL |
 
 ### Friday, August 6.
 
-| Time (EST) | | 
-| ------------- | ------------- |
-| 10:00 | Invited Talk: [André Barreto](https://www.lncc.br/~amsb/). <em>Value-Based Representation and Model Learning</em> |
-| 10:40 | Contributed talk: Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators |
-| 10:50 | Contributed talk: Domain-independent reward machines for modular integration of planning and learning |
-| 11:00 | Contributed talk: Neural Network Heuristic Functions for Classical Planning: Reinforcement Learning and Comparison to Other Methods |
-| 11:10 | Discussion Session: Domain Generalization in Planning and RL|
-| 11:30 | Break |
-| 11:45 | Invited Talk: [Elias Bareinboim](https://causalai.net) |
-| 12:25 | Contributed talk: Neural Network Action Policy Verification via Predicate Abstraction |
-| 12:35 | Contributed talk: Debugging a Policy: A Framework for Automatic Action Policy Testing|
-| 12:45 | Contributed talk: AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training (Extended Abstract)|
-| 12:55 | Discussion Session: Next steps |
-| 13:05 | Closing remarks |
+| Time (EST) | | |
+| ------------- | ------------- | ------------- |
+| 10:00 | Invited Talk | [André Barreto](https://www.lncc.br/~amsb/). <em>Value-Based Representation and Model Learning</em> |
+| 10:40 | Contributed talk | Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators |
+| 10:50 | Contributed talk | Domain-independent reward machines for modular integration of planning and learning |
+| 11:00 | Contributed talk | Neural Network Heuristic Functions for Classical Planning | Reinforcement Learning and Comparison to Other Methods |
+| 11:10 | Discussion Session | Domain Generalization in Planning and RL|
+| 11:30 | Break | |
+| 11:45 | Invited Talk | [Elias Bareinboim](https://causalai.net) |
+| 12:25 | Contributed talk | Neural Network Action Policy Verification via Predicate Abstraction |
+| 12:35 | Contributed talk | Debugging a Policy: A Framework for Automatic Action Policy Testing|
+| 12:45 | Contributed talk | AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training (Extended Abstract)|
+| 12:55 | Discussion Session | Next steps |
+| 13:05 | Closing remarks | |
 
 ## Accepted papers – poster #
 
