@@ -47,6 +47,7 @@ The workshop program spans two days, August 5 and 6.
 * [Time conversion table](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20210805&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
 
 ### Thursday, August 5.
+
 | Time (EST) | | 
 | ------------- | ------------- |
 | 10:00  | Invited Talk: [Danijar Hafner](https://danijar.com). <em>General Agents through World Models</em> |
