@@ -82,9 +82,9 @@ The workshop program spans two days, August 5 and 6.
 | 12:45 | Contributed talk | AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training |
 | 12:55 | Discussion Session | Next steps |
 | 13:25 | Closing remarks | |
-| 13:30 | (Break) | |
-| 13:45 | (Optional Poster session) | |
-| 14:30 | (End of day) | |
+| 13:30 | (Optional) | Break |
+| 13:45 | (Optional) | Additional Poster session |
+| 14:30 | (Optional) | End of day |
 
 
 ## Accepted papers – poster #
