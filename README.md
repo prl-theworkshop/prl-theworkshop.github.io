@@ -63,6 +63,8 @@ The workshop program spans two days, August 5 and 6.
 | 14:20  |	Contributed talk | Online Learning of Generalised Linear Function Approximation in Relational MDPs |
 | 14:30  |	Contributed talk | RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
 | 14:40  |	Discussion Session | Safe, Risk-sensitive, and Robust Planning and RL |
+| 15:00 | End of day | |
+
 
 ### Friday, August 6.
 
@@ -79,7 +81,11 @@ The workshop program spans two days, August 5 and 6.
 | 12:35 | Contributed talk | Debugging a Policy: A Framework for Automatic Action Policy Testing|
 | 12:45 | Contributed talk | AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training |
 | 12:55 | Discussion Session | Next steps |
-| 13:05 | Closing remarks | |
+| 13:25 | Closing remarks | |
+| 13:30 | (Break) | |
+| 13:45 | (Optional Poster session) | |
+| 14:30 | (End of day) | |
+
 
 ## Accepted papers – poster #
 
