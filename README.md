@@ -60,8 +60,8 @@ The workshop program spans two days, August 5 and 6.
 | 13:15  |	Break  | |
 | 13:30  |	Invited Talk | [Emma Brunskill](https://cs.stanford.edu/people/ebrun/). <em>Careful Pessimism</em>|
 | 14:10  |	Contributed talk | Extending Graph Neural Networks for Generalized Stochastic Planning |
-| 14:20  |	Contributed talk | Online Learning of Generalised Linear Function Approximation in Relational MDPs |
-| 14:30  |	Contributed talk | RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction|
+| 14:20  |	Contributed talk | First-Order Function Approximation for Transfer Learning in Relational MDPs |
+| 14:30  |	Contributed talk | RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction |
 | 14:40  |	Discussion Session | Safe, Risk-sensitive, and Robust Planning and RL |
 | 15:00 | End of day | |
 
