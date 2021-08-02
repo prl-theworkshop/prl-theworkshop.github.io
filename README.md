@@ -87,9 +87,12 @@ The workshop program spans two days, August 5 and 6.
 | 14:30 | (Optional) | End of day |
 
 
-## Accepted papers – poster #
+## Accepted submissions: papers and poster #
 
-(Authors: The numbers below will be used for indicating the spot during the poster session. They are different from the Easychair ID). 
+* The numbers below will be used for indicating the spot during the poster session. (Authors, they are different from the EasyChair ID).
+* Some papers will no participate in the poster session, so they do no have a corresponding poster.
+
+Accepted submissions
 
 * #1: Efficient PAC Reinforcement Learning in Regular Decision Processes (Alessandro Ronca and Giuseppe De Giacomo) ([Paper PDF](prl2021/papers/PRL2021_paper_37.pdf)) ([Poster PDF](prl2021/posters/PRL2021_poster_37.pdf))
 * #2: Predictive Control Using Learned State Space Models via Rolling Horizon Evolution (Alvaro Ovalle and Simon Lucas) ([Paper PDF](prl2021/papers/PRL2021_paper_17.pdf)) ([Poster PDF](prl2021/posters/PRL2021_poster_17.pdf))
