@@ -24,7 +24,8 @@ Submissions are invited for topics on, but not limited to:
 
 ## Invited Speakers
 
-- [Aviv Tamar](https://avivt.github.io/avivt/) – "Learning to Plan and Planning to Learn"
+- [Aviv Tamar](https://avivt.github.io/avivt/) – "General Infomax Agents through World Models"
+	- Abstract: Deep reinforcement learning has enabled machines to solve complex control problems directly from high-dimensional camera inputs. However, these systems rely on carefully designed reward functions for specific tasks. On the other hand, humans learn about the world and perform complex behaviors without any external reward signal. In the first part of the talk, we categorize the space of possible objective functions for embodied agents. We show a spectrum that reaches from narrow to general objectives. While the narrow objectives correspond to external rewards as typically used in reinforcement learning today, the general objectives correspond to information maximization through world models. This explains unsupervised learning, perception, exploration, skill discovery, and control from a single principle. The second part of the talk highlights the progress we have made in implementing such general agents, from learning world models for planning from pixels to model-based skill discovery and planning to explore.
 - [Danijar Hafner](https://danijar.com) - "General Agents through World Models"
 - [Emma Brunskill](https://cs.stanford.edu/people/ebrun/) – "Careful Pessimism"
    - Abstract: There is significant potential to better leverage historical data to improve future decision making, as in offline batch reinforcement learning. Pessimism with respect to quantified uncertainty has received significant recent interest in offline batch RL methods. I’ll present some of our recent work in this direction including pessimistic Bellman backup planning.
