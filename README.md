@@ -32,7 +32,7 @@ Submissions are invited for topics on, but not limited to:
    - Abstract: There is significant potential to better leverage historical data to improve future decision making, as in offline batch reinforcement learning. Pessimism with respect to quantified uncertainty has received significant recent interest in offline batch RL methods. I’ll present some of our recent work in this direction including pessimistic Bellman backup planning.
 - [André Barreto](https://www.lncc.br/~amsb/) – "The value equivalence principle for model-based reinforcement learning"
 	- Abstract: It has long been argued that, in order for reinforcement learning agents to solve truly complex tasks, they must build a model of the environment that allows for counterfactual reasoning. Since representing the world in all its complexity is a hopeless endeavor, especially under capacity constraints, the agent must be able to ignore aspects of the environment that are irrelevant for its purposes. This is the premise behind the value equivalence principle, which provides a formalism for focusing on the aspects of the environment that are crucial for value-based planning. In this talk I will introduce the value equivalence principle, describe some of its theoretical properties, and discuss how it can be applied in practice. I will also show experiments comparing value equivalence with more conventional model-learning techniques.
-- [Elias Bareinboim](https://causalai.net)
+- [Elias Bareinboim](https://causalai.net) – ""Towards Causal Reinforcement Learning"
 
 ## Schedule – confirmed
 
@@ -56,7 +56,7 @@ The workshop program spans two days, August 5 and 6.
 | 10:00  | Invited Talk | [Danijar Hafner](https://danijar.com). <em>General Agents through World Models</em> |
 | 10:40  | Contributed talk | AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
 | 10:50  | Contributed talk | Efficient PAC Reinforcement Learning in Regular Decision Processes |
-| 11:00  | Break | | 
+| 11:00  | Break | |
 | 11:15  | Invited Talk | [Aviv Tamar](https://avivt.github.io/avivt/). <em>Learning to Plan and Planning to Learn</em> |
 | 11:55  |	Discussion Session | Abstractions in Planning & RL |
 | 12:15  |	Posters  | Gather.town |
