@@ -79,7 +79,7 @@ The workshop program spans two days, August 5 and 6.
 | 11:00 | Contributed talk | Neural Network Heuristic Functions for Classical Planning : Reinforcement Learning and Comparison to Other Methods |
 | 11:10 | Discussion Session | Domain Generalization in Planning and RL|
 | 11:30 | Break | |
-| 11:45 | Invited Talk | [Elias Bareinboim](https://causalai.net) |
+| 11:45 | Invited Talk | [Elias Bareinboim](https://causalai.net). <em>Towards Causal Reinforcement Learning</em>|
 | 12:25 | Contributed talk | Neural Network Action Policy Verification via Predicate Abstraction |
 | 12:35 | Contributed talk | Debugging a Policy: A Framework for Automatic Action Policy Testing|
 | 12:45 | Contributed talk | AlwaysSafe: Reinforcement Learning without Safety Constraint Violations during Training |
