@@ -73,7 +73,7 @@ The workshop program spans two days, August 5 and 6.
 
 | Time (EST) | | Title |
 | :---: | -------------------- | ------------- |
-| 10:00 | Invited Talk | [André Barreto](https://www.lncc.br/~amsb/). <em>Value-Based Representation and Model Learning</em> |
+| 10:00 | Invited Talk | [André Barreto](https://www.lncc.br/~amsb/). <em>The value equivalence principle for model-based reinforcement learning</em> |
 | 10:40 | Contributed talk | Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators |
 | 10:50 | Contributed talk | Domain-independent reward machines for modular integration of planning and learning |
 | 11:00 | Contributed talk | Neural Network Heuristic Functions for Classical Planning : Reinforcement Learning and Comparison to Other Methods |
