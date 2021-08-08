@@ -24,6 +24,8 @@ Submissions are invited for topics on, but not limited to:
 
 ## Invited Speakers
 
+[Videos of the invited talks](https://youtube.com/playlist?list=PL92l-Yigsz0tfBoq94xFSgRuHNsweeEeh) – to be released soon.
+
 - [Danijar Hafner](https://danijar.com) - "General Infomax Agents through World Models"
 	- Abstract: Deep reinforcement learning has enabled machines to solve complex control problems directly from high-dimensional camera inputs. However, these systems rely on carefully designed reward functions for specific tasks. On the other hand, humans learn about the world and perform complex behaviors without any external reward signal. In the first part of the talk, we categorize the space of possible objective functions for embodied agents. We show a spectrum that reaches from narrow to general objectives. While the narrow objectives correspond to external rewards as typically used in reinforcement learning today, the general objectives correspond to information maximization through world models. This explains unsupervised learning, perception, exploration, skill discovery, and control from a single principle. The second part of the talk highlights the progress we have made in implementing such general agents, from learning world models for planning from pixels to model-based skill discovery and planning to explore.
 - [Aviv Tamar](https://avivt.github.io/avivt/) – "Learning to Plan and Planning to Learn"
@@ -51,9 +53,11 @@ The workshop program spans two days, August 5 and 6.
 
 ### Thursday, August 5.
 
+[Videos of the contributed talks](https://youtube.com/playlist?list=PL92l-Yigsz0u0AtRr67QJ-8gcnReGgzfw)
+
 | Time (EST) | | Title |
 | :---: | -------------------- | ------------- |
-| 10:00  | Invited Talk | [Danijar Hafner](https://danijar.com). <em>General Agents through World Models</em> |
+| 10:00  | Invited Talk | [Danijar Hafner](https://danijar.com). <em>General Infomax Agents through World Models</em> |
 | 10:40  | Contributed talk | AI Planning Annotation in Reinforcement Learning: Options and Beyond  |
 | 10:50  | Contributed talk | Efficient PAC Reinforcement Learning in Regular Decision Processes |
 | 11:00  | Break | |
@@ -70,6 +74,8 @@ The workshop program spans two days, August 5 and 6.
 
 
 ### Friday, August 6.
+
+[Videos of the contributed talks](https://youtube.com/playlist?list=PL92l-Yigsz0u0AtRr67QJ-8gcnReGgzfw)
 
 | Time (EST) | | Title |
 | :---: | -------------------- | ------------- |
@@ -94,6 +100,8 @@ The workshop program spans two days, August 5 and 6.
 
 * The numbers below will be used for indicating the spot during the poster session. (Authors, they are different from the EasyChair ID).
 * Some papers will no participate in the poster session, so they do no have a corresponding poster.
+
+[Videos of the contributed talks](https://youtube.com/playlist?list=PL92l-Yigsz0u0AtRr67QJ-8gcnReGgzfw)
 
 Accepted submissions
 
