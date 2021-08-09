@@ -1,5 +1,5 @@
 #!/bin/bash
-PREFIX="../papers/PRL2021_paper_ ../videos/PRL2021_video_ ../posters/PRL2021_poster_"
+PREFIX="../papers/PRL2021_paper_ ../videos/PRL2021_video_ ../posters/PRL2021_poster_ ../slides/PRL2021_slides_"
 usage() {
   echo Usage: $0 '(-c | -o)' '<easychair id>'
   echo '-c': check if file exists
