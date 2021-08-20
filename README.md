@@ -164,9 +164,9 @@ The reference timezone for all deadlines is UTC-12.
 
 ## Organizers
 
-- [Alan Fern](http://web.engr.oregonstate.edu/~afern/)
+- [Hector Palacios](http://hectorpalacios.net/) – chair
 - [Vicenç Gómez](https://www.upf.edu/web/vgomez)
+- [Scott Sanner](http://d3m.mie.utoronto.ca)
 - [Anders Jonsson](https://www.upf.edu/web/anders-jonsson)
 - [Andrey Kolobov](https://www.microsoft.com/en-us/research/people/akolobov/)
-- [Hector Palacios](http://hectorpalacios.net/) – chair
-- [Scott Sanner](http://d3m.mie.utoronto.ca)
+- [Alan Fern](http://web.engr.oregonstate.edu/~afern/)
