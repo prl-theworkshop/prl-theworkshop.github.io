@@ -45,7 +45,7 @@ Please format submissions in AAAI style (see instructions in the [Author Kit 202
 
 Some accepted long papers will be accepted as contributed talks. All accepted long and short papers and extended abstracts will be given a slot in the poster presentation session. Extended abstracts are intended as brief summaries of already published papers (a reference to the publication is expected), preliminary work, position papers or challenges that might help bridge the gap.
 
-Paper submissions should be made through EasyChair.
+Paper submissions should be made through [EasyChair][https://easychair.org/my/conference?conf=prl20220#].
 
 Please send your inquiries by email to the organizers at [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com).
 
