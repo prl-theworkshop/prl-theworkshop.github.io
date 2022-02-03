@@ -83,7 +83,7 @@ Please send your inquiries by email to the organizers at [prl.theworkshop@gmail.
 For up-to-date information, please visit the [PRL website, https://prl-theworkshop.github.io](https://prl-theworkshop.github.io).
 
 
-## Previous Edition
+## Previous Editions
 
 - [PRL @ ICAPS 2021](https://prl-theworkshop.github.io/prl2021/)
 - [PRL @ ICAPS 2020](https://prl-theworkshop.github.io/icaps20subpages.icaps-conference.org/workshops/prl/)
