@@ -76,7 +76,7 @@ might help bridge the gap.
 As the main purpose  of this workshop is to solicit  discussion, the authors are
 invited to use the appendix of their submissions for that purpose.
 
-[Paper submissions should be made through EasyChair][https://easychair.org/my/conference?conf=prl20220].
+[Paper submissions should be made through EasyChair](https://easychair.org/my/conference?conf=prl20220).
 
 Please send your inquiries by email to the organizers at [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com).
 
