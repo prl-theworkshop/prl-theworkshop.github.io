@@ -48,7 +48,7 @@ Submissions are invited for topics on, but not limited to:
 * Submission deadline: Friday, May 13th, 2022 (UTC-12 timezone)
 * Notification date: Friday, June 3rd, 2022
 * Camera-ready deadline: Friday, June 17th, 2022
-* Workshop date: July 23-25 (TBD), 2022
+* Workshop date: Vienna, July 23-25 (TBD), 2022
 
 # Program - TBD
 

@@ -55,7 +55,7 @@ Submissions are invited for topics on, but not limited to:
 * Submission deadline: Friday, April 1st, 2022 (UTC-12 timezone)
 * Notification date: Friday, April 29th, 2022
 * Camera-ready deadline: Friday 10 June, 2022
-* Workshop date: June 14-17(TBD), 2022
+* Workshop date: Virtual, June 14-17(TBD), 2022
 
 # Program - TBD
 
