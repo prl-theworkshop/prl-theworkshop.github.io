@@ -1,6 +1,15 @@
-# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – [Workshop at ICAPS 2022 (June 20-21)](http://icaps22.icaps-conference.org/)
+# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL @ ICAPS) – [Workshop at ICAPS 2022 (June 20-21)](http://icaps22.icaps-conference.org/)
 
-### This site presents the most up-to-date information about the PRL workshop. Please, visit [ICAPS 2022](http://icaps22.icaps-conference.org) for information about the general conference.
+### This site presents the most up-to-date information about the PRL @ ICAPS workshop. Please, visit [ICAPS 2022](http://icaps22.icaps-conference.org) for information about the general conference.
+
+NEWS: This year the PRL workshop will have two editions:
+The first one at ICAPS 2022, and the second one at IJCAI 2022.
+PRL@ICAPS  authors  will be given the opportunity  to  specify
+whether  they  want  their  submission to  be  considered  for
+PRL@IJCAI as well.  The final decision will be made separately
+for each of the workshop locations.
+Please see the website for additional information on the two
+editions.
 
 While  AI  Planning and  Reinforcement  Learning  communities focus  on  similar
 sequential decision-making  problems, these communities remain  somewhat unaware
@@ -27,25 +36,26 @@ long as the connections are *clearly articulated* in the submission.
 
 Submissions are invited for topics on, but not limited to:
 
+* Theoretical aspects of planning and reinforcement learning
+* Goal-oriented sequential decision methods combining planning, RL
+ or other ML methods.
 * Goal-directed reinforcement learning (model-based, Bayesian, deep, etc.)
 * Safe Reinforcement Learning and Planning
+* Certification/analysis of learned policies/models
+* Planning using approximated/uncertain (learned) models
 * Monte Carlo Planning
 * Learning search heuristics for planner guidance
 * Model representation and learning for planning
-* Planning using approximated/uncertain (learned) models
-* Theoretical aspects of planning and reinforcement learning
-* Action policy analysis or certification
-* Reinforcement Learning and planning competition(s)
 * Applications of both reinforcement learning and planning
 * Various levels of generalization (across goals, objects/domain, domains)
-* Goal-oriented sequential decision methods combining planning, RL or other ML methods.
+* Reinforcement Learning and planning competition(s)
 
 # Important Dates
 
-* Submission deadline: Friday 18 March, 2022 (UTC-12 timezone)
-* Notification date: Friday April 15th, 2022
+* Submission deadline: Friday, April 1st, 2022 (UTC-12 timezone)
+* Notification date: Friday, April 29th, 2022
 * Camera-ready deadline: Friday 10 June, 2022
-* Workshop date: June 20 or 21 (TBD), 2022
+* Workshop date: June 14-17(TBD), 2022
 
 # Program - TBD
 
@@ -63,9 +73,9 @@ following types:
 
 Please format submissions  in AAAI style (see instructions in [Author Kit 2021 at AAAI, http://www.aaai.org/Publications/Templates/AuthorKit22.zip](http://www.aaai.org/Publications/Templates/AuthorKit22.zip)). Authors considering
 submitting to the workshop papers rejected from other conferences, please ensure
-you  do  your  utmost to  address  the  comments given  by the reviewers. Please
-do  not submit papers that are already accepted for the main ICAPS conference to
-the workshop.
+you  do  your  utmost to  address  the  comments given  by the reviewers. Papers
+accepted to the main ICAPS conference may be considered in the extended abstract
+form.
 
 Some accepted long  papers will be accepted as contributed  talks.  All accepted
 long and short papers and extended abstracts  will be given a slot in the poster
