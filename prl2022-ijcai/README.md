@@ -94,3 +94,7 @@ For up-to-date information, please visit the [PRL website, https://prl-theworksh
 - [Michael Katz](https://resedit.watson.ibm.com/researcher/view.php?person=ibm-Michael.Katz1), IBM T.J. Watson Research Center, NY, USA
 - [Hector Palacios](http://hectorpalacios.net/), ServiceNow Research, Montreal, Canada
 - [Vicenç Gómez](https://www.upf.edu/web/vgomez), Universitat Pompeu Fabra, Barcelona, Spain
+
+## Sponsor
+
+![ServiceNow Research](servicenow-logo.jpg)
