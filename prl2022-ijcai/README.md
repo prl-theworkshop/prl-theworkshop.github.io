@@ -97,4 +97,4 @@ For up-to-date information, please visit the [PRL website, https://prl-theworksh
 
 ## Sponsor
 
-<img src="servicenow-logo.jpg" width="300" height="auto">
+<img src="servicenow-logo.jpg" width="70%" height="auto">
