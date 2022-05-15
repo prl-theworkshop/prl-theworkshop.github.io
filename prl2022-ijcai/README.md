@@ -45,10 +45,12 @@ Submissions are invited for topics on, but not limited to:
 # Important Dates
 
 * Submission system opened: Friday, April 29th, 2022 (UTC-12 timezone)
-* Submission deadline: Friday, May 13th, 2022 (UTC-12 timezone)
+* Submission deadline (Extended): Friday, May 22th, 2022 (UTC-12 timezone)
 * Notification date: Friday, June 3rd, 2022
 * Camera-ready deadline: Friday, June 17th, 2022
 * Workshop date: Vienna, July 23-25 (TBD), 2022
+
+IJCAI will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
 # Program - TBD
 
@@ -67,6 +69,8 @@ following types:
 Please format submissions  in AAAI style (see instructions in [Author Kit 2021 at AAAI, http://www.aaai.org/Publications/Templates/AuthorKit22.zip](http://www.aaai.org/Publications/Templates/AuthorKit22.zip)). Authors considering
 submitting to the workshop papers rejected from other conferences, please ensure
 you  do  your  utmost to  address  the  comments given  by the reviewers.
+
+**New**: NeurIPS format is also accepted with the same number of pages and references as the call-for-papers for the main-track. 
 
 Some accepted long  papers will be accepted as contributed  talks.  All accepted
 long and short papers and extended abstracts  will be given a slot in the poster
