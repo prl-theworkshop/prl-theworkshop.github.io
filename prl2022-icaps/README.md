@@ -89,7 +89,7 @@ The workshop June 13
 |   | *GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following* |
 |   | *Hierarchies of Reward Machines* |
 |   | *A Proposal to Generate Planning Problems with Graph Neural Networks* |
-|   | Break + ``Poster'' Discussion | 
+|   | Break + "Poster" Discussion | 
 | 15:30  | Invited talk: Sergey Levine |  
 | 16:20  | Short Break | 
 | 16:30  | **SESSION 2** |
@@ -100,7 +100,7 @@ The workshop June 13
 |   | *Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems* |
 |   | *Model-Based Adaptation to Novelty in Open-World AI* |
 |  | *POGEMA: Partially Observable Grid Environment for Multiple Agents* |
-|   | Break + ``Poster'' Discussion | 
+|   | Break + "Poster" Discussion | 
 | 19:00  | Invited talk: Subbarao Kambhampati |   
 | 19:50  | Dicsussion and Closing remarks | 
 
