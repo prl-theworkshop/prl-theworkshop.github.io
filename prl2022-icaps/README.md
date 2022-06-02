@@ -64,9 +64,9 @@ Submissions are invited for topics on, but not limited to:
 The event will be fully virtual, consisting of:
 
 * Invited talks. 40m + 10-20m for Q&A.
-* Oral presentations for some papers. 6m + 1m for Q&A.
-* Two posters sessions. 60m.
-* One Discussion session. 20m.
+* Short presentations for accepted papers. 6m + 1m for Q&A.
+* Two Discussions sessions. 90m.
+* One Informal Panel session. 20m.
 
 The workshop June 13
 
@@ -79,7 +79,7 @@ The workshop June 13
 | Time (EST) | Title |
 | :---: | -------------------- | 
 | 14:00  | Opening Remarks | 
-| 14:05  | Invited Talk |  
+| 14:05  | Invited Talk: Veronique Ventos |  
 | 14:55  | Short Break |
 | 15:00  | **SESSION 1** |
 |   | *PG3: Policy-Guided Planning for Generalized Policy Generation* |
@@ -91,9 +91,9 @@ The workshop June 13
 |   | *Hierarchies of Reward Machines* |
 |   | *A Proposal to Generate Planning Problems with Graph Neural Networks* |
 |   | Break + posters and discussion | 
-| 17:30  | Invited talk |  
+| 17:30  | Invited talk: Sergey Levine |  
 | 19:20  | Short Break | 
-| 19:30  | **Session 2** |
+| 19:30  | **SESSION 2** |
 |       | *Learning First-Order Symbolic Planning Representations That Are Grounded* |
 |   | *Action Space Reduction for Planning Domains* |
 |  | *Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity* |
@@ -102,7 +102,7 @@ The workshop June 13
 |   | *Model-Based Adaptation to Novelty in Open-World AI* |
 |  | *POGEMA: Partially Observable Grid Environment for Multiple Agents* |
 | 20:20  | Break + posters and discussion | 
-| 21:00  | Invited talk |   
+| 21:00  | Invited talk: Subbarao Kambhampati |   
 | 21:50  | Discussion and Closing remarks | 
 
 ## Accepted submissions:
