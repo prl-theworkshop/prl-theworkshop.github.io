@@ -76,7 +76,7 @@ The workshop June 13
 
 [Videos of the contributed talks.]()
 
-| Time (EST) | | Title |
+| Time (EST) | Title |
 | :---: | -------------------- | 
 | 14:00  | Block I |
 | 14:00  | Opening Remarks | 
