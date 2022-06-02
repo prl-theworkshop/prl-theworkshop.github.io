@@ -54,9 +54,9 @@ Submissions are invited for topics on, but not limited to:
 
 ## Invited Speakers
 
-Veronique Ventos
-Sergey Levine
-Subbarao Kambhampati
+* Veronique Ventos
+* Sergey Levine
+* Subbarao Kambhampati
 
 ## (Preliminary) Program
 
