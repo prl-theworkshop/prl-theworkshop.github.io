@@ -78,7 +78,7 @@ The workshop June 13
 
 | Time (EST) | Title |
 | :---: | -------------------- | 
-| 14:00  | Block I |
+| 14:00  | <span style="color:blue">Block I</span> |
 | 14:00  | Opening Remarks | 
 | 14:05  | Invited Talk |  
 | 14:55  | Short Break |
