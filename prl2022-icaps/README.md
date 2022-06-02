@@ -75,12 +75,12 @@ The workshop June 13
 
 [Videos of the contributed talks.]()
 
-| Time (EST) | Title |
+| Time (UTC) | Title |
 | :---: | -------------------- | 
-| 14:00  | Opening Remarks | 
-| 14:05  | Invited Talk: Veronique Ventos |  
-| 14:55  | Short Break |
-| 15:00  | **SESSION 1** |
+| 12:00  | Opening Remarks | 
+| 12:05  | Invited Talk: Veronique Ventos |  
+| 12:55  | Short Break |
+| 13:00  | **SESSION 1** |
 |   | *PG3: Policy-Guided Planning for Generalized Policy Generation* |
 |   | *Goal Recognition as Reinforcement Learning* |
 |   | *Learning Generalized Policies Without Supervision Using GNNs* |
@@ -90,9 +90,9 @@ The workshop June 13
 |   | *Hierarchies of Reward Machines* |
 |   | *A Proposal to Generate Planning Problems with Graph Neural Networks* |
 |   | Break + ``Poster'' Discussion | 
-| 17:30  | Invited talk: Sergey Levine |  
-| 19:20  | Short Break | 
-| 19:30  | **SESSION 2** |
+| 15:30  | Invited talk: Sergey Levine |  
+| 16:20  | Short Break | 
+| 16:30  | **SESSION 2** |
 |       | *Learning First-Order Symbolic Planning Representations That Are Grounded* |
 |   | *Action Space Reduction for Planning Domains* |
 |  | *Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity* |
@@ -100,9 +100,9 @@ The workshop June 13
 |   | *Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems* |
 |   | *Model-Based Adaptation to Novelty in Open-World AI* |
 |  | *POGEMA: Partially Observable Grid Environment for Multiple Agents* |
-| 20:20  | Break + ``Poster'' Discussion | 
-| 21:00  | Invited talk: Subbarao Kambhampati |   
-| 21:50  | Dicsussion and Closing remarks | 
+|   | Break + ``Poster'' Discussion | 
+| 19:00  | Invited talk: Subbarao Kambhampati |   
+| 19:50  | Dicsussion and Closing remarks | 
 
 ## Accepted submissions:
 
