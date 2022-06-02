@@ -107,21 +107,21 @@ The workshop June 13
 
 ## Accepted submissions:
 
-*	Goal Recognition as Reinforcement Learning
-*	Learning First-Order Symbolic Planning Representations That Are Grounded
-*	Action Space Reduction for Planning Domains
-*	Learning Generalized Policies Without Supervision Using GNNs
-*	Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity
-*	State Representation Learning for Goal-Conditioned Reinforcement Learning
-*	PG3: Policy-Guided Planning for Generalized Policy Generation
-*	Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems
-*	Learning Domain-Independent Policies for Open List Selection
-*	World Value Functions: Knowledge Representation for Learning and Planning
-*	GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following
-*	Hierarchies of Reward Machines
-*	Model-Based Adaptation to Novelty in Open-World AI
-*	POGEMA: Partially Observable Grid Environment for Multiple Agents
-*	A Proposal to Generate Planning Problems with Graph Neural Networks
+*	Goal Recognition as Reinforcement Learning (L.~R. Amado, R. Mirsky and F. Meneguzzi)
+*	Learning First-Order Symbolic Planning Representations That Are Grounded (A. Occhipinti, B. Bonet and H. Geffner)
+*	Action Space Reduction for Planning Domains (H. Kokel, J. Lee, M. Katz, S. Sohrabi and K. Srinivas)
+*	Learning Generalized Policies Without Supervision Using GNNs (S. Ståhlberg, B. Bonet and H. Geffner)
+*	Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity (L. Guan, S. Sreedharan and S. Kambhampati)
+*	State Representation Learning for Goal-Conditioned Reinforcement Learning (L. Steccanella and A. Jonsson)
+*	PG3: Policy-Guided Planning for Generalized Policy Generation (R. Yang, T. Silver, A. Curtis, T. Lozano-Perez and L. Kaelbling)
+*	Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems (R. Karia and S. Srivastava)
+*	Learning Domain-Independent Policies for Open List Selection (A. Biedenkapp, D. Speck, S. Sievers, F. Hutter, M. Lindauer and J. Seipp)
+*	World Value Functions: Knowledge Representation for Learning and Planning (G.-N. Tasse, B. Rosman and S. James)
+*	GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following (S. Sharma, J. Gupta, S. Tuli, R. Paul and Mausam)
+*	Hierarchies of Reward Machines (D. Furelos-Blanco, M. Law, A. Jonsson, K. Broda and A. Russo)
+*	Model-Based Adaptation to Novelty in Open-World AI (R. Stern, W. Piotrowski, M. Klenk, J. de Kleer, A. Perez, J. Le and S. Mohan)
+*	POGEMA: Partially Observable Grid Environment for Multiple Agents (A, Skrynnik, A. Andreychuk, K. Yakovlev and A. I. Panov) 
+*	A Proposal to Generate Planning Problems with Graph Neural Networks (C. Núñez-Molina, P. Mesejo and J. Fernández-Olivares)
 
 
 ## Important Dates
