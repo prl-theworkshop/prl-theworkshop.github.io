@@ -105,11 +105,23 @@ The workshop June 13
 | 21:00  | Invited talk |   
 | 21:50  | Discussion and Closing remarks | 
 
-## Accepted submissions: papers and poster #
+## Accepted submissions:
 
-* The numbers below will be used for indicating the spot during the poster session. (Authors, they are different from the EasyChair ID).
-* Some papers will no participate in the poster session, so they do no have a corresponding poster.
-
+*	Goal Recognition as Reinforcement Learning
+*	Learning First-Order Symbolic Planning Representations That Are Grounded
+*	Action Space Reduction for Planning Domains
+*	Learning Generalized Policies Without Supervision Using GNNs
+*	Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity
+*	State Representation Learning for Goal-Conditioned Reinforcement Learning
+*	PG3: Policy-Guided Planning for Generalized Policy Generation
+*	Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems
+*	Learning Domain-Independent Policies for Open List Selection
+*	World Value Functions: Knowledge Representation for Learning and Planning
+*	GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following
+*	Hierarchies of Reward Machines
+*	Model-Based Adaptation to Novelty in Open-World AI
+*	POGEMA: Partially Observable Grid Environment for Multiple Agents
+*	A Proposal to Generate Planning Problems with Graph Neural Networks
 
 
 ## Important Dates
