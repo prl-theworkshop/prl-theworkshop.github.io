@@ -122,11 +122,10 @@ The workshop June 13
 *	POGEMA: Partially Observable Grid Environment for Multiple Agents (A, Skrynnik, A. Andreychuk, K. Yakovlev and A. I. Panov) 
 *	A Proposal to Generate Planning Problems with Graph Neural Networks (C. Núñez-Molina, P. Mesejo and J. Fernández-Olivares)
 
-
 ## Important Dates
 
-* Submission deadline: Friday, April 1st, 2022 (UTC-12 timezone)
-* Notification date: Friday, April 29th, 2022
+* ~~Submission deadline: Friday, April 1st, 2022 (UTC-12 timezone)
+* ~~Notification date: Friday, April 29th, 2022
 * Camera-ready deadline: Friday 10 June, 2022
 * Workshop date: Virtual, June 14-17(TBD), 2022
 
