@@ -60,13 +60,12 @@ Submissions are invited for topics on, but not limited to:
 
 ## (Preliminary) Program
 
-
 The event will be fully virtual, consisting of:
 
 * Invited talks. 40m + 10-20m for Q&A.
 * Short presentations for accepted papers. 6m + 1m for Q&A.
-* Two Discussions sessions. 90m.
-* One Informal Panel session. 20m.
+* Two Grouped Discussions (Virtual Poster) sessions. 90m.
+* One Plenary Discussion session. 20m.
 
 The workshop June 13
 
@@ -90,7 +89,7 @@ The workshop June 13
 |   | *GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following* |
 |   | *Hierarchies of Reward Machines* |
 |   | *A Proposal to Generate Planning Problems with Graph Neural Networks* |
-|   | Break + posters and discussion | 
+|   | Break + ``Poster'' Discussion | 
 | 17:30  | Invited talk: Sergey Levine |  
 | 19:20  | Short Break | 
 | 19:30  | **SESSION 2** |
@@ -101,9 +100,9 @@ The workshop June 13
 |   | *Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems* |
 |   | *Model-Based Adaptation to Novelty in Open-World AI* |
 |  | *POGEMA: Partially Observable Grid Environment for Multiple Agents* |
-| 20:20  | Break + posters and discussion | 
+| 20:20  | Break + ``Poster'' Discussion | 
 | 21:00  | Invited talk: Subbarao Kambhampati |   
-| 21:50  | Discussion and Closing remarks | 
+| 21:50  | Dicsussion and Closing remarks | 
 
 ## Accepted submissions:
 
