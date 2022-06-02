@@ -30,7 +30,9 @@ researchers.
 The  workshop solicits work at the intersection of  the fields of  reinforcement
 learning  and  planning.  One example  is so-called  goal-directed reinforcement
 learning,  where a  goal must be  achieved,  and no partial credit  is given for
-getting  closer to the goal.  In this case,  a usual metric is  success rate. We
+
+getting  closer to the goal.  In this c
+Veronique Ventosase,  a usual metric is  success rate. We
 also solicit work solely in one area that can influence advances in the other so
 long as the connections are *clearly articulated* in the submission.
 
@@ -50,17 +52,68 @@ Submissions are invited for topics on, but not limited to:
 * Various levels of generalization (across goals, objects/domain, domains)
 * Reinforcement Learning and planning competition(s)
 
-# Important Dates
+## Invited Speakers
+
+Veronique Ventos
+Sergey Levine
+Subbarao Kambhampati
+
+## (Preliminary) Program
+
+
+The event will be fully virtual, consisting of:
+
+* Invited talks. 40m + 10-20m for Q&A.
+* Oral presentations for some papers. 6m + 1m for Q&A.
+* Two posters sessions. 60m.
+* One Discussion session. 20m.
+
+The workshop June 13
+
+* [Starts at 12h UTC, 8h EST, 14h Central European time (CEST)](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=8&day=5&hour=14&min=0&sec=0&p1=57&p2=248&p3=44&p4=676&p5=37&p6=136&p7=179&p8=24&p9=224).
+
+### Mon, June 13.
+
+[Videos of the contributed talks.]()
+
+| Time (EST) | | Title |
+| :---: | -------------------- | ------------- |
+| 14:00  | Invited Talk |  |
+| 10:40  | Contributed talk | PG3: Policy-Guided Planning for Generalized Policy Generation |
+| 10:40  | Contributed talk | Goal Recognition as Reinforcement Learning |
+| 10:40  | Contributed talk | Learning Generalized Policies Without Supervision Using GNNs |
+| 10:40  | Contributed talk | Learning Domain-Independent Policies for Open List Selection |
+| 10:40  | Contributed talk | World Value Functions: Knowledge Representation for Learning and Planning |
+| 10:40  | Contributed talk | GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following |
+| 10:40  | Contributed talk | Hierarchies of Reward Machines |
+| 10:40  | Contributed talk | A Proposal to Generate Planning Problems with Graph Neural Networks |
+| 11:00  | Break + posters and discussion | |
+| 11:00  | Invited talk |  |
+| 11:00  | Break | |
+| 11:00  | Contributed talk | Learning First-Order Symbolic Planning Representations That Are Grounded |
+| 11:00  | Contributed talk | Action Space Reduction for Planning Domains |
+| 11:00  | Contributed talk | Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity |
+| 11:00  | Contributed talk | State Representation Learning for Goal-Conditioned Reinforcement Learning |
+| 11:00  | Contributed talk | Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems |
+| 11:00  | Contributed talk | Model-Based Adaptation to Novelty in Open-World AI |
+| 11:00  | Contributed talk | POGEMA: Partially Observable Grid Environment for Multiple Agents |
+| 11:00  | Break + posters and discussion | |
+| 11:00  | Invited talk |   |
+| 11:00  | Discussion and Closing remarks | |
+
+## Accepted submissions: papers and poster #
+
+* The numbers below will be used for indicating the spot during the poster session. (Authors, they are different from the EasyChair ID).
+* Some papers will no participate in the poster session, so they do no have a corresponding poster.
+
+
+
+## Important Dates
 
 * Submission deadline: Friday, April 1st, 2022 (UTC-12 timezone)
 * Notification date: Friday, April 29th, 2022
 * Camera-ready deadline: Friday 10 June, 2022
 * Workshop date: Virtual, June 14-17(TBD), 2022
-
-# Program - TBD
-
-* Invited Speakers
-* Schedule
 
 # Submission Procedure
 
