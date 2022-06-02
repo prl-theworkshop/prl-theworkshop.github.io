@@ -78,7 +78,6 @@ The workshop June 13
 
 | Time (EST) | Title |
 | :---: | -------------------- | 
-| 14:00  | <span style="color:blue">Block I</span> |
 | 14:00  | Opening Remarks | 
 | 14:05  | Invited Talk |  
 | 14:55  | Short Break |
@@ -92,7 +91,6 @@ The workshop June 13
 |   | Hierarchies of Reward Machines |
 |   | A Proposal to Generate Planning Problems with Graph Neural Networks |
 |   | Break + posters and discussion | 
-| 14:00  | Block II |
 | 17:30  | Invited talk |  
 | 19:20  | Short Break | 
 | 19:30  | *Session 2* |
@@ -104,7 +102,6 @@ The workshop June 13
 |   | Model-Based Adaptation to Novelty in Open-World AI |
 |  | POGEMA: Partially Observable Grid Environment for Multiple Agents |
 | 20:20  | Break + posters and discussion | 
-| 14:00  | Block III |
 | 21:00  | Invited talk |   
 | 21:50  | Discussion and Closing remarks | 
 
