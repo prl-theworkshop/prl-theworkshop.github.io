@@ -107,7 +107,7 @@ The workshop June 13
 
 ## Accepted submissions:
 
-*	Goal Recognition as Reinforcement Learning (L.~R. Amado, R. Mirsky and F. Meneguzzi)
+*	Goal Recognition as Reinforcement Learning (L. R. Amado, R. Mirsky and F. Meneguzzi)
 *	Learning First-Order Symbolic Planning Representations That Are Grounded (A. Occhipinti, B. Bonet and H. Geffner)
 *	Action Space Reduction for Planning Domains (H. Kokel, J. Lee, M. Katz, S. Sohrabi and K. Srinivas)
 *	Learning Generalized Policies Without Supervision Using GNNs (S. Ståhlberg, B. Bonet and H. Geffner)
