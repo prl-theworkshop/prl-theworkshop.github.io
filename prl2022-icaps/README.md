@@ -54,7 +54,7 @@ Submissions are invited for topics on, but not limited to:
 
 ## Invited Speakers
 
-* [Veronique Ventos](https://vvopenai.monsite-orange.fr/) - *Nook: a new generation AI dedicated to the game of Bridge*
+* [Veronique Ventos]([https://vvopenai.monsite-orange.fr/](https://nukk.ai/)) - *Nook: a new generation AI dedicated to the game of Bridge*
 	- Abstract: On March 25 2022, at the end of a two-day Bridge tournament against eight world champions the Bridge AI Nook was declared victorious. This is a world première the game of bridge still being a great challenge to Artificial Intelligence.
 NooK is a new generation AI according to several aspects. The first one is related to the fact that Nook is hybrid since it is made up of symbolic rule-based modules and neural network one. Rather than learning by playing a huge amount of games, it begins by recovering and modeling human expertise in a Background Knowledge described using a relational logic. Moreover Nook is able to provide explanations related to each decision.  
 The robot is  developed by NukkAI, a French start-up that we will present at the start of the talk. 
