@@ -98,7 +98,7 @@ The workshop June 13
 |   | *Hierarchies of Reward Machines* |
 |   | *A Proposal to Generate Planning Problems with Graph Neural Networks* |
 |   | Break + "Poster" Discussion | 
-| 15:30  | Invited talk: Sergey Levine |  
+| 15:30  | Invited talk: Sergey Levine *Planning with Reinforcement Learning*|  
 | 16:20  | Short Break | 
 | 16:30  | **SESSION 2** |
 |       | *Learning First-Order Symbolic Planning Representations That Are Grounded* |
