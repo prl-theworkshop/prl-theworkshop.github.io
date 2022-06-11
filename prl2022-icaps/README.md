@@ -64,9 +64,10 @@ The other two parts will be devoted to the challenge and the description of the 
 * [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) - *Planning with Reinforcement Learning*
 	- Abstract: In this talk, I will discuss how reinforcement learning algorithms can provide useful tools for solving problems that are conventionally perceived as planning problems, such as performing long-horizon robotic control tasks. I will discuss how we can use reinforcement learning to acquire abstractions that are well-suited for planning, and then further discuss how offline reinforcement learning methods can actually stitch together parts of previously observed trajectories to solve problems that we typically think of as sequential planning problems.
 
-* [Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) - 
+* [Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) -  *Planning to Advise and Explain Reinforcement Learning*
+	- Abstract: I will discuss how symbolic planning methods can be leveraged to advise reinforcement learning systems, as well as help them explain their decisions to humans in the loop. 
 
-## (Preliminary) Program
+## Program
 
 The event will be fully virtual, consisting of:
 
