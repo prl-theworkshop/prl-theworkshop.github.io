@@ -30,9 +30,7 @@ researchers.
 The  workshop solicits work at the intersection of  the fields of  reinforcement
 learning  and  planning.  One example  is so-called  goal-directed reinforcement
 learning,  where a  goal must be  achieved,  and no partial credit  is given for
-
-getting  closer to the goal.  In this c
-Veronique Ventosase,  a usual metric is  success rate. We
+getting  closer to the goal.  In this case,  a usual metric is  success rate. We
 also solicit work solely in one area that can influence advances in the other so
 long as the connections are *clearly articulated* in the submission.
 
