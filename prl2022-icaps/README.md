@@ -88,25 +88,25 @@ The workshop June 13
 | 12:05  | Invited Talk: Veronique Ventos: *Nook: a new generation AI dedicated to the game of Bridge* |  
 | 12:55  | Short Break |
 | 13:00  | **SESSION 1** |
-|   | *PG3: Policy-Guided Planning for Generalized Policy Generation* (Gather spot 1) [pdf](papers/PRL2022_paper_1.pdf)|
-|   | *Goal Recognition as Reinforcement Learning* (Gather spot 2) [pdf](papers/PRL2022_paper_4.pdf)|
-|   | *Learning Generalized Policies Without Supervision Using GNNs* (Gather spot 3) [pdf](papers/PRL2022_paper_7.pdf)|
-|   | *Learning Domain-Independent Policies for Open List Selection* (Gather spot 4) [pdf](papers/PRL2022_paper_9.pdf)|
-|   | *World Value Functions: Knowledge Representation for Learning and Planning* (Gather spot 5) [pdf](papers/PRL2022_paper_10.pdf)|
-|   | *GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following* (Gather spot 6) [pdf](papers/PRL2022_paper_11.pdf)|
-|   | *Hierarchies of Reward Machines* (Gather spot 7) [pdf](papers/PRL2022_paper_15.pdf)|
-|   | *A Proposal to Generate Planning Problems with Graph Neural Networks* (Gather spot 8) [pdf](papers/PRL2022_paper_2.pdf)|
+|   |  [Gather spot 1] [*PG3: Policy-Guided Planning for Generalized Policy Generation*](papers/PRL2022_paper_1.pdf)|
+|   |  [Gather spot 2] [*Goal Recognition as Reinforcement Learning*](papers/PRL2022_paper_4.pdf)|
+|   |  [Gather spot 3] [*Learning Generalized Policies Without Supervision Using GNNs*](papers/PRL2022_paper_7.pdf)|
+|   |  [Gather spot 4] [*Learning Domain-Independent Policies for Open List Selection*](papers/PRL2022_paper_9.pdf)|
+|   |  [Gather spot 5] [*World Value Functions: Knowledge Representation for Learning and Planning*](papers/PRL2022_paper_10.pdf)|
+|   |  [Gather spot 6] [*GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following*](papers/PRL2022_paper_11.pdf)|
+|   |  [Gather spot 7] [*Hierarchies of Reward Machines*](papers/PRL2022_paper_15.pdf)|
+|   |  [Gather spot 8] [*A Proposal to Generate Planning Problems with Graph Neural Networks*](papers/PRL2022_paper_2.pdf)|
 |   | Break + "Poster" Discussion | 
 | 15:30  | Invited talk: Sergey Levine *Planning with Reinforcement Learning*|  
 | 16:20  | Short Break | 
 | 16:30  | **SESSION 2** |
-|       | *Learning First-Order Symbolic Planning Representations That Are Grounded* (Gather spot 1) [pdf](papers/PRL2022_paper_5.pdf)|
-|   | *Action Space Reduction for Planning Domains* (Gather spot 2) [pdf](papers/PRL2022_paper_6.pdf)|
-|  | *Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity* (Gather spot 3) [pdf](papers/PRL2022_paper_12.pdf)|
-|   | *State Representation Learning for Goal-Conditioned Reinforcement Learning* (Gather spot 4) [pdf](papers/PRL2022_paper_14.pdf)|
-|   | *Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems* (Gather spot 5) [pdf](papers/PRL2022_paper_8.pdf)|
-|   | *Model-Based Adaptation to Novelty in Open-World AI* (Gather spot 6) [pdf](papers/PRL2022_paper_3.pdf)|
-|  | *POGEMA: Partially Observable Grid Environment for Multiple Agents* (Gather spot 7) [pdf](papers/PRL2022_paper_13.pdf)|
+|       |  [Gather spot 1] [*Learning First-Order Symbolic Planning Representations That Are Grounded*](papers/PRL2022_paper_5.pdf)|
+|   |  [Gather spot 2] [*Action Space Reduction for Planning Domains* ](papers/PRL2022_paper_6.pdf)|
+|   |  [Gather spot 3] [*Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity*](papers/PRL2022_paper_12.pdf)|
+|   |  [Gather spot 4] [*State Representation Learning for Goal-Conditioned Reinforcement Learning*](papers/PRL2022_paper_14.pdf)|
+|   |  [Gather spot 5] [*Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems*](papers/PRL2022_paper_8.pdf)|
+|   |  [Gather spot 6] [*Model-Based Adaptation to Novelty in Open-World AI*](papers/PRL2022_paper_3.pdf)|
+|   |  [Gather spot 7] [*POGEMA: Partially Observable Grid Environment for Multiple Agents*](papers/PRL2022_paper_13.pdf)|
 |   | Break + "Poster" Discussion | 
 | 19:00  | Invited talk: Subbarao Kambhampati |   
 | 19:50  | Dicsussion and Closing remarks | 
