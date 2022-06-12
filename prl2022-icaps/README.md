@@ -90,25 +90,25 @@ The workshop June 13
 | 12:05  | Invited Talk: Veronique Ventos: *Nook: a new generation AI dedicated to the game of Bridge* |  
 | 12:55  | Short Break |
 | 13:00  | **SESSION 1** |
-|   | *PG3: Policy-Guided Planning for Generalized Policy Generation* |
-|   | *Goal Recognition as Reinforcement Learning* |
-|   | *Learning Generalized Policies Without Supervision Using GNNs* |
-|   | *Learning Domain-Independent Policies for Open List Selection* |
-|   | *World Value Functions: Knowledge Representation for Learning and Planning* |
-|   | *GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following* |
-|   | *Hierarchies of Reward Machines* |
-|   | *A Proposal to Generate Planning Problems with Graph Neural Networks* |
+|   | *PG3: Policy-Guided Planning for Generalized Policy Generation* (Gather spot 1) |
+|   | *Goal Recognition as Reinforcement Learning* (Gather spot 2)|
+|   | *Learning Generalized Policies Without Supervision Using GNNs* (Gather spot 3)|
+|   | *Learning Domain-Independent Policies for Open List Selection* (Gather spot 4)|
+|   | *World Value Functions: Knowledge Representation for Learning and Planning* (Gather spot 5)|
+|   | *GoalNet: Inferring Conjunctive Goal Predicates from Human Plan Demonstrations for Robot Instruction Following* (Gather spot 6) |
+|   | *Hierarchies of Reward Machines* (Gather spot 7)|
+|   | *A Proposal to Generate Planning Problems with Graph Neural Networks* (Gather spot 8)|
 |   | Break + "Poster" Discussion | 
 | 15:30  | Invited talk: Sergey Levine *Planning with Reinforcement Learning*|  
 | 16:20  | Short Break | 
 | 16:30  | **SESSION 2** |
-|       | *Learning First-Order Symbolic Planning Representations That Are Grounded* |
-|   | *Action Space Reduction for Planning Domains* |
-|  | *Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity* |
-|   | *State Representation Learning for Goal-Conditioned Reinforcement Learning* |
-|   | *Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems* |
-|   | *Model-Based Adaptation to Novelty in Open-World AI* |
-|  | *POGEMA: Partially Observable Grid Environment for Multiple Agents* |
+|       | *Learning First-Order Symbolic Planning Representations That Are Grounded* (Gather spot 1)|
+|   | *Action Space Reduction for Planning Domains* (Gather spot 2)|
+|  | *Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity* (Gather spot 3)|
+|   | *State Representation Learning for Goal-Conditioned Reinforcement Learning* (Gather spot 4)|
+|   | *Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems* (Gather spot 5)|
+|   | *Model-Based Adaptation to Novelty in Open-World AI* (Gather spot 6)|
+|  | *POGEMA: Partially Observable Grid Environment for Multiple Agents* (Gather spot 7)|
 |   | Break + "Poster" Discussion | 
 | 19:00  | Invited talk: Subbarao Kambhampati |   
 | 19:50  | Dicsussion and Closing remarks | 
