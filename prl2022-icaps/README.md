@@ -108,7 +108,7 @@ The workshop June 13
 |   |  [Gather spot 6] [*Model-Based Adaptation to Novelty in Open-World AI*](papers/PRL2022_paper_3.pdf)|
 |   |  [Gather spot 7] [*POGEMA: Partially Observable Grid Environment for Multiple Agents*](papers/PRL2022_paper_13.pdf)|
 |   | Break + "Poster" Discussion | 
-| 19:00  | Invited talk: Subbarao Kambhampati |   
+| 19:00  | Invited talk: Subbarao Kambhampati *Planning to Advise and Explain Reinforcement Learning* |   
 | 19:50  | Dicsussion and Closing remarks | 
 
 ## Accepted submissions:
