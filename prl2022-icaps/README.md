@@ -85,7 +85,7 @@ The workshop June 13
 | Time (UTC) | Title |
 | :---: | -------------------- | 
 | 12:00  | Opening Remarks | 
-| 12:05  | Invited Talk: Veronique Ventos: *Nook: a new generation AI dedicated to the game of Bridge* |  
+| 12:05  | Invited Talk: Veronique Ventos - *Nook: a new generation AI dedicated to the game of Bridge* |  
 | 12:55  | Short Break |
 | 13:00  | **SESSION 1** |
 |   |  [Gather spot 1] [*PG3: Policy-Guided Planning for Generalized Policy Generation*](papers/PRL2022_paper_1.pdf)|
@@ -97,7 +97,7 @@ The workshop June 13
 |   |  [Gather spot 7] [*Hierarchies of Reward Machines*](papers/PRL2022_paper_15.pdf)|
 |   |  [Gather spot 8] [*A Proposal to Generate Planning Problems with Graph Neural Networks*](papers/PRL2022_paper_2.pdf)|
 |   | Break + "Poster" Discussion | 
-| 15:30  | Invited talk: Sergey Levine *Planning with Reinforcement Learning*|  
+| 15:30  | Invited talk: Sergey Levine - *Planning with Reinforcement Learning*|  
 | 16:20  | Short Break | 
 | 16:30  | **SESSION 2** |
 |       |  [Gather spot 1] [*Learning First-Order Symbolic Planning Representations That Are Grounded*](papers/PRL2022_paper_5.pdf)|
@@ -108,7 +108,7 @@ The workshop June 13
 |   |  [Gather spot 6] [*Model-Based Adaptation to Novelty in Open-World AI*](papers/PRL2022_paper_3.pdf)|
 |   |  [Gather spot 7] [*POGEMA: Partially Observable Grid Environment for Multiple Agents*](papers/PRL2022_paper_13.pdf)|
 |   | Break + "Poster" Discussion | 
-| 19:00  | Invited talk: Subbarao Kambhampati *Planning to Advise and Explain Reinforcement Learning* |   
+| 19:00  | Invited talk: Subbarao Kambhampati - *Planning to Advise and Explain Reinforcement Learning* |   
 | 19:50  | Dicsussion and Closing remarks | 
 
 ## Accepted submissions:
