@@ -11,7 +11,7 @@
   * Submission system opened: Friday, April 29th, 2022 (UTC-12 timezone)
   * Submission deadline (Extended): Friday, May 20th, 2022 (UTC-12 timezone)
   * Notification date: Friday, June 3rd, 2022
-  * Camera-ready deadline: ~~Tuesday, June 28th, 2022~~ (TBD)
+  * Camera-ready deadline: Monday, July 11th, 2022 (UTC-12 timezone)
   * Workshop date: Vienna, July 23-25 (TBD), 2022
 
 
