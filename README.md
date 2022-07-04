@@ -2,7 +2,7 @@
 
 [YouTube with all recordings - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://www.youtube.com/c/PRLWorkshop-PlanningandReinforcementLearning)
 
-## Current Editions
+## 2022 Editions
 
 - [PRL @ ICAPS 2022](https://prl-theworkshop.github.io/prl2022-icaps/)
   * Submission deadline: Friday, April 1st, 2022 (UTC-12 timezone)
@@ -14,7 +14,7 @@
   * Submission deadline (Extended): Friday, May 20th, 2022 (UTC-12 timezone)
   * Notification date: Friday, June 3rd, 2022
   * Camera-ready deadline: Monday, July 11th, 2022 (UTC-12 timezone)
-  * Workshop date: Vienna, July 23-25 (TBD), 2022
+  * Workshop date: Vienna, July 24, 2022
 
 ## Previous Editions
 

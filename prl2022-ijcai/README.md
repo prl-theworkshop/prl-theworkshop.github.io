@@ -1,4 +1,4 @@
-# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL @ IJCAI) – [Workshop at IJCAI 2022 (July 23-29)](https://ijcai-22.org)
+# Bridging the Gap Between AI Planning and Reinforcement Learning (PRL @ IJCAI) – [Workshop at IJCAI 2022 (July 24)](https://ijcai-22.org)
 
 ### This site presents the most up-to-date information about the PRL @ IJCAI workshop. Please, visit [IJCAI 2022](https://ijcai-22.org) for information about the general conference.
 
@@ -48,9 +48,22 @@ Submissions are invited for topics on, but not limited to:
 * Submission deadline (Extended): Friday, May 20th, 2022 (UTC-12 timezone)
 * Notification date: Friday, June 3rd, 2022
 * Camera-ready deadline: Monday, July 11th, 2022 (UTC-12 timezone)
-* Workshop date: Vienna, July 23-25 (TBD), 2022
+* Workshop date: Vienna, July 24, 2022
 
 IJCAI will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
+
+
+# Invited Speakers
+
+* [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/) – *Reward Machines: Formal Languages and Automata for Reinforcement Learning*
+	* Abstract: Reinforcement Learning (RL) is proving to be a powerful technique for building sequential decision making systems in cases where the complexity of the underlying environment is difficult to model. Two challenges that face RL are reward specification and sample complexity. Specification of a reward function -- a mapping from state to numeric value -- can be challenging, particularly when reward-worthy behaviour is complex and temporally extended. Further, when reward is sparse, it can require millions of exploratory episodes for an RL agent to converge to a reasonable quality policy. In this talk I'll show how formal languages and automata can be used to represent complex non-Markovian reward functions. I'll present the notion of a Reward Machine, an automata-based structure that provides a normal form representation for reward functions, exposing function structure in a manner that greatly expedites learning. Finally, I'll also show how these machines can be generated via symbolic planning or learned from data, solving (deep) RL problems that otherwise could not be solved.
+	* Bio: Sheila McIlraith is a Professor in the Department of Computer Science, University of Toronto, a Faculty Member at the Vector Institute for Artificial Intelligence, and a Canada CIFAR AI Chair. McIlraith is the author of over 100 scholarly publications in the area of knowledge representation, automated reasoning and machine learning. Her work focuses on AI sequential decision-making broadly construed, through the lens of human-compatible AI.McIlraith is an AAAI Fellow, and an ACM Fellow. She is an associate editor of the Journal of Artificial Intelligence Research (JAIR), and a past associate editor of the journal Artificial Intelligence (AIJ). McIlraith served as program co-chair of AAAI-18, KR2012, and ISWC200. McIlraith's early work on Semantic Web Services has had a notable impact. In 2011 she and her co-authors were honoured with the SWSA 10-year Award, recognizing the highest impact paper from the International Semantic Web Conference, 10 years prior. Her research has also made practical contributions to the development of next-generation NASA space systems and to emerging Web standards.
+* [Sriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/) – Neurosymbolic learning via Integration of (Relational) Planning and (Deep) RL
+	* Abstract: One of the challenges in constructing a two level system, for instance, a higher-level deliberative planner with a lower level reactive RL agent, is the interface between these two systems. In this talk, I argue that this interface is crucial in constructing appropriate abstractions for the underlying RL agent to be efficient and effective. Specifically, I outline our RePReL system that constructs these abstractions automatically using a dynamic Statistical Relational Learning (SRL) language. Our experiments show that RePReL framework not only achieves better performance and efficient learning on the task at hand but also demonstrates better generalization to unseen tasks. The interface layer allows for the RL and planner components to be a plug and play system and I demonstrate the versatility of our approach on several tasks. This is joint work with our PhD student Harsha Kokel, Prasad Tadepalli and Balaraman Ravindran.
+	* Bio: Prof. Sriraam Natarajan is a Professor at the Department of Computer Science at University of Texas Dallas and a RBDSCAI Distinguished Faculty Fellow at IIT Madras. His research interests lie in the field of Artificial Intelligence, with emphasis on Machine Learning, Statistical Relational Learning and AI, Reinforcement Learning, Graphical Models and Biomedical Applications. He is a AAAI senior member and has received the Young Investigator award from US Army Research Office, Amazon Faculty Research Award, Intel Faculty Award, XEROX Faculty Award, Verisk Faculty Award and the IU trustees Teaching Award from Indiana University. He is the AI and society track chair of AAAI 2022 and 2023, demo chair of IJCAI 2022, program co-chair of SDM 2020 and ACM CoDS-COMAD 2020 conferences. He was the speciality chief editor of Frontiers in ML and AI journal, and is an associate editor of MLJ, JAIR, DAMI and Big Data journals.
+* [Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) – *Deciding and Learning How to Act in Non-Markovian Settings*
+	* Abstract: Autonomy is one of the grand objectives of AI. It is concerned with building autonomous agents/robots that operate in changing, incompletely known, unpredictable environments. Autonomy requires reasoning and planning capabilities, as well as learning from experience. Many areas of AI are concerned with autonomy, including Logic in AI, Knowledge Representation and Reasoning, Planning, Sequential Decision Making (MDPs), and Reinforcement Learning. Moreover, several objectives are shared with automated synthesis and strategic reasoning in Formal Methods. In this talk, we will show how one can merge reasoning on temporal logic and reinforcement learning to build autonomous agents that can act to accomplish temporally extended tasks in unknown environments. Handling Non-Markovianity will play a central role.
+	* Bio: Giuseppe De Giacomo is full professor in Computer Science and Engineering at University of Roma La Sapienza. His research activity has concerned theoretical, methodological and practical aspects in different areas of AI and CS, most prominently Knowledge Representation, Reasoning about Actions, Generalized Planning, Autonomous Agents, Service Composition, Business Process Modeling, Data Management and Integration. He is AAAI Fellow, ACM Fellow, and EurAI Fellow. He has got an ERC Advanced Grant for the project WhiteMech: White-box Self Programming Mechanisms (2019-2024). He has been the Program Chair of ECAI 2020.  He is on the Board of EurAI.
 
 # Program - TBD
 
@@ -59,6 +72,7 @@ IJCAI will be **in-person** this year. Authors of accepted workshop papers are e
   * Sheila McIlraith
   * Sriraam Natarajan
 * Schedule (TBD)
+
 
 # Submission Procedure
 
