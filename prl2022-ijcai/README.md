@@ -61,34 +61,36 @@ The event consists of:
 	* [Sriraam Natarajan](#sriraam-natarajan)
 	* [Giuseppe De Giacomo](#giuseppe-de-giacomo)
 * Talks for accepted papers. 10 minutes content + 5 minutes for questions.
-* Final discussion: 20m.
+* Final discussion: 30 minutes.
+
+## Schedule
 
 | Time (Vienna) | Title |
 |:------------:|:-----------|
 |     9:00     | Opening Remarks          |
 |     9:05     | **Keynote**: [Sheila McIlraith – *Reward Machines: Formal Languages and Automata for Reinforcement Learning*](#sheila-mcilraith) |
 |     9:50     | **Session 1**            |
-|  | PG3: Policy-Guided Planning for Generalized Policy Generation            |
-|  | Action Space Reduction for Planning Domains  |
-|  | Heuristic Search Planning with Deep Neural Networks using Imitation, Attention and Curriculum Learning   |
+|  | [*PG3: Policy-Guided Planning for Generalized Policy Generation*](papers/PRL2022_paper_1.pdf). Ryan Yang, Tom Silver, Aidan Curtis, Tomas Lozano-Perez and Leslie Kaelbling. |
+|  | [*Action Space Reduction for Planning Domains*](papers/PRL2022_paper_6.pdf). Harsha Kokel, Junkyu Lee, Michael Katz, Shirin Sohrabi and Kavitha Srinivas. |
+|  | [*Heuristic Search Planning with Deep Neural Networks using Imitation, Attention and Curriculum Learning*](papers/PRL2022_paper_17.pdf). Leah Chrestien, Tomáš Pevný, Stefan Edelkamp and Antonín Komenda. |
 |    10:35     | Coffee break |
 |    11:00     | **Session 2**    |
-|  | State Representation Learning for Goal-Conditioned Reinforcement Learning    |
-|  | Scaling up ML-based Black-box Planning with Partial STRIPS Models        |
-|  | Graph-Based Representation of Automata Cascades with an Application to Regular Decision Processes        |
+|  | [*State Representation Learning for Goal-Conditioned Reinforcement Learning*](papers/PRL2022_paper_14.pdf). Lorenzo Steccanella and Anders Jonsson. |
+|  | [*Scaling up ML-based Black-box Planning with Partial STRIPS Models*](papers/PRL2022_paper_21.pdf). Matias Greco, Álvaro Torralba, Jorge A. Baier and Hector Palacios. |
+|  | [*Graph-Based Representation of Automata Cascades with an Application to Regular Decision Processes*](papers/PRL2022_paper_22.pdf). Alessandro Ronca and Giuseppe De Giacomo. |
 |    11:45     | **Keynote**: [Sriraam Natarajan - *Neurosymbolic learning via Integration of (Relational) Planning and (Deep) RL*](#sriraam-natarajan) |
 |    12:30     | Lunch    |
 |    14:00     | **Keynote**: [Giuseppe De Giacomo – *Deciding and Learning How to Act in Non-Markovian Settings*](#giuseppe-de-giacomo) |
 |    14:45     | **Session 3**            |
-|  | Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems      |
-|  | Exploiting Multiple Levels of Abstractions in Episodic RL via Reward Shaping |
-|  | Compositional Reinforcement Learning from Logical Specifications         |
+|  | [*Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems*](papers/PRL2022_paper_8.pdf). Rushang Karia and Siddharth Srivastava. |
+|  | [*Exploiting Multiple Levels of Abstractions in Episodic RL via Reward Shaping*](papers/PRL2022_paper_24.pdf). Roberto Cipollone, Giuseppe De Giacomo, Marco Favorito, Luca Iocchi and Fabio Patrizi. |
+|  | [*Compositional Reinforcement Learning from Logical Specifications*](papers/PRL2022_paper_27.pdf). Kishor Jothimurugan, Suguman Bansal, Osbert Bastani and Rajeev Alur. |
 |    15:30     | Coffee break |
 |    16:00     | **Session 4**    |
-|  | Deep Policy Learning for Perfect Rectangle Packing       |
-|  | Generalizing Behavior Trees and Motion-Generator (BTMG) Policy Representation for Robotic Tasks Over Scenario Parameters |
-|  | Speeding-up Continual Learning through Information Gaines in Novel Experiences           |
-|  | An attention model for the formation of collectives in real-world domains    |
+|  | [*Deep Policy Learning for Perfect Rectangle Packing*](papers/PRL2022_paper_20.pdf). Boris Doux, Satya Tamby, Benjamin Negrevergne and Tristan Cazenave. |
+|  | [*Generalizing Behavior Trees and Motion-Generator (BTMG) Policy Representation for Robotic Tasks Over Scenario Parameters*](papers/PRL2022_paper_25.pdf). Faseeh Ahmad, Matthias Mayr, Elin Anna Topp, Jacek Malec and Volker Krueger. |
+|  | [*Speeding-up Continual Learning through Information Gaines in Novel Experiences*](papers/PRL2022_paper_26.pdf). Pierrick Lorang, Shivam Goel, Patrik Zips, Jivko Sinapov and Matthias Scheutz. |
+|  | [*An attention model for the formation of collectives in real-world domains*](papers/PRL2022_paper_16.pdf). Adrià Fenoy Barceló, Filippo Bistaffa and Alessandro Farinelli. |
 |    17:00     | Closing remarks, discussion, ...         |
 |    17:30     | End      |
 
@@ -111,6 +113,22 @@ The event consists of:
 * *Title*: **Deciding and Learning How to Act in Non-Markovian Settings**
 * *Abstract*: Autonomy is one of the grand objectives of AI. It is concerned with building autonomous agents/robots that operate in changing, incompletely known, unpredictable environments. Autonomy requires reasoning and planning capabilities, as well as learning from experience. Many areas of AI are concerned with autonomy, including Logic in AI, Knowledge Representation and Reasoning, Planning, Sequential Decision Making (MDPs), and Reinforcement Learning. Moreover, several objectives are shared with automated synthesis and strategic reasoning in Formal Methods. In this talk, we will show how one can merge reasoning on temporal logic and reinforcement learning to build autonomous agents that can act to accomplish temporally extended tasks in unknown environments. Handling Non-Markovianity will play a central role.
 * *Bio*: Giuseppe De Giacomo is a full professor in Computer Science and Engineering at University of Roma La Sapienza. His research activity has concerned theoretical, methodological and practical aspects in different areas of AI and CS, most prominently Knowledge Representation, Reasoning about Actions, Generalized Planning, Autonomous Agents, Service Composition, Business Process Modeling, Data Management and Integration. He is AAAI Fellow, ACM Fellow, and EurAI Fellow. He has got an ERC Advanced Grant for the project WhiteMech: White-box Self Programming Mechanisms (2019-2024). He has been the Program Chair of ECAI 2020.  He is on the Board of EurAI.
+
+# Accepted submissions
+
+- [*PG3: Policy-Guided Planning for Generalized Policy Generation*](papers/PRL2022_paper_1.pdf). Ryan Yang, Tom Silver, Aidan Curtis, Tomas Lozano-Perez and Leslie Kaelbling.
+- [*Action Space Reduction for Planning Domains*](papers/PRL2022_paper_6.pdf). Harsha Kokel, Junkyu Lee, Michael Katz, Shirin Sohrabi and Kavitha Srinivas.
+- [*Heuristic Search Planning with Deep Neural Networks using Imitation, Attention and Curriculum Learning*](papers/PRL2022_paper_17.pdf). Leah Chrestien, Tomáš Pevný, Stefan Edelkamp and Antonín Komenda.
+- [*State Representation Learning for Goal-Conditioned Reinforcement Learning*](papers/PRL2022_paper_14.pdf). Lorenzo Steccanella and Anders Jonsson.
+- [*Scaling up ML-based Black-box Planning with Partial STRIPS Models*](papers/PRL2022_paper_21.pdf). Matias Greco, Álvaro Torralba, Jorge A. Baier and Hector Palacios.
+- [*Graph-Based Representation of Automata Cascades with an Application to Regular Decision Processes*](papers/PRL2022_paper_22.pdf). Alessandro Ronca and Giuseppe De Giacomo.
+- [*Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems*](papers/PRL2022_paper_8.pdf). Rushang Karia and Siddharth Srivastava.
+- [*Exploiting Multiple Levels of Abstractions in Episodic RL via Reward Shaping*](papers/PRL2022_paper_24.pdf). Roberto Cipollone, Giuseppe De Giacomo, Marco Favorito, Luca Iocchi and Fabio Patrizi.
+- [*Compositional Reinforcement Learning from Logical Specifications*](papers/PRL2022_paper_27.pdf). Kishor Jothimurugan, Suguman Bansal, Osbert Bastani and Rajeev Alur.
+- [*Deep Policy Learning for Perfect Rectangle Packing*](papers/PRL2022_paper_20.pdf). Boris Doux, Satya Tamby, Benjamin Negrevergne and Tristan Cazenave.
+- [*Generalizing Behavior Trees and Motion-Generator (BTMG) Policy Representation for Robotic Tasks Over Scenario Parameters*](papers/PRL2022_paper_25.pdf). Faseeh Ahmad, Matthias Mayr, Elin Anna Topp, Jacek Malec and Volker Krueger.
+- [*Speeding-up Continual Learning through Information Gaines in Novel Experiences*](papers/PRL2022_paper_26.pdf). Pierrick Lorang, Shivam Goel, Patrik Zips, Jivko Sinapov and Matthias Scheutz.
+- [*An attention model for the formation of collectives in real-world domains*](papers/PRL2022_paper_16.pdf). Adrià Fenoy Barceló, Filippo Bistaffa and Alessandro Farinelli.
 
 # Submission Procedure
 
@@ -156,4 +174,4 @@ For up-to-date information, please visit the [PRL website, https://prl-theworksh
 
 ## Sponsor
 
-<img src="servicenow-logo.jpg" width="70%" height="auto">
+<img src="servicenow-logo.jpg" width="20%" height="auto">
