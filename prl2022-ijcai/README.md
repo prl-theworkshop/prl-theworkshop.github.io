@@ -73,12 +73,11 @@ The event consists of:
 |  | Heuristic Search Planning with Deep Neural Networks using Imitation, Attention and Curriculum Learning   |
 |    10:35     | Coffee break |
 |    11:00     | **Session 2**    |
-|  | Goal Recognition as Reinforcement Learning   |
 |  | State Representation Learning for Goal-Conditioned Reinforcement Learning    |
-|  | Graph-Based Representation of Automata Cascades with an Application to Regular Decision Processes        |
 |  | Scaling up ML-based Black-box Planning with Partial STRIPS Models        |
-|    12:00     | **Keynote**: [Sriraam Natarajan - *Neurosymbolic learning via Integration of (Relational) Planning and (Deep) RL*](#sriraam-natarajan) |
-|    12:45     | Lunch    |
+|  | Graph-Based Representation of Automata Cascades with an Application to Regular Decision Processes        |
+|    11:45     | **Keynote**: [Sriraam Natarajan - *Neurosymbolic learning via Integration of (Relational) Planning and (Deep) RL*](#sriraam-natarajan) |
+|    12:30     | Lunch    |
 |    14:00     | **Keynote**: [Giuseppe De Giacomo – *Deciding and Learning How to Act in Non-Markovian Settings*](#giuseppe-de-giacomo) |
 |    14:45     | **Session 3**            |
 |  | Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems      |
