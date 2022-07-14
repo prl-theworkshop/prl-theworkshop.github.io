@@ -117,7 +117,6 @@ The event consists of:
 # Accepted submissions
 
 - [*PG3: Policy-Guided Planning for Generalized Policy Generation*](papers/PRL2022_paper_1.pdf). Ryan Yang, Tom Silver, Aidan Curtis, Tomas Lozano-Perez and Leslie Kaelbling.
-- [*Action Space Reduction for Planning Domains*](papers/PRL2022_paper_6.pdf). Harsha Kokel, Junkyu Lee, Michael Katz, Shirin Sohrabi and Kavitha Srinivas.
 - [*Heuristic Search Planning with Deep Neural Networks using Imitation, Attention and Curriculum Learning*](papers/PRL2022_paper_17.pdf). Leah Chrestien, Tomáš Pevný, Stefan Edelkamp and Antonín Komenda.
 - [*State Representation Learning for Goal-Conditioned Reinforcement Learning*](papers/PRL2022_paper_14.pdf). Lorenzo Steccanella and Anders Jonsson.
 - [*Scaling up ML-based Black-box Planning with Partial STRIPS Models*](papers/PRL2022_paper_21.pdf). Matias Greco, Álvaro Torralba, Jorge A. Baier and Hector Palacios.
