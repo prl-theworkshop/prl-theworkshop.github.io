@@ -42,14 +42,6 @@ Submissions are invited for topics on, but not limited to:
 * Various levels of generalization (across goals, objects/domain, domains)
 * Reinforcement Learning and planning competition(s)/benchmarks
 
-# Important Dates
-
-* Submission system opened: Friday, April 29th, 2022 (UTC-12 timezone)
-* Submission deadline (Extended): Friday, May 20th, 2022 (UTC-12 timezone)
-* Notification date: Friday, June 3rd, 2022
-* Camera-ready deadline: Monday, July 11th, 2022 (UTC-12 timezone)
-* Workshop date: Vienna, July 24, 2022
-
 IJCAI will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
 # Program
@@ -158,6 +150,14 @@ invited to use the appendix of their submissions for that purpose.
 Please send your inquiries by email to the organizers at [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com).
 
 For up-to-date information, please visit the [PRL website, https://prl-theworkshop.github.io](https://prl-theworkshop.github.io).
+
+# Important Dates
+
+* Submission system opened: ~~Friday, April 29th, 2022 (UTC-12 timezone)~~
+* Submission deadline (Extended): ~~Friday, May 20th, 2022 (UTC-12 timezone)~~
+* Notification date: ~~Friday, June 3rd, 2022~~
+* Camera-ready deadline: ~~Monday, July 11th, 2022 (UTC-12 timezone)~~
+* Workshop date: **Vienna, July 24, 2022**
 
 
 ## Previous Editions
