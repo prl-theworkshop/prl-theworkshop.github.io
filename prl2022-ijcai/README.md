@@ -162,6 +162,7 @@ For up-to-date information, please visit the [PRL website, https://prl-theworksh
 
 ## Previous Editions
 
+- [PRL @ ICAPS 2022](https://prl-theworkshop.github.io/prl2022-icaps/)
 - [PRL @ ICAPS 2021](https://prl-theworkshop.github.io/prl2021/)
 - [PRL @ ICAPS 2020](https://prl-theworkshop.github.io/icaps20subpages.icaps-conference.org/workshops/prl/)
 
