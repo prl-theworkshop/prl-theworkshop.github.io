@@ -4,17 +4,17 @@
 
 ## 2022 Editions
 
+- **[PRL @ IJCAI 2022](https://prl-theworkshop.github.io/prl2022-ijcai/)**
+  * Submission system opened: Friday, April 29th, 2022 (UTC-12 timezone)
+  * Submission deadline (Extended): Friday, May 20th, 2022 (UTC-12 timezone)
+  * Notification date: Friday, June 3rd, 2022
+  * Camera-ready deadline: Monday, July 11th, 2022 (UTC-12 timezone)
+  * Workshop date: **Vienna, July 24, 2022**
 - [PRL @ ICAPS 2022](https://prl-theworkshop.github.io/prl2022-icaps/)
   * Submission deadline: Friday, April 1st, 2022 (UTC-12 timezone)
   * Notification date: Friday, April 29th, 2022
   * Camera-ready deadline: Friday 10 June, 2022
   * Workshop date: Virtual, Monday June 13, 2022
-- [PRL @ IJCAI 2022](https://prl-theworkshop.github.io/prl2022-ijcai/)
-  * Submission system opened: Friday, April 29th, 2022 (UTC-12 timezone)
-  * Submission deadline (Extended): Friday, May 20th, 2022 (UTC-12 timezone)
-  * Notification date: Friday, June 3rd, 2022
-  * Camera-ready deadline: Monday, July 11th, 2022 (UTC-12 timezone)
-  * Workshop date: Vienna, July 24, 2022
 
 ## Previous Editions
 
