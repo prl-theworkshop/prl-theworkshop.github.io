@@ -73,10 +73,10 @@ The event consists of:
 |    12:00     | **Discussion**  |
 |    12:30     | Lunch    |
 |    14:00     | **Keynote**: [Sriraam Natarajan - *Neurosymbolic learning via Integration of (Relational) Planning and (Deep) RL*](#sriraam-natarajan) |
-|    15:00     | **Session 3**            |
+|    15:00     | Coffee break |
+|    15:30     | **Session 3**            |
 |  | [*Exploiting Multiple Levels of Abstractions in Episodic RL via Reward Shaping*](papers/PRL2022_paper_24.pdf). Roberto Cipollone, Giuseppe De Giacomo, Marco Favorito, Luca Iocchi and Fabio Patrizi. |
 |  | [*Compositional Reinforcement Learning from Logical Specifications*](papers/PRL2022_paper_27.pdf). Kishor Jothimurugan, Suguman Bansal, Osbert Bastani and Rajeev Alur. |
-|    15:30     | Coffee break |
 |    16:00     | **Session 4**    |
 |  | [*Deep Policy Learning for Perfect Rectangle Packing*](papers/PRL2022_paper_20.pdf). Boris Doux, Satya Tamby, Benjamin Negrevergne and Tristan Cazenave. |
 |  | [*Generalizing Behavior Trees and Motion-Generator (BTMG) Policy Representation for Robotic Tasks Over Scenario Parameters*](papers/PRL2022_paper_25.pdf). Faseeh Ahmad, Matthias Mayr, Elin Anna Topp, Jacek Malec and Volker Krueger. |
