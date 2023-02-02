@@ -2,4 +2,4 @@
 
 - Call for papers to be posted soon.
 - List of accepted papers will be posted by: 28 April 2023.
-- Workshop/Tutorial dates: 09-10 July 2023.
+- Workshop/Tutorial dates: Prague, Czech Republic, 09-10 July 2023.

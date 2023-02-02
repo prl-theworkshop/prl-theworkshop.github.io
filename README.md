@@ -7,7 +7,7 @@
 - **[PRL has been accepted for ICAPS 2023!](https://prl-theworkshop.github.io/prl2023-icaps/)**
 	- Call for papers to be posted soon.
 	- List of accepted papers will be posted by: 28 April 2023.
-	- Workshop/Tutorial dates: 09-10 July 2023.
+	- Workshop/Tutorial dates: Prague, Czech Republic, 09-10 July 2023.
 
 ## Previous Editions
 
