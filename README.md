@@ -2,12 +2,11 @@
 
 [YouTube with all recordings - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://www.youtube.com/c/PRLWorkshop-PlanningandReinforcementLearning)
 
-## 2023 Editions
+## [PRL @ ICAPS 2023](https://prl-theworkshop.github.io/prl2023-icaps/)
 
-- **[PRL has been accepted for ICAPS 2023!](https://prl-theworkshop.github.io/prl2023-icaps/)**
-	- Call for papers to be posted soon.
-	- List of accepted papers will be posted by: 28 April 2023.
-	- Workshop/Tutorial dates: Prague, Czech Republic, 09-10 July 2023.
+- Paper submission deadline: March 17th, AOE
+- Paper acceptance notification: April 27th, AOE 
+- Workshop/Tutorial dates: Prague, Czech Republic, 09-10 July 2023.
 
 ## Previous Editions
 
