@@ -13,7 +13,7 @@ of each other on specific problems, techniques, methodologies, and evaluations.
 This workshop aims to encourage discussion and collaboration between researchers in the fields of AI planning and reinforcement learning. 
 We aim to bridge the gap between the two communities, facilitate the discussion of differences and similarities in existing techniques, and encourage collaboration across the fields. 
 We solicit interest from AI researchers that work in the
-intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision-making. This is the fifth edition of the [PRL workshop series](https://prl-theworkshop.github.io/) that started at [ICAPS 2020](https://icaps20subpages.icaps-conference.org/workshops/prl/).
+intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision-making. This is the sixth edition of the [PRL workshop series](https://prl-theworkshop.github.io/) that started at [ICAPS 2020](https://icaps20subpages.icaps-conference.org/workshops/prl/).
 
 ## Topics of Interest
 
@@ -34,10 +34,8 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 
 ## Important Dates
 
-<!-- * Paper submission deadline: May, 4th, AOE  -->
-<!-- * Paper acceptance notification: June 5th, AOE  -->
-* Paper submission deadline: TBD
-* Paper acceptance notification: TBD
+* Paper submission deadline: May, 4th, AOE  
+* Paper acceptance notification: June 5th, AOE 
 
 ## Submission Details
 
