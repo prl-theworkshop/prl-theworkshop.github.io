@@ -6,7 +6,15 @@
 
 - Paper submission deadline: March 17th, AOE
 - Paper acceptance notification: April 27th, AOE 
-- Workshop/Tutorial dates: Prague, Czech Republic, 09-10 July 2023.
+- Workshop/Tutorial dates: Prague, Czech Republic, July 09-10, 2023.
+
+## [PRL @ IJCAI 2023](https://prl-theworkshop.github.io/prl2023-ijcai/)
+
+<!-- - Paper submission deadline: May 4th, AOE
+- Paper acceptance notification: June 5th, AOE  -->
+* Paper submission deadline: TBD
+* Paper acceptance notification: TBD
+- Workshop/Tutorial dates: Cape Town, South Africa, August 19-21, 2023
 
 ## Previous Editions
 
