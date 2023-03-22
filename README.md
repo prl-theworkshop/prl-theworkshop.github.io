@@ -15,7 +15,7 @@
 
 - Paper submission deadline: May 4th, AOE
 - Paper acceptance notification: June 5th, AOE 
-- Workshop/Tutorial dates: Cape Town, South Africa, August 19-21, 2023
+- Workshop/Tutorial dates: Macao, S.A.R, August 19-21, 2023
 
 ## Previous Editions
 
