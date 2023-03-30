@@ -4,7 +4,7 @@
 
 ## [PRL @ ICAPS 2023](https://prl-theworkshop.github.io/prl2023-icaps/)
 
-- Paper submission deadline (updated): March 30th, AOE
+- Paper submission deadline (final): April 3rd, AOE
 - Paper acceptance notification: April 27th, AOE 
 - Workshop/Tutorial dates: Prague, Czech Republic, July 09-10, 2023.  
    **Some of the accepted papers will be invited to be presented at the IJCAI edition of the workshop as well.**
