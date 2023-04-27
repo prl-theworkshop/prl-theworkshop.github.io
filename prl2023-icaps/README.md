@@ -40,7 +40,7 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 * Paper acceptance notification: April 27th, AOE 
 
 
-## Accepted submissions:
+## List of Accepted Papers
 
 * pyRDDLGym: From RDDL to Gym Environments (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
 * Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
