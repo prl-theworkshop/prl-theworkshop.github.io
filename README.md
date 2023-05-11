@@ -13,7 +13,7 @@
 
 ## [PRL @ IJCAI 2023](https://prl-theworkshop.github.io/prl2023-ijcai/)
 
-- Paper submission deadline: ~~May, 4th, AOE~~ **May 11th, AOE**
+- Paper submission deadline: ~~May, 4th, AOE~~ ~~May 11th, AOE~~ **May 18th, AOE**
 - Paper acceptance notification: ~~June 5th, AOE~~ **June 9th, AOE**
 - Workshop/Tutorial dates: Macao, S.A.R, August 19-21, 2023
 

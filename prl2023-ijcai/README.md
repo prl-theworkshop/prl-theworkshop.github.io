@@ -34,7 +34,7 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 
 ## Important Dates
 
-* Paper submission deadline: ~~May, 4th, AOE~~ **May 11th, AOE**
+* Paper submission deadline: ~~May, 4th, AOE~~ ~~May 11th, AOE~~ **May 18th, AOE**
 * Paper acceptance notification: ~~June 5th, AOE~~ **June 9th, AOE**
 
 ## Submission Details
