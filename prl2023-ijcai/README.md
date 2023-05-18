@@ -48,7 +48,7 @@ We solicit workshop paper submissions relevant to the above call of the followin
  
 Please format submissions in AAAI style (see instructions in the [Author Kit](https://www.aaai.org/Publications/Templates/AuthorKit23.zip)). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main IJCAI conference to the workshop.
 
-**Note for NeurIPS resubmissions**: For authors resubmitting their NeurIPS submissions to PRL, please make sure that the submissions are *anonymized*. For these resubmissions, there is no need to reformat to AAAI. Authors can keep the *NeurIPS formatting* as we will allow the papers in NeurIPS format to be nine pages.
+**Note for NeurIPS resubmissions**: For authors resubmitting their NeurIPS submissions to PRL, please ensure they are *anonymized*. For these resubmissions, there is no need to reformat to AAAI. Authors can keep the *NeurIPS formatting* as we will allow the papers in NeurIPS format to be nine pages.
 
 Some accepted long papers will be invited for contributed talks. All accepted papers (long as well as short) and extended abstracts will be given a slot in the poster
 presentation session.  Extended abstracts are intended as brief summaries of already published papers,  preliminary work, position papers, or challenges that
