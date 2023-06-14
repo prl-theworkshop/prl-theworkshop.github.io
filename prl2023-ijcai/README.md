@@ -60,6 +60,26 @@ invited to use the appendix of their submissions for that purpose.
 
 Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2023/IJCAI).
 
+## List of Accepted Papers
+
+- A Learnable Similarity Metric for Transfer Learning with Dynamics Mismatch
+- Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning
+- Exploiting Long-Range Influences in Learning Generalized Neural Policies for RDDL Relational MDPs
+- Exploiting MDP Symmetries for Offline Reinforcement Learning
+- Generalized Planning in PDDL Domains with Pretrained Large Language Models
+- Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning
+- Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models
+- Learning Neuro-Symbolic World Models with Logical Neural Networks
+- Learning Parameterized Policies for Planning Annotated RL
+- Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks
+- Learning to Create Abstraction Hierarchies for Motion Planning under Uncertainty
+- Learning to Plan with Tree Search via Deep RL
+- Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest
+- Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates
+- Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems
+- Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning
+- Towards More Likely Models for AI Planning
+- Using Reverse Reinforcement Learning for Assembly Tasks
 
 <!-- ### Workshop Proceedings (optional)
 
@@ -90,10 +110,6 @@ Please send your inquiries to prl.theworkshop@gmail.com
 <!-- ### Program Committee
 
 TODO -->
-
-<!-- ## List of Accepted Papers
-
-TBD -->
 
 <!-- ## Workshop Schedule
 
