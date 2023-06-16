@@ -66,20 +66,20 @@ Poster session
 |:------------:|:-----------|
 |     9:00     | Opening Remarks          |
 |     9:10     |  **Session 1**            |
-|  | [*Value Function Learning via Prolonged Backward Heuristic Search*]().  |
-|  | [*Learning General Policies with Policy Gradient Methods*]().  |
-|  | [*Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules*]().  |
-|  | [*PANEL DISCUSSION*](#panel).  |
-|    11:10     | Coffee break |
-|    11:40     | **Session 2**    |
-|  | [*pyRDDLGym: From RDDL to Gym Environments*]().  |
-|  | [*Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning*]().  |
-|  | [*Towards a Unified Framework for Sequential Decision Making*]().  |
+|  | [*Value Function Learning via Prolonged Backward Heuristic Search*](). Zlatan Ajanovic, Bakir Lacevic, Jens Kober. |
+|  | [*Learning General Policies with Policy Gradient Methods*](). Simon Ståhlberg, Blai Bonet, Hector Geffner. |
+|  | [*Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules*](). Dominik Drexler, Jendrik Seipp, Hector Geffner. |
+|  | [*Towards a Unified Framework for Sequential Decision Making*](). Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares. |
+|    10:30     | Coffee break |
+|    11:00     | **Session 2**    |
+|  | [*pyRDDLGym: From RDDL to Gym Environments*](). Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner. |
+|  | [*Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning*](). Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh. |
+|  11:40 | [*PANEL DISCUSSION*](#panel).  |
 |    12:40     | Lunch    |
 |    14:00     | **Keynote**: [Sheila McIlraith - *TBD*](#sheila-mcilraith) |
 |    14:50     | **Session 3**            |
-|  | [*Multi-Agent Reinforcement Learning with Epistemic Priors*]().  |
-|  | [*Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning*]().  |
+|  | [*Multi-Agent Reinforcement Learning with Epistemic Priors*](). Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo. |
+|  | [*Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning*](). Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius. |
 |    15:30     | Coffee break |
 |    16:00     | **Closing remarks, discussion**         |
 |    16:10     | **Poster Session**    |
@@ -98,20 +98,20 @@ Poster session
 
 ## List of Accepted Papers
 
-* pyRDDLGym: From RDDL to Gym Environments (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
-* Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
-* Meta-operators for Enabling Parallel Planning Using Deep Reinforcement Learning (Ángel Aso Mollar, Eva Onaindia)
-* Model Learning to Solve Minecraft Tasks (Yarin Benyamin, Argaman Mordoch, Roni Stern, Shahaf S. Shperberg)
-* Towards a Unified Framework for Sequential Decision Making (Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares)
-* Policy Refinement with Human Feedback for Safe Reinforcement Learning (Ali Baheri)
-* Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules (Dominik Drexler, Jendrik Seipp, Hector Geffner)
-* Learning General Policies with Policy Gradient Methods (Simon Ståhlberg, Blai Bonet, Hector Geffner)
-* Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning (Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius)
-* Joint Learning of Policy with Unknown Temporal Constraints for Safe Reinforcement Learning (Ali Baheri)
-* Multi-Agent Reinforcement Learning with Epistemic Priors (Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo)
-* Preemptive Restraining Bolts (Giovanni Varricchione, Natasha Alechina, Mehdi Dastani, Giuseppe De Giacomo, Brian Logan, Giuseppe Perelli)
-* Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model (Matan Sudry, Tom Jurgenson, Aviv Tamar, Erez Karpas)
-* Value Function Learning via Prolonged Backward Heuristic Search (Zlatan Ajanovic, Bakir Lacevic, Jens Kober)
+* (talk) pyRDDLGym: From RDDL to Gym Environments (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
+* (talk) Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
+* (poster) Meta-operators for Enabling Parallel Planning Using Deep Reinforcement Learning (Ángel Aso Mollar, Eva Onaindia)
+* (poster) Model Learning to Solve Minecraft Tasks (Yarin Benyamin, Argaman Mordoch, Roni Stern, Shahaf S. Shperberg)
+* (talk) Towards a Unified Framework for Sequential Decision Making (Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares)
+* (poster) Policy Refinement with Human Feedback for Safe Reinforcement Learning (Ali Baheri)
+* (talk) Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules (Dominik Drexler, Jendrik Seipp, Hector Geffner)
+* (talk) Learning General Policies with Policy Gradient Methods (Simon Ståhlberg, Blai Bonet, Hector Geffner)
+* (talk) Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning (Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius)
+* (poster) Joint Learning of Policy with Unknown Temporal Constraints for Safe Reinforcement Learning (Ali Baheri)
+* (talk) Multi-Agent Reinforcement Learning with Epistemic Priors (Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo)
+* (poster) Preemptive Restraining Bolts (Giovanni Varricchione, Natasha Alechina, Mehdi Dastani, Giuseppe De Giacomo, Brian Logan, Giuseppe Perelli)
+* (poster) Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model (Matan Sudry, Tom Jurgenson, Aviv Tamar, Erez Karpas)
+* (talk) Value Function Learning via Prolonged Backward Heuristic Search (Zlatan Ajanovic, Bakir Lacevic, Jens Kober)
 
 
 ## Submission Details
