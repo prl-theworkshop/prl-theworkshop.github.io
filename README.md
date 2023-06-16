@@ -6,7 +6,7 @@
 
 - Paper submission deadline (final): April 3rd, AOE
 - Paper acceptance notification: April 27th, AOE 
-- Workshop/Tutorial dates: Prague, Czech Republic, July 09-10, 2023.  
+- Workshop/Tutorial dates: Prague, Czech Republic, July 09, 2023.  
    **Some of the accepted papers will be invited to be presented at the IJCAI edition of the workshop as well.**
 
 
@@ -15,7 +15,7 @@
 
 - Paper submission deadline: ~~May, 4th, AOE~~ ~~May 11th, AOE~~ **May 18th, AOE**
 - Paper acceptance notification: ~~June 5th, AOE~~ **June 9th, AOE**
-- Workshop/Tutorial dates: Macao, S.A.R, August 19-21, 2023
+- Workshop/Tutorial dates: Macao, S.A.R, August 20, 2023
 
 ## Previous Editions
 

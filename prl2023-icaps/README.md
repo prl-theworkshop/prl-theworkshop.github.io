@@ -2,7 +2,7 @@
 
 ICAPS'23 Workshop \
 Prague, Czech Republic  \
-July 9-10, 2023
+July 9, 2023
 
 **Some of the accepted papers will be invited to be presented at the IJCAI edition of the workshop as well.**
 

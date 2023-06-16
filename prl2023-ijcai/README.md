@@ -2,7 +2,7 @@
 
 IJCAI'23 Workshop \
 Macao, S.A.R \
-August 19-21, 2023
+August 20, 2023
 
 ## Aim and Scope of the Workshop
 
@@ -65,7 +65,7 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 - A Learnable Similarity Metric for Transfer Learning with Dynamics Mismatch
 - Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning
 - Exploiting Long-Range Influences in Learning Generalized Neural Policies for RDDL Relational MDPs
-- Exploiting MDP Symmetries for Offline Reinforcement Learning
+<!-- - Exploiting MDP Symmetries for Offline Reinforcement Learning -->
 - Generalized Planning in PDDL Domains with Pretrained Large Language Models
 - Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning
 - Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models
