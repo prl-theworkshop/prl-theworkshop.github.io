@@ -74,19 +74,18 @@ Poster session
 |    11:00     | **Session 2**    |
 |  | [*pyRDDLGym: From RDDL to Gym Environments*](). Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner. |
 |  | [*Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning*](). Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh. |
-|  11:40 | [*PANEL DISCUSSION*](#panel).  |
-|    12:40     | Lunch    |
-|    14:00     | **Keynote**: [Sheila McIlraith - **Building Taskable RL Agents using Advice, Instructions, and AI Planning**](#sheila-mcilraith) |
-|    14:50     | **Session 3**            |
 |  | [*Multi-Agent Reinforcement Learning with Epistemic Priors*](). Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo. |
 |  | [*Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning*](). Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius. |
+|    12:20     | Lunch    |
+|    13:40     | **Keynote**: [Sheila McIlraith - **Building Taskable RL Agents using Advice, Instructions, and AI Planning**](#sheila-mcilraith) |
+|    14:40 | **Panel Discussion** [*Sequential decision making in the era of large language models*](#panel).  |
 |    15:30     | Coffee break |
 |    16:00     | **Closing remarks, discussion**         |
 |    16:10     | **Poster Session**    |
 |    18:00     | End      |
 
-# Invited Speaker
-## [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/)
+<!-- # Invited Speaker -->
+## [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/) 
 *Title*: **Building Taskable RL Agents using Advice, Instructions, and AI Planning**
 
 <!-- 
@@ -94,8 +93,10 @@ Poster session
 * *Abstract*: Reinforcement Learning (RL) is proving to be a powerful technique for building sequential decision making systems in cases where the complexity of the underlying environment is difficult to model. Two challenges that face RL are reward specification and sample complexity. Specification of a reward function -- a mapping from state to numeric value -- can be challenging, particularly when reward-worthy behaviour is complex and temporally extended. Further, when reward is sparse, it can require millions of exploratory episodes for an RL agent to converge to a reasonable quality policy. In this talk I'll show how formal languages and automata can be used to represent complex non-Markovian reward functions. I'll present the notion of a Reward Machine, an automata-based structure that provides a normal form representation for reward functions, exposing function structure in a manner that greatly expedites learning. Finally, I'll also show how these machines can be generated via symbolic planning or learned from data, solving (deep) RL problems that otherwise could not be solved.
 * *Bio*: Sheila McIlraith is a Professor in the Department of Computer Science, University of Toronto, a Faculty Member at the Vector Institute for Artificial Intelligence, and a Canada CIFAR AI Chair. McIlraith is the author of over 100 scholarly publications in the area of knowledge representation, automated reasoning and machine learning. Her work focuses on AI sequential decision-making broadly construed, through the lens of human-compatible AI.McIlraith is an AAAI Fellow, and an ACM Fellow. She is an associate editor of the Journal of Artificial Intelligence Research (JAIR), and a past associate editor of the journal Artificial Intelligence (AIJ). McIlraith served as program co-chair of AAAI-18, KR2012, and ISWC200. McIlraith's early work on Semantic Web Services has had a notable impact. In 2011 she and her co-authors were honoured with the SWSA 10-year Award, recognizing the highest impact paper from the International Semantic Web Conference, 10 years prior. Her research has also made practical contributions to the development of next-generation NASA space systems and to emerging Web standards. -->
 
-# Panel
-## Tentative topic: sequential decision making in the era of LLMs
+## Panel
+* Topic: Sequential decision making in the era of large language models
+* Panelists: TBD
+
 
 ## List of Accepted Papers
 
