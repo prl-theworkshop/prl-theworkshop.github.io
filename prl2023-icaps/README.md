@@ -92,7 +92,8 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 ## [Panel discussion](#panel-discussion)
 * Topic: Sequential decision making in the era of large language models
-* Panelists: TBD
+* Moderator: Christian Muise
+* Panelists: Leslie P. Kaelbling, Subbarao Kambhampati, Erez Karpas, Michael Katz, ChatGPT (operated by Timo Gros).
 
 ## Talks 
 Select accepted papers are given a slot in the program: 15 minutes content + 5 minutes for questions.
