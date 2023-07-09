@@ -52,16 +52,16 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 |:------------:|:-----------|
 |     9:00     | Opening Remarks          |
 |     9:10     |  **Session 1**            |
-|  | [*Value Function Learning via Prolonged Backward Heuristic Search*](papers/value-function-learning-via-prolonged-backward-heuristic.pdf). Zlatan Ajanovic, Bakir Lacevic, Jens Kober. |
-|  | [*Learning General Policies with Policy Gradient Methods*](papers/learning-general-policies-with-policy-gradient-methods.pdf). Simon Ståhlberg, Blai Bonet, Hector Geffner. |
-|  | [*Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules*](papers/learning-hierarchical-policies-by-iteratively-reducing.pdf). Dominik Drexler, Jendrik Seipp, Hector Geffner. |
+|  | [*Value Function Learning via Prolonged Backward Heuristic Search*](papers/value-function-learning.pdf). Zlatan Ajanovic, Bakir Lacevic, Jens Kober. |
+|  | [*Learning General Policies with Policy Gradient Methods*](papers/learning-general-policies.pdf). Simon Ståhlberg, Blai Bonet, Hector Geffner. |
+|  | [*Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules*](papers/learning-hierarchical-policies.pdf). Dominik Drexler, Jendrik Seipp, Hector Geffner. |
 |  | [*Towards a Unified Framework for Sequential Decision Making*](papers/towards-a-unified-framework-for-sequential.pdf). Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares. |
 |    10:30     | Coffee break |
 |    11:00     | **Session 2**    |
-|  | [*pyRDDLGym: From RDDL to Gym Environments*](papers/pyrddlgym-from-rddl-to-gym-environments.pdf). Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner. |
-|  | [*Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning*](papers/inapplicable-actions-learning-for-knowledge-transfer.pdf). Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh. |
-|  | [*Multi-Agent Reinforcement Learning with Epistemic Priors*](papers/multi-agent-reinforcement-learning-with-epistemic.pdf). Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo. |
-|  | [*Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning*](papers/mind-the-uncertainty-risk-aware-and-actively-exploring.pdf). Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius. |
+|  | [*pyRDDLGym: From RDDL to Gym Environments*](papers/pyrddlgym-from-rddl-to-gym.pdf). Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner. |
+|  | [*Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning*](papers/inapplicable-actions-learning.pdf). Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh. |
+|  | [*Multi-Agent Reinforcement Learning with Epistemic Priors*](papers/multi-agent-reinforcement-learning.pdf). Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo. |
+|  | [*Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning*](papers/mind-the-uncertainty.pdf). Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius. |
 |    12:20     | Lunch    |
 |    13:40     | **Keynote**: [Sheila McIlraith - **Building Taskable RL Agents using Advice, Instructions, and AI Planning**](#sheila-mcilraith) |
 |    14:40 | **Panel Discussion** [*Sequential decision making in the era of large language models*](#panel-discussion).  |
@@ -104,20 +104,20 @@ All accepted papers are expected to participate in the poster session
 
 ## List of Accepted Papers
 
-* [oral+poster] [pyRDDLGym: From RDDL to Gym Environments](papers/pyrddlgym-from-rddl-to-gym-environments.pdf) (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
-* [oral+poster] [Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning](papers/inapplicable-actions-learning-for-knowledge-transfer.pdf) (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
-* [poster only] Meta-operators for Enabling Parallel Planning Using Deep Reinforcement Learning (Ángel Aso Mollar, Eva Onaindia)
-* [poster only] Model Learning to Solve Minecraft Tasks (Yarin Benyamin, Argaman Mordoch, Roni Stern, Shahaf S. Shperberg)
+* [oral+poster] [pyRDDLGym: From RDDL to Gym Environments](papers/pyrddlgym-from-rddl-to-gym.pdf) (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
+* [oral+poster] [Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning](papers/inapplicable-actions-learning.pdf) (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
+* [poster only] [Meta-operators for Enabling Parallel Planning Using Deep Reinforcement Learning](papers/meta-operators-parallel-planning.pdf) (Ángel Aso Mollar, Eva Onaindia)
+* [poster only] [Model Learning to Solve Minecraft Tasks](papers/model-learning-minecraft-tasks.pdf) (Yarin Benyamin, Argaman Mordoch, Roni Stern, Shahaf S. Shperberg)
 * [oral+poster] [Towards a Unified Framework for Sequential Decision Making](papers/towards-a-unified-framework-for-sequential.pdf) (Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares)
-* [poster only] Policy Refinement with Human Feedback for Safe Reinforcement Learning (Ali Baheri)
-* [oral+poster] [Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules](papers/learning-hierarchical-policies-by-iteratively-reducing.pdf) (Dominik Drexler, Jendrik Seipp, Hector Geffner)
-* [oral+poster] [Learning General Policies with Policy Gradient Methods](papers/learning-general-policies-with-policy-gradient-methods.pdf) (Simon Ståhlberg, Blai Bonet, Hector Geffner)
-* [oral+poster] [Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning](papers/mind-the-uncertainty-risk-aware-and-actively-exploring.pdf) (Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius)
-* [poster only] Joint Learning of Policy with Unknown Temporal Constraints for Safe Reinforcement Learning (Ali Baheri)
-* [oral+poster] [Multi-Agent Reinforcement Learning with Epistemic Priors](papers/multi-agent-reinforcement-learning-with-epistemic.pdf) (Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo)
-* [poster only] Preemptive Restraining Bolts (Giovanni Varricchione, Natasha Alechina, Mehdi Dastani, Giuseppe De Giacomo, Brian Logan, Giuseppe Perelli)
-* [poster only] Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model (Matan Sudry, Tom Jurgenson, Aviv Tamar, Erez Karpas)
-* [oral+poster] [Value Function Learning via Prolonged Backward Heuristic Search](papers/value-function-learning-via-prolonged-backward-heuristic.pdf) (Zlatan Ajanovic, Bakir Lacevic, Jens Kober)
+* [poster only] [Policy Refinement with Human Feedback for Safe Reinforcement Learning](papers/policy-refinement-human-feedback.pdf) (Ali Baheri)
+* [oral+poster] [Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules](papers/learning-hierarchical-policies.pdf) (Dominik Drexler, Jendrik Seipp, Hector Geffner)
+* [oral+poster] [Learning General Policies with Policy Gradient Methods](papers/learning-general-policies.pdf) (Simon Ståhlberg, Blai Bonet, Hector Geffner)
+* [oral+poster] [Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning](papers/mind-the-uncertainty.pdf) (Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius)
+* [poster only] [Joint Learning of Policy with Unknown Temporal Constraints for Safe Reinforcement Learning](papers/joint-learning-policy-temporal-constraints.pdf) (Ali Baheri)
+* [oral+poster] [Multi-Agent Reinforcement Learning with Epistemic Priors](papers/multi-agent-reinforcement-learning.pdf) (Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo)
+* [poster only] [Preemptive Restraining Bolts](papers/preemptive-restraining-bolts.pdf) (Giovanni Varricchione, Natasha Alechina, Mehdi Dastani, Giuseppe De Giacomo, Brian Logan, Giuseppe Perelli)
+* [poster only] [Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model](papers/hierarchical-planning-rope-manipulation.pdf) (Matan Sudry, Tom Jurgenson, Aviv Tamar, Erez Karpas)
+* [oral+poster] [Value Function Learning via Prolonged Backward Heuristic Search](papers/value-function-learning.pdf) (Zlatan Ajanovic, Bakir Lacevic, Jens Kober)
 
 
 ## Submission Details
