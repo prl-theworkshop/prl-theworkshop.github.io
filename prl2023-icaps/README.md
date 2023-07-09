@@ -52,16 +52,16 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 |:------------:|:-----------|
 |     9:00     | Opening Remarks          |
 |     9:10     |  **Session 1**            |
-|  | [*Value Function Learning via Prolonged Backward Heuristic Search*](). Zlatan Ajanovic, Bakir Lacevic, Jens Kober. |
-|  | [*Learning General Policies with Policy Gradient Methods*](). Simon Ståhlberg, Blai Bonet, Hector Geffner. |
-|  | [*Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules*](). Dominik Drexler, Jendrik Seipp, Hector Geffner. |
-|  | [*Towards a Unified Framework for Sequential Decision Making*](). Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares. |
+|  | [*Value Function Learning via Prolonged Backward Heuristic Search*](papers/value-function-learning-via-prolonged-backward-heuristic.pdf). Zlatan Ajanovic, Bakir Lacevic, Jens Kober. |
+|  | [*Learning General Policies with Policy Gradient Methods*](papers/learning-general-policies-with-policy-gradient-methods.pdf). Simon Ståhlberg, Blai Bonet, Hector Geffner. |
+|  | [*Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules*](papers/learning-hierarchical-policies-by-iteratively-reducing.pdf). Dominik Drexler, Jendrik Seipp, Hector Geffner. |
+|  | [*Towards a Unified Framework for Sequential Decision Making*](papers/towards-a-unified-framework-for-sequential.pdf). Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares. |
 |    10:30     | Coffee break |
 |    11:00     | **Session 2**    |
-|  | [*pyRDDLGym: From RDDL to Gym Environments*](). Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner. |
-|  | [*Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning*](). Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh. |
-|  | [*Multi-Agent Reinforcement Learning with Epistemic Priors*](). Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo. |
-|  | [*Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning*](). Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius. |
+|  | [*pyRDDLGym: From RDDL to Gym Environments*](papers/pyrddlgym-from-rddl-to-gym-environments.pdf). Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner. |
+|  | [*Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning*](papers/inapplicable-actions-learning-for-knowledge-transfer.pdf). Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh. |
+|  | [*Multi-Agent Reinforcement Learning with Epistemic Priors*](papers/multi-agent-reinforcement-learning-with-epistemic.pdf). Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo. |
+|  | [*Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning*](papers/mind-the-uncertainty-risk-aware-and-actively-exploring.pdf). Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius. |
 |    12:20     | Lunch    |
 |    13:40     | **Keynote**: [Sheila McIlraith - **Building Taskable RL Agents using Advice, Instructions, and AI Planning**](#sheila-mcilraith) |
 |    14:40 | **Panel Discussion** [*Sequential decision making in the era of large language models*](#panel-discussion).  |
@@ -75,9 +75,9 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 <!-- The event consists of: -->
 
-<!-- * [Invited talk](#invited-speaker). 40 minutes content + 10 minutes for questions.
+<!-- * [Invited talk](#invited-speaker). 40 minutes for content + 10 minutes for questions.
 	* [Sheila McIlraith](#sheila-mcilraith) 
-* Talks for select accepted papers. 15 minutes content + 5 minutes for questions.
+* Talks for select accepted papers. 15 minutes for content + 5 minutes for questions.
 * [Panel discussion](#panel). 60 minutes panel discussion.
 * Poster session for all accepted papers. -->
 
@@ -91,12 +91,12 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 * *Bio*: Sheila McIlraith is a Professor in the Department of Computer Science, University of Toronto, a Faculty Member at the Vector Institute for Artificial Intelligence, and a Canada CIFAR AI Chair. McIlraith is the author of over 100 scholarly publications in the area of knowledge representation, automated reasoning and machine learning. Her work focuses on AI sequential decision-making broadly construed, through the lens of human-compatible AI.McIlraith is an AAAI Fellow, and an ACM Fellow. She is an associate editor of the Journal of Artificial Intelligence Research (JAIR), and a past associate editor of the journal Artificial Intelligence (AIJ). McIlraith served as program co-chair of AAAI-18, KR2012, and ISWC200. McIlraith's early work on Semantic Web Services has had a notable impact. In 2011 she and her co-authors were honoured with the SWSA 10-year Award, recognizing the highest impact paper from the International Semantic Web Conference, 10 years prior. Her research has also made practical contributions to the development of next-generation NASA space systems and to emerging Web standards. -->
 
 ## [Panel discussion](#panel-discussion)
-* Topic: Sequential decision making in the era of large language models
+* Topic: Sequential decision-making in the era of large language models
 * Moderator: Christian Muise
 * Panelists: Leslie P. Kaelbling, Subbarao Kambhampati, Erez Karpas, Michael Katz, ChatGPT (operated by Timo Gros).
 
 ## Talks 
-Select accepted papers are given a slot in the program: 15 minutes content + 5 minutes for questions.
+Select accepted papers are given a slot in the program: 15 minutes for content + 5 minutes for questions.
 
 ## Poster session 
 All accepted papers are expected to participate in the poster session
@@ -104,20 +104,20 @@ All accepted papers are expected to participate in the poster session
 
 ## List of Accepted Papers
 
-* [oral+poster] pyRDDLGym: From RDDL to Gym Environments (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
-* [oral+poster] Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
+* [oral+poster] [pyRDDLGym: From RDDL to Gym Environments](papers/pyrddlgym-from-rddl-to-gym-environments.pdf) (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
+* [oral+poster] [Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning](papers/inapplicable-actions-learning-for-knowledge-transfer.pdf) (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
 * [poster only] Meta-operators for Enabling Parallel Planning Using Deep Reinforcement Learning (Ángel Aso Mollar, Eva Onaindia)
 * [poster only] Model Learning to Solve Minecraft Tasks (Yarin Benyamin, Argaman Mordoch, Roni Stern, Shahaf S. Shperberg)
-* [oral+poster] Towards a Unified Framework for Sequential Decision Making (Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares)
+* [oral+poster] [Towards a Unified Framework for Sequential Decision Making](papers/towards-a-unified-framework-for-sequential.pdf) (Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares)
 * [poster only] Policy Refinement with Human Feedback for Safe Reinforcement Learning (Ali Baheri)
-* [oral+poster] Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules (Dominik Drexler, Jendrik Seipp, Hector Geffner)
-* [oral+poster] Learning General Policies with Policy Gradient Methods (Simon Ståhlberg, Blai Bonet, Hector Geffner)
-* [oral+poster] Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning (Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius)
+* [oral+poster] [Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules](papers/learning-hierarchical-policies-by-iteratively-reducing.pdf) (Dominik Drexler, Jendrik Seipp, Hector Geffner)
+* [oral+poster] [Learning General Policies with Policy Gradient Methods](papers/learning-general-policies-with-policy-gradient-methods.pdf) (Simon Ståhlberg, Blai Bonet, Hector Geffner)
+* [oral+poster] [Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning](papers/mind-the-uncertainty-risk-aware-and-actively-exploring.pdf) (Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius)
 * [poster only] Joint Learning of Policy with Unknown Temporal Constraints for Safe Reinforcement Learning (Ali Baheri)
-* [oral+poster] Multi-Agent Reinforcement Learning with Epistemic Priors (Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo)
+* [oral+poster] [Multi-Agent Reinforcement Learning with Epistemic Priors](papers/multi-agent-reinforcement-learning-with-epistemic.pdf) (Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo)
 * [poster only] Preemptive Restraining Bolts (Giovanni Varricchione, Natasha Alechina, Mehdi Dastani, Giuseppe De Giacomo, Brian Logan, Giuseppe Perelli)
 * [poster only] Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model (Matan Sudry, Tom Jurgenson, Aviv Tamar, Erez Karpas)
-* [oral+poster] Value Function Learning via Prolonged Backward Heuristic Search (Zlatan Ajanovic, Bakir Lacevic, Jens Kober)
+* [oral+poster] [Value Function Learning via Prolonged Backward Heuristic Search](papers/value-function-learning-via-prolonged-backward-heuristic.pdf) (Zlatan Ajanovic, Bakir Lacevic, Jens Kober)
 
 
 ## Submission Details
