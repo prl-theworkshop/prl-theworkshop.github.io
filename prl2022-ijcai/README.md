@@ -1,5 +1,8 @@
 # Bridging the Gap Between AI Planning and Reinforcement Learning (PRL @ IJCAI) – [Workshop at IJCAI 2022 (July 24)](https://ijcai-22.org)
 
+< [Link to other workshops in the series](https://prl-theworkshop.github.io)
+
+
 ### This site presents the most up-to-date information about the PRL @ IJCAI workshop. Please, visit [IJCAI 2022](https://ijcai-22.org) for information about the general conference.
 
 While  AI  Planning and  Reinforcement  Learning  communities focus  on  similar

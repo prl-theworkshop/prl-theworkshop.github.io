@@ -1,5 +1,8 @@
 # Bridging the Gap Between AI Planning and Reinforcement Learning (PRL @ ICAPS) – [Workshop at ICAPS 2022 (June 13)](http://icaps22.icaps-conference.org/)
 
+< [Link to other workshops in the series](https://prl-theworkshop.github.io)
+
+
 ### This site presents the most up-to-date information about the PRL @ ICAPS workshop. Please, visit [ICAPS 2022](http://icaps22.icaps-conference.org) for information about the general conference.
 
 NEWS: This year the PRL workshop will have two editions:

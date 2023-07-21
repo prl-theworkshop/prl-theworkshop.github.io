@@ -2,7 +2,8 @@
 
 IJCAI'23 Workshop \
 Macao, S.A.R \
-August 20, 2023
+August 20, 2023 (Full Day) \
+Room: Almaty 6003
 
 ## Aim and Scope of the Workshop
 
