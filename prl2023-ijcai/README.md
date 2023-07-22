@@ -63,24 +63,24 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 
 ## List of Accepted Papers
 
-- A Learnable Similarity Metric for Transfer Learning with Dynamics Mismatch
-- Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning
-- Exploiting Long-Range Influences in Learning Generalized Neural Policies for RDDL Relational MDPs
+- [poster only] A Learnable Similarity Metric for Transfer Learning with Dynamics Mismatch
+- [poster only] Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning
+- [oral+poster] Exploiting Long-Range Influences in Learning Generalized Neural Policies for RDDL Relational MDPs
 <!-- - Exploiting MDP Symmetries for Offline Reinforcement Learning -->
-- Generalized Planning in PDDL Domains with Pretrained Large Language Models
-- Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning
-- Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models
-- Learning Neuro-Symbolic World Models with Logical Neural Networks
-- Learning Parameterized Policies for Planning Annotated RL
-- Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks
-- Learning to Create Abstraction Hierarchies for Motion Planning under Uncertainty
-- Learning to Plan with Tree Search via Deep RL
-- Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest
-- Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates
-- Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems
-- Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning
-- Towards More Likely Models for AI Planning
-- Using Reverse Reinforcement Learning for Assembly Tasks
+- [oral+poster] Generalized Planning in PDDL Domains with Pretrained Large Language Models
+- [oral+poster] Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning
+- [poster only] Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models
+- [poster only] Learning Neuro-Symbolic World Models with Logical Neural Networks
+- [oral+poster] Learning Parameterized Policies for Planning Annotated RL
+- [poster only] Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks
+- [oral+poster] Learning to Create Abstraction Hierarchies for Motion Planning under Uncertainty
+- [poster only] Learning to Plan with Tree Search via Deep RL
+- [oral+poster] Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest
+- [poster only] Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates
+- [oral+poster] Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems
+- [oral+poster] Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning
+- [poster only] Towards More Likely Models for AI Planning
+- [poster only] Using Reverse Reinforcement Learning for Assembly Tasks
 
 <!-- ### Workshop Proceedings (optional)
 
