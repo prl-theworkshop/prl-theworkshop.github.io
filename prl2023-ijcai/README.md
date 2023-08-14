@@ -61,12 +61,41 @@ invited to use the appendix of their submissions for that purpose.
 
 Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2023/IJCAI).
 
+
+## Schedule
+
+
+
+| Start Time (Macao local time) | Title |
+|:------------:|:-----------|
+|     9:00     | Opening Remarks          |
+|         |  **Session 1**      |
+|  9:10 | Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning |
+|  9:30 |Learning to Plan with Tree Search via Deep RL |
+| 9:50 | Learning Parameterized Policies for Planning Annotated RL |
+| 10:10 | Generalized Planning in PDDL Domains with Pretrained Large Language Models |
+|    10:30     | ---Coffee break--- |
+|    11:00     | *Invited Talk*: [Siddharth Srivastava](http://siddharthsrivastava.net) <br> **Learning Abstractions for Generalizable Planning, Learning, and Reinforcement Learning.** |
+|    | **Session 2**   |
+| 11:50 | Learning to Create Abstraction Hierarchies for Motion Planning under Uncertainty |
+| 12:10 | Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning |
+|    12:30     | ---Lunch---    |
+|    14:00  | *Invited Talk*: [Akhil Bagaria](https://abagaria.github.io) <br> **Skill Discovery for Exploration and Planning** <br> <!--Bio: Akhil Bagaria is a PhD candidate at Brown University working on RL with George Konidaris. Prior to that, he worked on the multitouch team at Apple where he developed gesture recognition algorithms that are shipping on Macbooks and iPads. He did his undergrad from Harvey Mudd College in Southern California, where his research included tracking sharks with autonomous underwater robots. --> |
+|        | **Session 3**    | 
+| 14:50 | TBA |
+| 15:10 | Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest |
+|    15:30     | ---Coffee break--- |
+|    16:00     | Concluding Remarks |
+|    16:10   | **Poster Session** |
+|    17:30   | -- END -- |
+
+
+
 ## List of Accepted Papers
 
 - [poster only] A Learnable Similarity Metric for Transfer Learning with Dynamics Mismatch
 - [poster only] Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning
 - [oral+poster] Exploiting Long-Range Influences in Learning Generalized Neural Policies for RDDL Relational MDPs
-<!-- - Exploiting MDP Symmetries for Offline Reinforcement Learning -->
 - [oral+poster] Generalized Planning in PDDL Domains with Pretrained Large Language Models
 - [oral+poster] Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning
 - [poster only] Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models
@@ -77,7 +106,7 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 - [poster only] Learning to Plan with Tree Search via Deep RL
 - [oral+poster] Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest
 - [poster only] Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates
-- [oral+poster] Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems
+- [poster] Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems
 - [oral+poster] Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning
 - [poster only] Towards More Likely Models for AI Planning
 - [poster only] Using Reverse Reinforcement Learning for Assembly Tasks
