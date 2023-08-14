@@ -75,12 +75,12 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 | 9:50 | Learning Parameterized Policies for Planning Annotated RL |
 | 10:10 | Generalized Planning in PDDL Domains with Pretrained Large Language Models |
 |    10:30     | ---Coffee break--- |
-|    11:00     | *Invited Talk*: [Siddharth Srivastava](http://siddharthsrivastava.net) <br> **Learning Abstractions for Generalizable Planning, Learning, and Reinforcement Learning.** |
+|    11:00     | [*Invited Talk: Siddharth Srivastava*](#siddharth-srivastava) <br> **Learning Abstractions for Generalizable Planning, Learning, and Reinforcement Learning.** |
 |    | **Session 2**   |
 | 11:50 | Learning to Create Abstraction Hierarchies for Motion Planning under Uncertainty |
 | 12:10 | Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning |
 |    12:30     | ---Lunch---    |
-|    14:00  | *Invited Talk*: [Akhil Bagaria](https://abagaria.github.io) <br> **Skill Discovery for Exploration and Planning** <br> <!--Bio: Akhil Bagaria is a PhD candidate at Brown University working on RL with George Konidaris. Prior to that, he worked on the multitouch team at Apple where he developed gesture recognition algorithms that are shipping on Macbooks and iPads. He did his undergrad from Harvey Mudd College in Southern California, where his research included tracking sharks with autonomous underwater robots. --> |
+|    14:00  | [*Invited Talk: Akhil Bagaria*](#akhil-bagaria) <br> **Skill Discovery for Exploration and Planning** <br> <!--Bio: Akhil Bagaria is a PhD candidate at Brown University working on RL with George Konidaris. Prior to that, he worked on the multitouch team at Apple where he developed gesture recognition algorithms that are shipping on Macbooks and iPads. He did his undergrad from Harvey Mudd College in Southern California, where his research included tracking sharks with autonomous underwater robots. --> |
 |        | **Session 3**    | 
 | 14:50 | TBA |
 | 15:10 | Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest |
@@ -89,6 +89,34 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 |    16:10   | **Poster Session** |
 |    17:30   | -- END -- |
 
+##  Invited Talks
+
+
+### Siddharth Srivastava
+
+<div style="text-align: center;">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="http://siddharthsrivastava.net/srivastava.jpg">
+</div> 
+
+
+**Learning Abstractions for Generalizable Planning, Learning, and Reinforcement Learning.** 
+
+<!-- Abstract: TBA -->
+
+<!-- Bio: [Siddharth Srivastava](http://siddharthsrivastava.net) -->
+
+### Akhil Bagaria
+
+<div style="text-align: center;">
+<img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="https://abagaria.github.io/img/abagaria2.JPG">
+</div> 
+
+
+**Skill Discovery for Exploration and Planning.** 
+
+<!-- Abstract: TBA -->
+
+Bio: [Akhil Bagaria](https://abagaria.github.io) is a PhD candidate at Brown University working on RL with George Konidaris. Prior to that, he worked on the multitouch team at Apple where he developed gesture recognition algorithms that are shipping on Macbooks and iPads. He did his undergrad from Harvey Mudd College in Southern California, where his research included tracking sharks with autonomous underwater robots.
 
 
 ## List of Accepted Papers
