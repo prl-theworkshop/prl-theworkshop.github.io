@@ -95,18 +95,20 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 ### Siddharth Srivastava
 
 <div style="text-align: center;">
+
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="http://siddharthsrivastava.net/srivastava.jpg">
+</div> 
 
+<!-- <div style="text-align: center;"> -->
 
-
-**Learning Abstractions for Generalizable Planning, Learning, and Reinforcement Learning.** 
+**Learning Abstractions for Generalizable Planning, Learning, and Reinforcement Learning**
 
 
 Can we build autonomous agents that learn generalizable knowledge and use it to reliably accomplish previously unseen tasks? In this talk, I will present our recent advances in neuro-symbolic learning for a range of sequential decision-making problems that feature long horizons and sparse rewards. Using results from our recent work, I will discuss how learning and using abstractions not only reduces the need for human input, but also helps ensure correctness and extends generalizability of learned knowledge to problems that were not seen during training. Throughout the talk, I will illustrate research advances with results in a variety of sequential decision-making settings including long-horizon planning under uncertainty, reinforcement learning, and robot planning.
 
-*[Siddharth Srivastava](http://siddharthsrivastava.net) is an Associate Professor of Computer Science in the School of Computing and Augmented Intelligence at Arizona State University.  He received his PhD in Computer Science at the University of Massachusetts, Amherst, and did his postdoctoral research at UC Berkeley. His research focuses on safe and reliable taskable AI systems, AI assessment, and AI safety. He is a recipient of the NSF CAREER award, a Best Paper award at the International Conference on Automated Planning and Scheduling (ICAPS), an Outstanding Dissertation award at UMass Amherst, and a Best Final Year Thesis Award at IIT Kanpur. He served as conference Co-Chair for ICAPS 2019 and currently serves as an Associate Editor for the Journal of AI Research.*
+> *[Siddharth Srivastava](http://siddharthsrivastava.net) is an Associate Professor of Computer Science in the School of Computing and Augmented Intelligence at Arizona State University.  He received his PhD in Computer Science at the University of Massachusetts, Amherst, and did his postdoctoral research at UC Berkeley. His research focuses on safe and reliable taskable AI systems, AI assessment, and AI safety. He is a recipient of the NSF CAREER award, a Best Paper award at the International Conference on Automated Planning and Scheduling (ICAPS), an Outstanding Dissertation award at UMass Amherst, and a Best Final Year Thesis Award at IIT Kanpur. He served as conference Co-Chair for ICAPS 2019 and currently serves as an Associate Editor for the Journal of AI Research.*
 
-</div> 
+<!-- </div>  -->
 
 
 ### Akhil Bagaria
@@ -120,7 +122,7 @@ Can we build autonomous agents that learn generalizable knowledge and use it to 
 
 <!-- Abstract: TBA -->
 
-Bio: [Akhil Bagaria](https://abagaria.github.io) is a PhD candidate at Brown University working on RL with George Konidaris. Prior to that, he worked on the multitouch team at Apple where he developed gesture recognition algorithms that are shipping on Macbooks and iPads. He did his undergrad from Harvey Mudd College in Southern California, where his research included tracking sharks with autonomous underwater robots.
+> *[Akhil Bagaria](https://abagaria.github.io) is a PhD candidate at Brown University working on RL with George Konidaris. Prior to that, he worked on the multitouch team at Apple where he developed gesture recognition algorithms that are shipping on Macbooks and iPads. He did his undergrad from Harvey Mudd College in Southern California, where his research included tracking sharks with autonomous underwater robots.*
 
 
 ## List of Accepted Papers
