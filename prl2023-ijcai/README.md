@@ -120,7 +120,7 @@ Can we build autonomous agents that learn generalizable knowledge and use it to 
 
 **Skill Discovery for Exploration and Planning.** 
 
-<!-- Abstract: TBA -->
+To create generally capable, intelligent machines, we must equip our agents with the ability to autonomously acquire their own abstractions. My research addresses this question using tools from reinforcement learning and planning. In this talk, I will discuss ways in which agents may discover temporally-extended abstract actions (or options). Next, I will discuss how discovered options induce a form of state abstraction, which can be used for planning. Finally, I will discuss how the discovery of abstract states and actions can be interleaved in a never-ending cycle to create agents that continually increase their competence in the world.
 
 > *[Akhil Bagaria](https://abagaria.github.io) is a PhD candidate at Brown University working on RL with George Konidaris. Prior to that, he worked on the multitouch team at Apple where he developed gesture recognition algorithms that are shipping on Macbooks and iPads. He did his undergrad from Harvey Mudd College in Southern California, where his research included tracking sharks with autonomous underwater robots.*
 
