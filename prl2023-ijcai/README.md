@@ -82,7 +82,7 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 |    12:30     | ---Lunch---    |
 |    14:00  | [*Invited Talk: Akhil Bagaria*](#akhil-bagaria) <br> **Skill Discovery for Exploration and Planning** <br> <!--Bio: Akhil Bagaria is a PhD candidate at Brown University working on RL with George Konidaris. Prior to that, he worked on the multitouch team at Apple where he developed gesture recognition algorithms that are shipping on Macbooks and iPads. He did his undergrad from Harvey Mudd College in Southern California, where his research included tracking sharks with autonomous underwater robots. --> |
 |        | **Session 3**    | 
-| 14:50 | TBA |
+| 14:50 | Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks |
 | 15:10 | Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest |
 |    15:30     | ---Coffee break--- |
 |    16:00     | Concluding Remarks |
