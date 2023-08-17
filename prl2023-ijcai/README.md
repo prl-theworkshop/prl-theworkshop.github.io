@@ -70,7 +70,7 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 |:------------:|:-----------|
 |     9:00     | Opening Remarks          |
 |         |  **Session 1**      |
-|  9:10 | Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning |
+|  9:10 | TBA |
 |  9:30 |Learning to Plan with Tree Search via Deep RL |
 | 9:50 | Learning Parameterized Policies for Planning Annotated RL |
 | 10:10 | Generalized Planning in PDDL Domains with Pretrained Large Language Models |
@@ -127,23 +127,22 @@ To create generally capable, intelligent machines, we must equip our agents with
 
 ## List of Accepted Papers
 
-- [poster only] A Learnable Similarity Metric for Transfer Learning with Dynamics Mismatch
-- [poster only] Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning
-- [oral+poster] Exploiting Long-Range Influences in Learning Generalized Neural Policies for RDDL Relational MDPs
-- [oral+poster] Generalized Planning in PDDL Domains with Pretrained Large Language Models
-- [oral+poster] Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning
-- [poster only] Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models
-- [poster only] Learning Neuro-Symbolic World Models with Logical Neural Networks
-- [oral+poster] Learning Parameterized Policies for Planning Annotated RL
-- [poster only] Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks
-- [oral+poster] Learning to Create Abstraction Hierarchies for Motion Planning under Uncertainty
-- [poster only] Learning to Plan with Tree Search via Deep RL
-- [oral+poster] Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest
-- [poster only] Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates
-- [poster] Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems
-- [oral+poster] Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning
-- [poster only] Towards More Likely Models for AI Planning
-- [poster only] Using Reverse Reinforcement Learning for Assembly Tasks
+- [poster only] [A Learnable Similarity Metric for Transfer Learning with Dynamics Mismatch](https://openreview.net/forum?id=78n3SG6xMY)
+- [oral+poster] [SymNet 3.0: Exploiting Long-Range Influences in Learning Generalized Neural Policies for Relational MDPs](https://openreview.net/forum?id=Xmg5ijSwT7)
+- [oral+poster] [Generalized Planning in PDDL Domains with Pretrained Large Language Models](https://openreview.net/forum?id=ilHDGs2clY)
+- [oral+poster] [Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning](https://openreview.net/forum?id=vMV4tsA639)
+- [poster only] [Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models](https://openreview.net/forum?id=3r2UriIlt0)
+- [poster only] [Learning Neuro-Symbolic World Models with Logical Neural Networks](https://openreview.net/forum?id=VD0ksRTljb)
+- [oral+poster] [Learning Parameterized Policies for Planning Annotated RL](https://openreview.net/forum?id=hZGVyaRP3i)
+- [oral+poster] [Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks](https://openreview.net/forum?id=znb7lccBdq)
+- [oral+poster] [Learning to Create Abstraction Hierarchies for Motion Planning under Uncertainty](https://openreview.net/forum?id=25zjXzuGW9)
+- [oral+poster] [Learning to Plan with Tree Search via Deep RL](https://openreview.net/forum?id=IP5kPfDu3w)
+- [oral+poster] [Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest](https://openreview.net/forum?id=mQtyk75pYZ)
+- [poster only] [Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates](https://openreview.net/forum?id=rpQSjBbqMi)
+- [poster] [Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems](https://openreview.net/forum?id=L3J5yBbjOf)
+- [poster only] [Towards More Likely Models for AI Planning](https://openreview.net/forum?id=iRH5ZhDCZv)
+- [poster only] [Using Reverse Reinforcement Learning for Assembly Tasks](https://openreview.net/forum?id=TotRALQeDH)
+<!-- - [poster] [Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning](https://openreview.net/forum?id=0ttDOpn0XK) -->
 
 <!-- ### Workshop Proceedings (optional)
 
