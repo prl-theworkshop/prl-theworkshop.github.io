@@ -70,7 +70,7 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 |:------------:|:-----------|
 |     9:00     | Opening Remarks          |
 |         |  **Session 1**      |
-|  9:10 | TBA |
+|  9:10 | Learning Neuro-Symbolic World Models with Logical Neural Networks |
 |  9:30 |Learning to Plan with Tree Search via Deep RL |
 | 9:50 | Learning Parameterized Policies for Planning Annotated RL |
 | 10:10 | Generalized Planning in PDDL Domains with Pretrained Large Language Models |
@@ -131,7 +131,7 @@ To create generally capable, intelligent machines, we must equip our agents with
 - [poster only] [SymNet 3.0: Exploiting Long-Range Influences in Learning Generalized Neural Policies for Relational MDPs](https://openreview.net/forum?id=Xmg5ijSwT7)
 - [oral+poster] [Generalized Planning in PDDL Domains with Pretrained Large Language Models](https://openreview.net/forum?id=ilHDGs2clY)
 - [oral+poster] [Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning](https://openreview.net/forum?id=vMV4tsA639)
-- [poster only] [Learning Neuro-Symbolic World Models with Logical Neural Networks](https://openreview.net/forum?id=VD0ksRTljb)
+- [oral+poster] [Learning Neuro-Symbolic World Models with Logical Neural Networks](https://openreview.net/forum?id=VD0ksRTljb)
 - [oral+poster] [Learning Parameterized Policies for Planning Annotated RL](https://openreview.net/forum?id=hZGVyaRP3i)
 - [oral+poster] [Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks](https://openreview.net/forum?id=znb7lccBdq)
 - [oral+poster] [Learning to Create Abstraction Hierarchies for Motion Planning under Uncertainty](https://openreview.net/forum?id=25zjXzuGW9)
@@ -141,7 +141,7 @@ To create generally capable, intelligent machines, we must equip our agents with
 - [poster only] [Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems](https://openreview.net/forum?id=L3J5yBbjOf)
 - [poster only] [Towards More Likely Models for AI Planning](https://openreview.net/forum?id=iRH5ZhDCZv)
 - [poster only] [Using Reverse Reinforcement Learning for Assembly Tasks](https://openreview.net/forum?id=TotRALQeDH)
-<!-- - [poster] [Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning](https://openreview.net/forum?id=0ttDOpn0XK) -->
+- [poster only] [Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning](https://openreview.net/forum?id=0ttDOpn0XK)
 
 <!-- ### Workshop Proceedings (optional)
 
