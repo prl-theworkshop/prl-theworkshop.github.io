@@ -29,7 +29,7 @@ Room: Almaty 6003
 | 15:10 | Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest |
 |    15:30     | ---Coffee break--- |
 |        | **Session 4**    | 
-| 16:00  | Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks |
+| 16:00  | Using Reverse Reinforcement Learning for Assembly Tasks |
 | 16:20   | Concluding Remarks (and poster setup)|
 | 16:30   | **Poster Session** |
 |    17:30   | -- END -- |
@@ -85,7 +85,7 @@ To create generally capable, intelligent machines, we must equip our agents with
 - [poster only] [Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates](https://openreview.net/forum?id=rpQSjBbqMi)
 - [poster only] [Task Scoping: Generating Task-Specific Simplifications of Open-Scope Planning Problems](https://openreview.net/forum?id=L3J5yBbjOf)
 - [poster only] [Towards More Likely Models for AI Planning](https://openreview.net/forum?id=iRH5ZhDCZv)
-- [poster only] [Using Reverse Reinforcement Learning for Assembly Tasks](https://openreview.net/forum?id=TotRALQeDH)
+- [oral+poster] [Using Reverse Reinforcement Learning for Assembly Tasks](https://openreview.net/forum?id=TotRALQeDH)
 - [poster only] [Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning](https://openreview.net/forum?id=0ttDOpn0XK)
 
 
