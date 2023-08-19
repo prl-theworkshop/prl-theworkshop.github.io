@@ -28,8 +28,10 @@ Room: Almaty 6003
 | 14:50 | Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks |
 | 15:10 | Object-Centric Learning of Neural Policies for Zero-shot Transfer over Domains with Varying Quantities of Interest |
 |    15:30     | ---Coffee break--- |
-|    16:00     | Concluding Remarks |
-|    16:10   | **Poster Session** |
+|        | **Session 4**    | 
+| 16:00  | Learning State Reachability as a Graph in Translation Invariant Goal-based Reinforcement Learning Tasks |
+| 16:20   | Concluding Remarks (and poster setup)|
+| 16:30   | **Poster Session** |
 |    17:30   | -- END -- |
 
 ##  Invited Talks
