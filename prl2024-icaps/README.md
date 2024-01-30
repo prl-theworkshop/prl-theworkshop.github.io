@@ -77,7 +77,7 @@ We solicit workshop paper submissions relevant to the above call of the followin
  * Short papers -- up to 4 pages + unlimited references / appendices
  * Extended abstracts -- up to 2 pages + unlimited references/appendices 
  
-Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/aaai-conference/submission-instructions/). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main ICAPS conference to the workshop.
+Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/aaai-conference/submission-instructions/)). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main ICAPS conference to the workshop.
 
 
 Some accepted long papers will be invited for contributed talks. All accepted papers (long as well as short) and extended abstracts will be given a slot in the poster presentation session.  Extended abstracts are intended as brief summaries of already published papers,  preliminary work, position papers, or challenges that
@@ -89,7 +89,7 @@ invited to use the appendix of their submissions for that purpose.
 
 <!-- timo: we still need to decide whether we want openreview 
 Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2023/ICAPS). -->
-Paper submission information coming soon.
+Paper submission website coming soon.
 
 
 <!-- ### Workshop Proceedings (optional)
