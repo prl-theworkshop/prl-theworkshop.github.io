@@ -1,5 +1,7 @@
 # Bridging the Gap Between AI Planning and Reinforcement Learning (PRL @ IJCAI 2023) – [Workshop at IJCAI 2023](https://ijcai-23.org)
 
+< [Link to other workshops in the series](https://prl-theworkshop.github.io)
+
 IJCAI'23 Workshop \
 Macao, S.A.R \
 August 20, 2023 (Full Day) \
