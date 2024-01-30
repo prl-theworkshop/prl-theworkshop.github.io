@@ -110,7 +110,7 @@ TODO -->
 * Harsha Kokel, IBM Research, ??, USA
 * Simon Ståhlberg, Linköping University, Linköping, Sweden
 * Marcel Steinmetz, University of Toulouse, Toulouse, France
-* Sarath Sreedharan, University of Toronto, Toronto, Canada
+* Ayal Taitler, University of Toronto, Toronto, Canada
 
 
 Please send your inquiries to prl.theworkshop@gmail.com
