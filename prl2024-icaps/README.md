@@ -3,7 +3,7 @@
 < [Link to other workshops in the series](https://prl-theworkshop.github.io)
 
 ICAPS'24 Workshop \
-Banff, Alverta, Canada  \
+Banff, Alberta, Canada  \
 Date: TBA
 
 <!-- **Some of the accepted papers will be invited to be presented at the IJCAI edition of the workshop as well.** -->
@@ -31,7 +31,7 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 * Learning search heuristics for planner guidance
 * Theoretical aspects of planning and reinforcement learning
 * Action policy analysis or certification
-* Reinforcement Learning and planning competition(s)
+* Reinforcement learning and planning competition(s)
 * Multi-agent planning and learning
 * Applications of both reinforcement learning and planning 
 
@@ -107,10 +107,10 @@ TODO -->
 ### Organizing Committee
 
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany
-* [Steven James](https://sdjames.me/), University of the Witwatersrand, Witwatersrand, South Africa
+* [Steven James](https://sdjames.me/), University of the Witwatersrand, Johannesburg, South Africa
 * [Harsha Kokel](http://harshakokel.com), IBM Research, San Jose, USA
 * [Simon Ståhlberg](https://rlplab.com/simon-stahlberg/), Linköping University, Linköping, Sweden
-* [Marcel Steinmetz](https://marcel-steinmetz.org), University of Toulouse, Toulouse, France
+* [Marcel Steinmetz](https://marcel-steinmetz.org), LAAS-CNRS and University of Toulouse, Toulouse, France
 * [Ayal Taitler](https://sites.google.com/view/ataitler/home), University of Toronto, Toronto, Canada
 
 
