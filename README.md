@@ -3,7 +3,7 @@
 
 ## Current Edition
 
-[PRL @ ICAPS 2024](https://prl-theworkshop.github.io/prl2024-icaps/)
+### [PRL @ ICAPS 2024](https://prl-theworkshop.github.io/prl2024-icaps/)
  
 Important Information for PRL@ICAPS 2024
 * Paper submission deadline: March 22th, AOE
