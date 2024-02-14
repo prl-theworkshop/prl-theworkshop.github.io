@@ -1,6 +1,5 @@
-# Bridging the Gap Between AI Planning and Reinforcement Learning ([PRL](https://prl-theworkshop.github.io) @ ICAPS 2024) – [Workshop at ICAPS 2024](https://icaps24.icaps-conference.org/program/workshops/prl/)
-
-< [Link to other workshops in the series](https://prl-theworkshop.github.io)
+# PRL Workshop at [ICAPS 2024](https://icaps24.icaps-conference.org/program/workshops/prl/)
+Bridging the Gap Between AI Planning and Reinforcement Learning
 
 ICAPS'24 Workshop \
 Banff, Alberta, Canada  \
@@ -129,4 +128,5 @@ TBD -->
 
 TBD -->
 
+< [Link to other workshops in the series](https://prl-theworkshop.github.io)
 
