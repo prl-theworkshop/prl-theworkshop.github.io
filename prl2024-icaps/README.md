@@ -1,9 +1,10 @@
 # PRL Workshop at [ICAPS 2024](https://icaps24.icaps-conference.org/program/workshops/prl/)
-Bridging the Gap Between AI Planning and Reinforcement Learning
+### Bridging the Gap Between AI Planning and Reinforcement Learning
 
 ICAPS'24 Workshop \
 Banff, Alberta, Canada  \
-Date: TBA
+Date: TBA \
+[prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
 
 <!-- **Some of the accepted papers will be invited to be presented at the IJCAI edition of the workshop as well.** -->
 <!-- Timo: we will need to wait whether there is an ICJAI workshop to state something like this -->
@@ -103,7 +104,7 @@ TODO -->
 
 TODO -->
 
-### Organizing Committee
+## Organizing Committee
 
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany
 * [Steven James](https://sdjames.me/), University of the Witwatersrand, Johannesburg, South Africa
