@@ -1,13 +1,13 @@
-# PRL at ICAPS 2024
+# PRL @ ICAPS 2024
 
-[ICAPS'24 Workshop](https://icaps24.icaps-conference.org/program/workshops/prl/) \
+[ICAPS'24](https://icaps24.icaps-conference.org/program/workshops/prl/) \
 Banff, Alberta, Canada  \
 Date: TBA \
 [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
 
 <!-- **Some of the accepted papers will be invited to be presented at the IJCAI edition of the workshop as well.** -->
 <!-- Timo: we will need to wait whether there is an ICJAI workshop to state something like this -->
-## Aim and Scope of the Workshop
+## Aim and Scope
 
 While AI Planning and Reinforcement Learning communities focus on similar
 sequential decision-making problems, these communities remain somewhat unaware
@@ -113,7 +113,7 @@ TODO -->
 * [Ayal Taitler](https://sites.google.com/view/ataitler/home), University of Toronto, Toronto, Canada
 
 
-Please send your inquiries to prl.theworkshop@gmail.com
+Please send your inquiries to [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
 
 
 <!-- ### Program Committee
