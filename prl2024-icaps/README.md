@@ -1,7 +1,6 @@
-# PRL Workshop at [ICAPS 2024](https://icaps24.icaps-conference.org/program/workshops/prl/)
-### Bridging the Gap Between AI Planning and Reinforcement Learning
+# PRL at ICAPS 2024
 
-ICAPS'24 Workshop \
+[ICAPS'24 Workshop](https://icaps24.icaps-conference.org/program/workshops/prl/) \
 Banff, Alberta, Canada  \
 Date: TBA \
 [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
