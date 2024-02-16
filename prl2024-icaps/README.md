@@ -87,7 +87,7 @@ invited to use the appendix of their submissions for that purpose.
 
 
 <!-- timo: we still need to decide whether we want openreview -->
-Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2023/ICAPS). 
+Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2024/ICAPS). 
 
 
 
