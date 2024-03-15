@@ -6,7 +6,7 @@
 ### [PRL @ ICAPS 2024](https://prl-theworkshop.github.io/prl2024-icaps/)
  
 Important Information for PRL@ICAPS 2024
-* Paper submission deadline: March 22th, AOE
+* Paper submission deadline: ~~March 22th~~ April 5th, AOE
 * Paper acceptance notification: April 28th, AOE
 * Paper submission website: [OpenReview](https://openreview.net/group?id=PRL/2024/ICAPS)
 
