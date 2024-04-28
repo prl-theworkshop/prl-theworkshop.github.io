@@ -38,7 +38,7 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 ## Important Dates
 
 * Paper submission deadline: ~~March 22th~~ ~~April 5th~~ April 7th, AOE (final extension)
-* Paper acceptance notification: April 28th, AOE 
+* Paper acceptance notification: April 28th, AOE  (Decision are out)
 
 
 
@@ -62,7 +62,30 @@ Select accepted papers are given a slot in the program: 15 minutes for content +
 All accepted papers are expected to participate in the poster session -->
 
 
-<!-- ## List of Accepted Papers -->
+## List of Accepted Papers
+
+
+* **Contextual Pre-planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning**	*Guy Azran, Mohamad Hosein Danesh, Stefano V Albrecht, Sarah Keren*
+* **Beyond Training: Optimizing Reinforcement Learning Based Job Shop Scheduling Through Adaptive Action Sampling**	*Constantin Waubert de Puiseau, Christian Dörpelkus, Jannik Peters, Hasan Tercan, Tobias Meisen*
+* **Online Planning in MDPs with Stochastic Durative Actions**	*Tal Berman, Ronen Brafman, Erez Karpas*
+* **ModelDiff: Leveraging Models for Policy Transfer with Value Lower Bounds**	*Xiaotian Liu, Jihwan Jeong, Ayal Taitler, Michael Gimelfarb, Scott Sanner*
+* **Solving Minecraft Tasks via Model Learning**	*Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern*
+* **A New View on Planning in Online Reinforcement Learning**	*Kevin Roice, Parham Mohammad Panahi, Scott M. Jordan, Adam White, Martha White*
+* **Conviction-Based Planning for Sparse Reward Reinforcement Learning Problems**	*Simon Ouellette, Eric Beaudry, Mohamed Bouguessa*
+* **Q\* Search: Heuristic Search with Deep Q-Networks**	*Forest Agostinelli, Shahaf S. Shperberg, Alexander Shmakov, Stephen Marcus McAleer, Roy Fox, Pierre Baldi*
+* **Finding Reaction Mechanism Pathways with Deep Reinforcement Learning and Heuristic Search**	*Rojina Panta, Mohammadamin Tavakoli, Christian Geils, Pierre Baldi, Forest Agostinelli*
+* **Planning with Language Models Through The Lens of Efficiency**	*Michael Katz, Harsha Kokel, Kavitha Srinivas, Shirin Sohrabi*
+* **Guiding Hiearchical Reinforcement Learning in Partially Observable Environments with AI Planning**	*Brandon Rozek, Junkyu Lee, Harsha Kokel, Michael Katz, Shirin Sohrabi*
+* **Monte Carlo Tree Search for Integrated Planning, Learning, and Execution in Nondeterministic Python**	*Rich Levinson*
+* **Exploring Simultaneity: Learning Earliest-time Semantics for Automated Planning**	*Ángel Aso-Mollar, Óscar Sapena, Eva Onaindia*
+* **Numeric Reward Machines**	*Kristina Levina, Nikolaos Pappas, Athanasios Karapantelakis, Aneta Vulgarakis Feljan, Jendrik Seipp*
+* **POSGGym: A Library for Decision-Theoretic Planning and Learning in Partially Observable, Multi-Agent Environments**	*Jonathon Schwartz, Rhys Newbury, Dana Kulic, Hanna Kurniawati*
+* **The Case for Developing a Foundation Model for Planning-like Tasks from Scratch**	*Biplav Srivastava, Vishal Pallagani*
+* **Equivalence-Based Abstractions for Learning General Policies**	*Dominik Drexler, Simon Ståhlberg, Blai Bonet, Hector Geffner*
+* **Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning**	*Katharina Stein, Daniel Fišer, Jörg Hoffmann, Alexander Koller*
+* **Comparing State-of-the-art Graph Neural Networks and Transformers for General Policy Learning**	*Nicola J. Müller, Pablo Sanchez Martin, Jörg Hoffmann, Verena Wolf, Timo P. Gros*
+* **Towards Neurosymbolic RL via Inductive Learning of Answer Set Programs**	*Celeste Veronese, Daniele Meli, Alessandro Farinelli*
+* **SLOPE: Search with Learned Optimal Pruning-based Expansion**	*Davor Bokan, Zlatan Ajanović, Bakir Lacevic*
 
 
 
