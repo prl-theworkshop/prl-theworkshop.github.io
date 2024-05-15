@@ -40,15 +40,9 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 * Paper submission deadline: ~~March 22th~~ ~~April 5th~~ April 7th, AOE (final extension)
 * Paper acceptance notification: April 28th, AOE  (Decisions are out)
 
-
-
 ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
-
-
 ## Schedule
-
-
 
 | Time (Banff) | Title |
 |:------------:|:-----------|
@@ -102,7 +96,7 @@ Dr. Felipe Trevizan is a Senior Lecturer at the School of Computing, the Austral
 ## Talks 
 Select accepted papers are given a slot in the program: 15 minutes for content + 3 minutes for questions.
 
-## Poster session 
+## Poster Sessions
 The program includes two poster sessions in order to have enough time for discussions. All authors are expected to participate in the poster session.
 
 
@@ -131,9 +125,6 @@ The program includes two poster sessions in order to have enough time for discus
 * [poster] **Towards Neurosymbolic RL via Inductive Learning of Answer Set Programs**	*Celeste Veronese, Daniele Meli, Alessandro Farinelli*
 * [poster] **SLOPE: Search with Learned Optimal Pruning-based Expansion**	*Davor Bokan, Zlatan Ajanović, Bakir Lacevic*
 
-
-
-
 ## Submission Details
 
 
@@ -146,8 +137,7 @@ We solicit workshop paper submissions relevant to the above call of the followin
 Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/aaai-conference/submission-instructions/)). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main ICAPS conference to the workshop.
 
 
-Some accepted long papers will be invited for contributed talks. All accepted papers (long as well as short) and extended abstracts will be given a slot in the poster presentation session.  Extended abstracts are intended as brief summaries of already published papers,  preliminary work, position papers, or challenges that
-might help bridge the gap.
+Some accepted long papers will be invited for contributed talks. ~~All accepted papers (long as well as short) and extended abstracts will be given a slot in the poster presentation session.~~ All other accepted papers (long and short) and accepted extended abstracts will be given a slot in the poster presentation session.  Extended abstracts are intended as brief summaries of already published papers,  preliminary work, position papers, or challenges that might help bridge the gap.
 
 As the main purpose of this workshop is to solicit discussion, the authors are
 invited to use the appendix of their submissions for that purpose.
@@ -181,19 +171,6 @@ TODO -->
 
 
 Please send your inquiries to [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
-
-
-<!-- ### Program Committee
-
-TODO -->
-
-<!-- ## List of Accepted Papers
-
-TBD -->
-
-<!-- ## Workshop Schedule
-
-TBD -->
 
 < [Link to other workshops in the series](https://prl-theworkshop.github.io)
 
