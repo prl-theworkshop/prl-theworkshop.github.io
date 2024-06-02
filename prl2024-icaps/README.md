@@ -103,27 +103,27 @@ The program includes two poster sessions in order to have enough time for discus
 ## List of Accepted Papers
 
 
-* [poster] **Contextual Pre-planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning**	*Guy Azran, Mohamad Hosein Danesh, Stefano V Albrecht, Sarah Keren*
-* [talk] **Beyond Training: Optimizing Reinforcement Learning Based Job Shop Scheduling Through Adaptive Action Sampling**	*Constantin Waubert de Puiseau, Christian Dörpelkus, Jannik Peters, Hasan Tercan, Tobias Meisen*
-* [talk] **Online Planning in MDPs with Stochastic Durative Actions**	*Tal Berman, Ronen Brafman, Erez Karpas*
-* [talk] **ModelDiff: Leveraging Models for Policy Transfer with Value Lower Bounds**	*Xiaotian Liu, Jihwan Jeong, Ayal Taitler, Michael Gimelfarb, Scott Sanner*
-* [poster] **Solving Minecraft Tasks via Model Learning**	*Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern*
-* [talk] **A New View on Planning in Online Reinforcement Learning**	*Kevin Roice, Parham Mohammad Panahi, Scott M. Jordan, Adam White, Martha White*
-* [poster] **Conviction-Based Planning for Sparse Reward Reinforcement Learning Problems**	*Simon Ouellette, Eric Beaudry, Mohamed Bouguessa*
-* [poster] **Q\* Search: Heuristic Search with Deep Q-Networks**	*Forest Agostinelli, Shahaf S. Shperberg, Alexander Shmakov, Stephen Marcus McAleer, Roy Fox, Pierre Baldi*
-* [poster] **Finding Reaction Mechanism Pathways with Deep Reinforcement Learning and Heuristic Search**	*Rojina Panta, Mohammadamin Tavakoli, Christian Geils, Pierre Baldi, Forest Agostinelli*
-* [talk] **Planning with Language Models Through The Lens of Efficiency**	*Michael Katz, Harsha Kokel, Kavitha Srinivas, Shirin Sohrabi*
-* [poster] **Guiding Hiearchical Reinforcement Learning in Partially Observable Environments with AI Planning**	*Brandon Rozek, Junkyu Lee, Harsha Kokel, Michael Katz, Shirin Sohrabi*
-* [poster] **Monte Carlo Tree Search for Integrated Planning, Learning, and Execution in Nondeterministic Python**	*Rich Levinson*
-* [talk] **Exploring Simultaneity: Learning Earliest-time Semantics for Automated Planning**	*Ángel Aso-Mollar, Óscar Sapena, Eva Onaindia*
-* [poster] **Numeric Reward Machines**	*Kristina Levina, Nikolaos Pappas, Athanasios Karapantelakis, Aneta Vulgarakis Feljan, Jendrik Seipp*
-* [poster] **POSGGym: A Library for Decision-Theoretic Planning and Learning in Partially Observable, Multi-Agent Environments**	*Jonathon Schwartz, Rhys Newbury, Dana Kulic, Hanna Kurniawati*
-* [talk] **The Case for Developing a Foundation Model for Planning-like Tasks from Scratch**	*Biplav Srivastava, Vishal Pallagani*
-* [talk] **Equivalence-Based Abstractions for Learning General Policies**	*Dominik Drexler, Simon Ståhlberg, Blai Bonet, Hector Geffner*
-* [talk] **Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning**	*Katharina Stein, Daniel Fišer, Jörg Hoffmann, Alexander Koller*
-* [talk] **Comparing State-of-the-art Graph Neural Networks and Transformers for General Policy Learning**	*Nicola J. Müller, Pablo Sanchez Martin, Jörg Hoffmann, Verena Wolf, Timo P. Gros*
-* [poster] **Towards Neurosymbolic RL via Inductive Learning of Answer Set Programs**	*Celeste Veronese, Daniele Meli, Alessandro Farinelli*
-* [poster] **SLOPE: Search with Learned Optimal Pruning-based Expansion**	*Davor Bokan, Zlatan Ajanović, Bakir Lacevic*
+* [poster] [**Contextual Pre-planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning**](papers/2.pdf)	*Guy Azran, Mohamad Hosein Danesh, Stefano V Albrecht, Sarah Keren*
+* [talk] [**Beyond Training: Optimizing Reinforcement Learning Based Job Shop Scheduling Through Adaptive Action Sampling**](papers/3.pdf)	*Constantin Waubert de Puiseau, Christian Dörpelkus, Jannik Peters, Hasan Tercan, Tobias Meisen*
+* [talk] [**Online Planning in MDPs with Stochastic Durative Actions**](papers/4.pdf)	*Tal Berman, Ronen Brafman, Erez Karpas*
+* [talk] [**ModelDiff: Leveraging Models for Policy Transfer with Value Lower Bounds**](papers/5.pdf)	*Xiaotian Liu, Jihwan Jeong, Ayal Taitler, Michael Gimelfarb, Scott Sanner*
+* [poster] [**Solving Minecraft Tasks via Model Learning**](papers/6.pdf)	*Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern*
+* [talk] [**A New View on Planning in Online Reinforcement Learning**](papers/7.pdf)	*Kevin Roice, Parham Mohammad Panahi, Scott M. Jordan, Adam White, Martha White*
+* [poster] [**Conviction-Based Planning for Sparse Reward Reinforcement Learning Problems**](papers/8.pdf)	*Simon Ouellette, Eric Beaudry, Mohamed Bouguessa*
+* [poster] [**Q\* Search: Heuristic Search with Deep Q-Networks**](papers/9.pdf)	*Forest Agostinelli, Shahaf S. Shperberg, Alexander Shmakov, Stephen Marcus McAleer, Roy Fox, Pierre Baldi*
+* [poster] [**Finding Reaction Mechanism Pathways with Deep Reinforcement Learning and Heuristic Search**](papers/10.pdf)	*Rojina Panta, Mohammadamin Tavakoli, Christian Geils, Pierre Baldi, Forest Agostinelli*
+* [talk] [**Planning with Language Models Through The Lens of Efficiency**](papers/11.pdf)	*Michael Katz, Harsha Kokel, Kavitha Srinivas, Shirin Sohrabi*
+* [poster] [**Guiding Hiearchical Reinforcement Learning in Partially Observable Environments with AI Planning**](papers/12.pdf)	*Brandon Rozek, Junkyu Lee, Harsha Kokel, Michael Katz, Shirin Sohrabi*
+* [poster] [**Monte Carlo Tree Search for Integrated Planning, Learning, and Execution in Nondeterministic Python**](papers/13.pdf)	*Rich Levinson*
+* [talk] [**Exploring Simultaneity: Learning Earliest-time Semantics for Automated Planning**](papers/14.pdf)	*Ángel Aso-Mollar, Óscar Sapena, Eva Onaindia*
+* [poster] [**Numeric Reward Machines**](papers/16.pdf)	*Kristina Levina, Nikolaos Pappas, Athanasios Karapantelakis, Aneta Vulgarakis Feljan, Jendrik Seipp*
+* [poster] [**POSGGym: A Library for Decision-Theoretic Planning and Learning in Partially Observable, Multi-Agent Environments**](papers/17.pdf)	*Jonathon Schwartz, Rhys Newbury, Dana Kulic, Hanna Kurniawati*
+* [talk] [**The Case for Developing a Foundation Model for Planning-like Tasks from Scratch**](papers/18.pdf)	*Biplav Srivastava, Vishal Pallagani*
+* [talk] [**Equivalence-Based Abstractions for Learning General Policies**](papers/19.pdf)	*Dominik Drexler, Simon Ståhlberg, Blai Bonet, Hector Geffner*
+* [talk] [**Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning**](papers/20.pdf)	*Katharina Stein, Daniel Fišer, Jörg Hoffmann, Alexander Koller* 
+* [talk] [**Comparing State-of-the-art Graph Neural Networks and Transformers for General Policy Learning**](papers/23.pdf)	*Nicola J. Müller, Pablo Sanchez Martin, Jörg Hoffmann, Verena Wolf, Timo P. Gros*
+* [poster] [**Towards Neurosymbolic RL via Inductive Learning of Answer Set Programs**](papers/24.pdf)	*Celeste Veronese, Daniele Meli, Alessandro Farinelli*
+* [poster] [**SLOPE: Search with Learned Optimal Pruning-based Expansion**](papers/25.pdf)	*Davor Bokan, Zlatan Ajanović, Bakir Lacevic*
 
 ## Submission Details
 
