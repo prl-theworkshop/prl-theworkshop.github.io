@@ -76,7 +76,7 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 ## Keynotes 
 
-#### I. Felipe Trevizan: The Next-Generation of Planning Heuristics: GNNs and Beyond
+#### I. Felipe Trevizan: The Next-Generation of Planning Heuristics: GNNs and Beyond ([Slides](slides/felipe_trevizan_prl_2024.pdf))
 
 ##### Abstract
 Deep learning has been responsible for multiple recent breakthroughs, particularly in image recognition and natural language processing. In this talk, I will focus on a particular deep learning model, Graph Neural Networks (GNNs), and how they have the potential to change heuristic search in automated planning from the heuristics used to search methods. I will introduce novel graph representations designed to optimize the application of GNNs to learning both domain-specific and domain-independent heuristics. Additionally, I will present other targets that can be learnt using GNNs, such as rankings between states, and how they can be used during search. Lastly, based on theoretical insights, we present an alternative approach to GNNs using classical machine learning methods such as SVMs and Gaussian Processes for heuristic learning, offering simplicity and reduced training times.
@@ -85,7 +85,7 @@ Deep learning has been responsible for multiple recent breakthroughs, particular
 Dr. Felipe Trevizan is a Senior Lecturer at the School of Computing, the Australian National University. He previously served as a Senior Research Scientist at NICTA (now Data61/CSIRO). He earned his PhD in Machine Learning from Carnegie Mellon University in 2013. His research interests lie at the intersection of Artificial Intelligence, Operations Research and Machine Learning including automated planning and scheduling, reasoning under uncertainty, heuristic search, and learning for planning. Along with colleagues and students, he is the co-recipient of the 2016 best paper award from the Transport Research Board and the best paper award at the International Conference on Automated Planning and Scheduling (ICAPS) in 2016 and 2017.
 
 
-#### II. Forest Agostinelli: Deep Reinforcement Learning and Heuristic Search Algorithms
+#### II. Forest Agostinelli: Deep Reinforcement Learning and Heuristic Search Algorithms ([Slides](slides/forest_agostinelli_prl_2024.pdf))
 
 ##### Abstract
  Deep reinforcement learning has been shown to be able to learn domain-specific heuristic functions in a largely domain-independent fashion. As a result, novel variations of A* search, such as batch A* search and Q* search, have been proposed to accommodate the deep neural networks that represent these heuristic functions. In this talk, I will describe how approximate value iteration can be used to learn heuristic functions to guide batch A* search, which can exploit parallelization provided by graphics processing units. Next, I will describe how Q-learning can be used to learn heuristic functions represented by deep Q-networks to guide Q* search, which exploits the structure of deep Q-networks to significantly increase speed and reduce memory during search. Finally, I will describe how model-based reinforcement learning and hindsight experience replay can be used to extend these methods to domains with unknown transition functions. I will give several examples of application domains, including the Rubik’s cube, quantum computing, and reaction mechanism pathway prediction. The code for many of these algorithms is publicly available at https://github.com/forestagostinelli/deepxube.
