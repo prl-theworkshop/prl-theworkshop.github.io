@@ -139,7 +139,7 @@ TODO -->
 
 ## Organizing Committee
 
-* [Zlatan Ajanović](https://zlatanajanovic.com), 
+* [Zlatan Ajanović](https://zlatanajanovic.com), RWTH Aachen, Aachen, Germany
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany
 * [Floris den Hengst](https://florisdh.nl), University of Amsterdam, Amsterdam, Netherlands
 * [Daniel Höller](https://fai.cs.uni-saarland.de/hoeller/), Saarland University, Saarbrücken, Germany
