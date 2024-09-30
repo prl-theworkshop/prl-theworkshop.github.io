@@ -144,7 +144,7 @@ TODO -->
 * [Floris den Hengst](https://florisdh.nl), University of Amsterdam, Amsterdam, Netherlands
 * [Daniel Höller](https://fai.cs.uni-saarland.de/hoeller/), Saarland University, Saarbrücken, Germany
 * [Harsha Kokel](http://harshakokel.com), IBM Research, San Jose, USA
-* [Ayal Taitler](https://sites.google.com/view/ataitler/home), University of Toronto, Toronto, Canada
+* [Ayal Taitler](https://sites.google.com/view/ataitler/home), Ben-Gurion University, Be'er Sheva, Israel
 
 
 Please send your inquiries to [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
