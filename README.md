@@ -3,15 +3,21 @@
 
 ## Current Edition
 
-### [PRL @ ICAPS 2024](https://prl-theworkshop.github.io/prl2024-icaps/)
- 
-Important Information for PRL@ICAPS 2024
+### [PRL @ AAAI 2025](https://prl-theworkshop.github.io/prl2025-aaai/)
+<!---### [PRL @ ICAPS 2024](https://prl-theworkshop.github.io/prl2024-icaps/) -->
+
+Important Information for PRL@AAAI 2025
+* Paper submission deadline: TBD
+* Paper acceptance notification: TBD
+* Paper submission website: TBD  
+<!---Important Information for PRL@ICAPS 2024 
 * Paper submission deadline: ~~March 22th~~ ~~April 5th~~ April 7th, AOE (final extension)
 * Paper acceptance notification: April 28th, AOE
-* Paper submission website: [OpenReview](https://openreview.net/group?id=PRL/2024/ICAPS)
+* Paper submission website: [OpenReview](https://openreview.net/group?id=PRL/2024/ICAPS) -->
 
 
 ## Previous Editions
+- [PRL @ ICAOS 2024](https://prl-theworkshop.github.io/prl2024-icaps/)
 - [PRL @ IJCAI 2023](https://prl-theworkshop.github.io/prl2023-ijcai/)
 - [PRL @ ICAPS 2023](https://prl-theworkshop.github.io/prl2023-icaps/)
 - [PRL @ IJCAI 2022](https://prl-theworkshop.github.io/prl2022-ijcai/)
