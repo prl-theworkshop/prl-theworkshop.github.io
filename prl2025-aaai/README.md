@@ -43,7 +43,9 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 Submission site: [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/PRL)
 
 AAAI will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
+
 <!-- 
+
 ## Schedule
 
 TBA
