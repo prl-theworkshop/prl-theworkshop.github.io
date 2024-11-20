@@ -37,8 +37,8 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 
 ## Important Dates
 
-* Paper submission deadline:  Sunday, November 24, 2024 (AOE) 
-* Paper acceptance notification:  Monday, December 9, 2024 (AOE) 
+* Paper submission deadline:  Sunday, November ~24th~ 29th, 2024 (AOE)  *(extended)*
+* Paper acceptance notification:  Monday, December ~9th~ 11th, 2024 (AOE) 
 
 Submission site: [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/PRL)
 
