@@ -6,8 +6,8 @@
 ### [PRL @ AAAI 2025](https://prl-theworkshop.github.io/prl2025-aaai/)
  
 Important Information for PRL@ICAPS 2024
-* Paper submission deadline: November 24th, AOE
-* Paper acceptance notification: December 9th, AOE
+* Paper submission deadline: November ~24th~ 29th, AOE (extended)
+* Paper acceptance notification: December ~9th~ 11th, AOE
 * Paper submission website: [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/PRL)
 
 
