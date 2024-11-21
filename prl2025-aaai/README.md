@@ -71,7 +71,7 @@ We solicit workshop paper submissions relevant to the above call of the followin
  * Extended abstracts -- up to 2 pages + unlimited references/appendices 
  
 
-Papers must be formatted in AAAI two-column, camera-ready style; see the [AAAI-25 author kit for details](https://aaai.org/authorkit25/).  Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main AAAI conference to the workshop.
+Papers must be formatted in AAAI two-column; see the [AAAI-25 author kit for details](https://aaai.org/authorkit25/).  Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main AAAI conference to the workshop.
 
 Some accepted long papers will be invited for contributed talks. All other accepted papers (long and short) and accepted extended abstracts will be given a slot in the poster presentation session.  Extended abstracts are intended as brief summaries of already published papers,  preliminary work, position papers, or challenges that might help bridge the gap.
 
