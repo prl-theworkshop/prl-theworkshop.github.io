@@ -38,7 +38,7 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 ## Important Dates
 
 
-> [!IMP]
+> ❗Important Announcement
 >
 > Deadlines have changed and we have added abstract submission deadline.
 >
