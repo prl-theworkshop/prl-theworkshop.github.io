@@ -37,8 +37,17 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 
 ## Important Dates
 
-* Paper submission deadline:  Sunday, November ~~24th~~ 29th, 2024 (AOE)  *(extended)*
-* Paper acceptance notification:  Monday, December ~~9th~~ 11th, 2024 (AOE) 
+
+> [!IMP]
+>
+> Deadlines have changed and we have added abstract submission deadline.
+>
+> Given the timeline, we welcome papers under review at the AAAI main conference. We request the authors to inform us if the paper is accepted at AAAI, when the decisions are out.
+
+
+* Abstract submission deadline: Sunday, December 1st, 2024 (AOE) 
+* Paper submission deadline: Sunday, December 8th, 2024  *(extended)*
+* Paper acceptance notification:  Monday, December 16th, 2024 (AOE)  *(extended)*
 
 Submission site: [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/PRL)
 
@@ -71,7 +80,7 @@ We solicit workshop paper submissions relevant to the above call of the followin
  * Extended abstracts -- up to 2 pages + unlimited references/appendices 
  
 
-Papers must be formatted in AAAI two-column; see the [AAAI-25 author kit for details](https://aaai.org/authorkit25/).  Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main AAAI conference to the workshop.
+Papers must be formatted in AAAI two-column; see the [AAAI-25 author kit for details](https://aaai.org/authorkit25/).  Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. ~~Please do not submit papers that are already accepted for the main AAAI conference to the workshop.~~ Given the timeline, we welcome papers under review at the AAAI main conference. We request the authors to inform us if the paper is accepted at AAAI, when the decisions are out.
 
 Some accepted long papers will be invited for contributed talks. All other accepted papers (long and short) and accepted extended abstracts will be given a slot in the poster presentation session.  Extended abstracts are intended as brief summaries of already published papers,  preliminary work, position papers, or challenges that might help bridge the gap.
 
