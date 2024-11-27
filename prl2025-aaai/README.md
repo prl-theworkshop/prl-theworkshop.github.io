@@ -45,9 +45,11 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 > Given the timeline, we welcome papers under review at the AAAI main conference. We request the authors to inform us if the paper is accepted at AAAI, when the decisions are out.
 
 
-* Abstract submission deadline: Sunday, December 1st, 2024 (AOE) 
+* Abstract submission deadline: Sunday, December 1st, 2024 
 * Paper submission deadline: Sunday, December 8th, 2024  *(extended)*
-* Paper acceptance notification:  Monday, December 16th, 2024 (AOE)  *(extended)*
+* Paper acceptance notification:  Monday, December 16th, 2024  *(extended)*
+
+All deadlines are AoE
 
 Submission site: [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/PRL)
 
