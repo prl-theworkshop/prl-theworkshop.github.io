@@ -16,15 +16,13 @@ We aim to bridge the gap between the two communities, facilitate the discussion 
 We solicit interest from AI researchers that work in the
 intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision-making. This is the eigth edition of the [PRL workshop series](https://prl-theworkshop.github.io/) that started at [ICAPS 2020](https://icaps20subpages.icaps-conference.org/workshops/prl/).
 
-## Invited Talk
-
 ##  Invited Talks
 
 
 ### Anders Jonsson 
 
 <div style="text-align: center;">
-<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./prl2025-aaai/anders.png">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./anders.png">
 </div> 
 
 
@@ -32,7 +30,7 @@ intersection of planning and reinforcement learning, in particular, those that f
 ### Marlos Machado
 
 <div style="text-align: center;">
-<img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./prl2025-aaai/marlos.png">
+<img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marlos.png">
 </div> 
 
 
