@@ -16,6 +16,26 @@ We aim to bridge the gap between the two communities, facilitate the discussion 
 We solicit interest from AI researchers that work in the
 intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision-making. This is the eigth edition of the [PRL workshop series](https://prl-theworkshop.github.io/) that started at [ICAPS 2020](https://icaps20subpages.icaps-conference.org/workshops/prl/).
 
+## Invited Talk
+
+##  Invited Talks
+
+
+### Anders Jonsson 
+
+<div style="text-align: center;">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./prl2025-aaai/anders.png">
+</div> 
+
+
+
+### Marlos Machado
+
+<div style="text-align: center;">
+<img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./prl2025-aaai/marlos.png">
+</div> 
+
+
 ## Topics of Interest
 
 We invite submissions at the intersection of AI Planning and Reinforcement Learning. The topics of interest include, but are not limited to, the following
@@ -45,9 +65,9 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 > Given the timeline, we welcome papers under review at the AAAI main conference. We request the authors to inform us if the paper is accepted at AAAI, when the decisions are out.
 
 
-* Abstract submission deadline: Sunday, December 1st, 2024 
-* Paper submission deadline: Sunday, December 8th, 2024  *(extended)*
-* Paper acceptance notification:  Monday, December 16th, 2024  *(extended)*
+* Abstract submission deadline: ~~Sunday, December 1st, 2024~~ 
+* Paper submission deadline: ~~Sunday, December 8th, 2024~~  *(extended)*
+* Paper acceptance notification:  ~~Monday, December 16th, 2024~~  *(extended)*
 
 All deadlines are AoE
 
