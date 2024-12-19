@@ -60,6 +60,7 @@ TBA
 * Networked Restless Multi-Arm Bandits with Reinforcement Learning, *Hanmo Zhang, Kai Wang*
 * Average-Reward Reinforcement Learning with Entropy Regularization, *Jacob Adamczyk, Volodymyr Makarenko, Stas Tiomkin, Rahul V Kulkarni*
 
+<!-- 
 ## Topics of Interest
 
 We invite submissions at the intersection of AI Planning and Reinforcement Learning. The topics of interest include, but are not limited to, the following
@@ -98,7 +99,7 @@ All deadlines are AoE
 Submission site: [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/PRL)
 
 AAAI will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
-
+--> 
 <!-- 
 
 ## Schedule
@@ -115,7 +116,7 @@ tba
  ## List of Accepted Papers
 
 --> 
-
+<!-- 
 ## Submission Details
 
 
@@ -138,6 +139,7 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 
 We do not insist on papers being submitted anonymously initially; this decision is left to the discretion of the author. If a paper is simultaneously being considered at a venue where anonymity is required, you have the option to submit it without author details, considering the possibility of a shared reviewer pool. However, please be aware that upon acceptance, the paper will be publicly posted on the PRL website with full author information.
 
+-->
 
 
 ## Organizing Committee
