@@ -16,7 +16,11 @@ We aim to bridge the gap between the two communities, facilitate the discussion 
 We solicit interest from AI researchers that work in the
 intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision-making. This is the eigth edition of the [PRL workshop series](https://prl-theworkshop.github.io/) that started at [ICAPS 2020](https://icaps20subpages.icaps-conference.org/workshops/prl/).
 
-##  Invited Talks
+## Program
+
+TBA
+
+##  Keynotes
 
 
 ### Anders Jonsson 
@@ -33,6 +37,28 @@ intersection of planning and reinforcement learning, in particular, those that f
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marlos.png">
 </div> 
 
+## Accepted Papers
+
+* Exploring Explainable Multi-player MCTS-minimax Hybrids in Board Game Using Process Mining, *Yiyu Qian, Tim Miller, Liyuan Zhao*
+* Concurrent Learning with Aggregated States via Randomized Least Squares Value Iteration, *Yan Chen, Qinxun Bai, Shi Dong, Maria Dimakopoulou, Yiteng Zhang, Zhengyuan Zhou* 
+* Liner Shipping Network Design with Reinforcement Learning, *Utsav Dutta, Yifan Lin, Zhaoyang Larry Jin* 
+* HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym, *Ngoc La, Ruaridh Mon-Williams*
+* ContextFormer: Stitching via Expert Calibration, *Ziqi Zhang, Jingzehua Xu, Jinxin Liu, Zifeng Zhuang, Donglin Wang, Miao Liu, Shuai Zhang*
+* Planning with temporally-extended actions, *Palash Chatterjee, Roni Khardon*
+* RELAX: Reinforcement Learning Enabled 2D-LiDAR based Autonomous System for Parsimonious UAVs, *Guanlin Wu, Zhuokai Zhao, Huan Chen, Jinyi Zhao, Yangke Zhang, Yutao He*
+* InterLevel: Synthesizing Stair-Navigation Skills in Character-Scene Interactions, *Jack Shilton, Boeun Kim, Hyung Jin Chang*
+* Contextual bandits for maximizing stimulated word-of-mouth rewards, *AHMED SAYEED FARUK, Elena Zheleva*
+* Active Teacher Selection for Reinforcement Learning from Human Feedback, *Rachel Freedman, Justin Svegliato, Kyle Hollins Wray, Stuart Russell*
+* Neurosymbolic Reinforcement Learning With Sequential Guarantees, *Lennert De Smet, Gabriele Venturato, Luc De Raedt, Giuseppe Marra*
+* AI Planning: A Primer and Survey (Preliminary Report), *Dillon Ze Chen, Pulkit Verma, Siddharth Srivastava, Michael Katz, Sylvie Thiebaux*
+* SPRIG: Stackelberg Perception-Reinforcement Learning with Internal Game Dynamics, *Fernando Martinez, Juntao Chen, Yingdong Lu*
+* Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning, *Huchen Jiang, Yangyang Ma, CHAOFAN DING, Kexin Luan, XINHAN DI*
+* A Benchmark for Hierarchical Parameterized Action Markov Decision Process, *Dengxian Yang, Neil Michael Dundon, Elizabeth J Rizor, Scott T. Grafton, Linda Ruth Petzold*
+* Gen-HypRL : Generative Policy learning Framework for Multi-Task Reinforcement Learning, *Jayaram Reddy, Sanket Hemant Kalwar, Brojeshwar Bhowmick, Arun Kumar Singh, Madhava Krishna*
+* Overcoming Slow Decision Frequencies in Continuous Control: Model-Based Sequence Reinforcement Learning for Model-Free Control, *Devdhar Patel, Hava T Siegelmann*
+* Controller Synthesis from Deep Reinforcement Learning Policies, *Florent Delgrange, Guy Avni, Anna Lukina, Christian Schilling, Ann Nowe, Guillermo Perez*
+* Networked Restless Multi-Arm Bandits with Reinforcement Learning, *Hanmo Zhang, Kai Wang*
+* Average-Reward Reinforcement Learning with Entropy Regularization, *Jacob Adamczyk, Volodymyr Makarenko, Stas Tiomkin, Rahul V Kulkarni*
 
 ## Topics of Interest
 
