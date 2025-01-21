@@ -25,7 +25,7 @@ TBA
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./anders.png">
 <h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Anders Jonsson</a></h3>
- <h6>Full Professor</br>Universitat Pompeu Fabra</h6>
+ <h6>Full Professor, Universitat Pompeu Fabra</h6>
 </div> 
 
 
@@ -33,14 +33,14 @@ TBA
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marlos.png">
  <h3><a target="blank" href="https://webdocs.cs.ualberta.ca/~machado/">Marlos Machado</a></h3>
- <h6>Assistant Professor</br>University of Alberta</h6>
+ <h6>Assistant Professor, University of Alberta</h6>
 </div> 
 
 
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="gdk-photo3.jpg">
 <h3><a target="blank"  href="https://cs.brown.edu/people/gdk/">George Konidaris</a></h3>
-<h6>Associate Professor</br>Brown University</h6>
+<h6>Associate Professor, Brown University</h6>
 </div> 
 
 
