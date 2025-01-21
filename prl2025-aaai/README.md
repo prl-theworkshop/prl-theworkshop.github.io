@@ -23,28 +23,32 @@ TBA
 ##  Keynotes
 
 
-### Anders Jonsson 
+### 
 
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./anders.png">
+<h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Anders Jonsson</a></h3>
+ <h4>Full Professor</h4>
+ <h4>Universitat Pompeu Fabra</h4>
 </div> 
 
 
-
-### Marlos Machado
 
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marlos.png">
+ <h3><a target="blank" href="https://webdocs.cs.ualberta.ca/~machado/">Marlos Machado</a></h3>
+ <h3>Assistant Professor </h3>
+<h3> University of Alberta</h3>
 </div> 
 
-### [George Konidaris](https://cs.brown.edu/people/gdk/) 
 
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="gdk-photo3.jpg">
+<h3><a target="blank"  href="https://cs.brown.edu/people/gdk/">George Konidaris</a></h3>
+<h3>Associate Professor</h3>
+<h3>Brown University</h3>
 </div> 
 
-> Associate Professor
-> Brown University 
 
 
 
