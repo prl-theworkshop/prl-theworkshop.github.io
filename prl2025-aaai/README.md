@@ -22,9 +22,6 @@ TBA
 
 ##  Keynotes
 
-
-### 
-
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./anders.png">
 <h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Anders Jonsson</a></h3>
