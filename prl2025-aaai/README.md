@@ -37,6 +37,18 @@ TBA
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marlos.png">
 </div> 
 
+### [George Konidaris](https://cs.brown.edu/people/gdk/) 
+
+<div style="text-align: center;">
+<img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="gdk-photo3.jpg">
+</div> 
+
+> Associate Professor
+> Brown University 
+
+
+
+
 ## Accepted Papers
 
 * Exploring Explainable Multi-player MCTS-minimax Hybrids in Board Game Using Process Mining, *Yiyu Qian, Tim Miller, Liyuan Zhao*
