@@ -28,8 +28,7 @@ TBA
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./anders.png">
 <h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Anders Jonsson</a></h3>
- <h4>Full Professor</h4>
- <h4>Universitat Pompeu Fabra</h4>
+ <h6>Full Professor</br>Universitat Pompeu Fabra</h6>
 </div> 
 
 
@@ -37,16 +36,14 @@ TBA
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marlos.png">
  <h3><a target="blank" href="https://webdocs.cs.ualberta.ca/~machado/">Marlos Machado</a></h3>
- <h3>Assistant Professor </h3>
-<h3> University of Alberta</h3>
+ <h6>Assistant Professor</br>University of Alberta</h6>
 </div> 
 
 
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="gdk-photo3.jpg">
 <h3><a target="blank"  href="https://cs.brown.edu/people/gdk/">George Konidaris</a></h3>
-<h3>Associate Professor</h3>
-<h3>Brown University</h3>
+<h6>Associate Professor</br>Brown University</h6>
 </div> 
 
 
@@ -169,6 +166,11 @@ We do not insist on papers being submitted anonymously initially; this decision 
 
 
 Please send your inquiries to [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
+
+</br>
+</br>
+</br>
+</br>
 
 < [Link to other workshops in the series](https://prl-theworkshop.github.io)
 
