@@ -22,13 +22,18 @@ TBA
 
 ##  Keynotes
 
+### Exploiting Symbolic Structure and Hierarchy in Reinforcement Learning
+
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./anders.png">
 <h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Anders Jonsson</a></h3>
  <h6>Full Professor, Universitat Pompeu Fabra</h6>
 </div> 
 
+#### Abstract
+A well-known limitation of reinforcement learning is its high sample complexity, which causes learning to be slow in complex tasks. The situation is even worse in problems with non-Markovian dynamics, i.e. when the ability to predict the future depends on the entire interaction history. In this talk I will describe two recent lines of work that improve the sample complexity of reinforcement learning by exploiting the symbolic structure of tasks. The first line of work is to train a set of policies for solving subtasks in an existing hierarchy, and combine these policies for fast or zero-shot learning of more complex, global tasks. The second line of work is to learn finite-state automata for non-Markovian decision processes, providing symbolic information that compactly captures the interaction history.
 
+### Representation-Driven Option Discovery in RL: Model-Free Success & Model-Based Challenges
 
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marlos.png">
@@ -36,6 +41,10 @@ TBA
  <h6>Assistant Professor, University of Alberta</h6>
 </div> 
 
+#### Abstract
+The ability to reason at multiple levels of temporal abstraction is a fundamental aspect of intelligence. In reinforcement learning, this attribute is often modelled through temporally extended courses of action called options. Despite their popularity as a research topic, options are rarely a core component of traditional RL solutions. In this talk, I will introduce a general framework for option discovery that leverages the agent’s representation to identify useful options. By using these options to generate a rich stream of experience, the agent can improve its representations and learn more effectively in model-free settings across diverse environments with varying topologies and observation spaces. However, options are far less common–and often less effective–in planning. I will also present insights into making options more useful for planning and the challenges posed by function approximation in this setting.
+
+### Keynote by George Konidaris
 
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="gdk-photo3.jpg">
