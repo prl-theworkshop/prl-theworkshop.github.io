@@ -24,25 +24,25 @@ intersection of planning and reinforcement learning, in particular, those that f
 |:------------:|:-----------|
 |     8:30 - 10:30 am | **Session I** |
 |         |  *Opening Remarks*   |
-| | AI Planning: A Primer and Survey (Preliminary Report). Dillon Ze Chen, Pulkit Verma, Siddharth Srivastava, Michael Katz, and Sylvie Thiebaux. |
+| | AI Planning: A Primer and Survey (Preliminary Report). <u>Dillon Ze Chen</u>, Pulkit Verma, Siddharth Srivastava, Michael Katz, and Sylvie Thiebaux. |
 |         | **Keynote Anders Jonsson:<br>Exploiting Symbolic Structure and Hierarchy in Reinforcement Learning**    |
 | | RELAX: Reinforcement Learning Enabled 2D-LiDAR based Autonomous System for Parsimonious UAVs. Guanlin Wu, Zhuokai Zhao, Huan Chen, Jinyi Zhao, Yangke Zhang, and Yutao He. |
-| | Contextual Bandits for Maximizing Stimulated Word-of-Mouth Rewards. Ahmed Sayeed Faruk, and Elena Zheleva. |
-| | Planning with temporally-extended actions. Palash Chatterjee, and Roni Khardon.|
+| | Contextual Bandits for Maximizing Stimulated Word-of-Mouth Rewards. <u>Ahmed Sayeed Faruk</u>, and Elena Zheleva. |
+| | Planning with temporally-extended actions. <u>Palash Chatterjee</u>, and Roni Khardon.|
 | 10:30 - 11:00 | Coffee break |
 |  11:00 - 12:30 | **Poster Session** |
 |  12:30 - 14:00 | Lunch |
 |  14:00 - 15:30 | **Session II** |
 |  | **Keynote Marlos Machado:<br>Representation-Driven Option Discovery in RL: Model-Free Success & Model-Based Challenges** |
-|  | Active Teacher Selection for Reinforcement Learning from Human Feedback. Rachel Freedman, Justin Svegliato, Kyle Hollins Wray, and Stuart Russell. |
-|  | HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym. Ngoc La, and Ruaridh Mon-Williams |
+|  | Active Teacher Selection for Reinforcement Learning from Human Feedback. <u>Rachel Freedman</u>, Justin Svegliato, Kyle Hollins Wray, and Stuart Russell. |
+|  | HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym. <u>Ngoc La</u>, and Ruaridh Mon-Williams |
 |    15:30 - 16:00    | Coffee break    |
 |    16:00 - 18:00   | **Session III** |
 |  | **Keynote George Konidaris** |
-|  | Overcoming Slow Decision Frequencies in Continuous Control: Model-Based Sequence Reinforcement Learning for Model-Free Control. Devdhar Patel, and Hava T Siegelmann.|
-|  | Controller Synthesis from Deep Reinforcement Learning Policies. Florent Delgrange, Guy Avni, Anna Lukina, Christian Schilling, Ann Nowe, and Guillermo Perez. |
-| | Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning. Huchen Jiang, Yangyang Ma, CHAOFAN DING, Kexin Luan, and XINHAN DI. |
-| | Exploring Explainable Multi-player MCTS-minimax Hybrids in Board Game Using Process Mining. Yiyu Qian, Tim Miller, and Liyuan Zhao. |
+|  | Overcoming Slow Decision Frequencies in Continuous Control: Model-Based Sequence Reinforcement Learning for Model-Free Control. <u>Devdhar Patel</u>, and Hava T Siegelmann.|
+|  | Controller Synthesis from Deep Reinforcement Learning Policies. <u>Florent Delgrange</u>, Guy Avni, Anna Lukina, Christian Schilling, Ann Nowe, and Guillermo Perez. |
+| | Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning. Huchen Jiang, Yangyang Ma, CHAOFAN DING, Kexin Luan, and <u>XINHAN DI</u>. |
+| | Exploring Explainable Multi-player MCTS-minimax Hybrids in Board Game Using Process Mining. <u>Yiyu Qian</u>, Tim Miller, and Liyuan Zhao. |
 | | *Closing Remarks* |
 
 
