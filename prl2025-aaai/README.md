@@ -70,7 +70,7 @@ A well-known limitation of reinforcement learning is its high sample complexity,
 #### Abstract
 The ability to reason at multiple levels of temporal abstraction is a fundamental aspect of intelligence. In reinforcement learning, this attribute is often modelled through temporally extended courses of action called options. Despite their popularity as a research topic, options are rarely a core component of traditional RL solutions. In this talk, I will introduce a general framework for option discovery that leverages the agent’s representation to identify useful options. By using these options to generate a rich stream of experience, the agent can improve its representations and learn more effectively in model-free settings across diverse environments with varying topologies and observation spaces. However, options are far less common–and often less effective–in planning. I will also present insights into making options more useful for planning and the challenges posed by function approximation in this setting.
 
-### Signal to Symbol (via Skills)
+### Signal to Symbol  (via Skills)
 
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="gdk-photo3.jpg">
