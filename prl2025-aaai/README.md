@@ -70,7 +70,7 @@ A well-known limitation of reinforcement learning is its high sample complexity,
 #### Abstract
 The ability to reason at multiple levels of temporal abstraction is a fundamental aspect of intelligence. In reinforcement learning, this attribute is often modelled through temporally extended courses of action called options. Despite their popularity as a research topic, options are rarely a core component of traditional RL solutions. In this talk, I will introduce a general framework for option discovery that leverages the agent’s representation to identify useful options. By using these options to generate a rich stream of experience, the agent can improve its representations and learn more effectively in model-free settings across diverse environments with varying topologies and observation spaces. However, options are far less common–and often less effective–in planning. I will also present insights into making options more useful for planning and the challenges posed by function approximation in this setting.
 
-### Keynote by George Konidaris
+### Signal to Symbol (via Skills)
 
 <div style="text-align: center;">
 <img  style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="gdk-photo3.jpg">
@@ -78,6 +78,22 @@ The ability to reason at multiple levels of temporal abstraction is a fundamenta
 <h6>Associate Professor, Brown University</h6>
 </div> 
 
+#### Abstract
+
+I will address the question of how an RL agent with a rich
+sensorimotor space can learn abstract, task-specific representations of
+a particular task, and the conditions under which such representations
+match classical planning paradigms. I will tale a constructivist
+approach, where the computation the representation is required to
+support - here, planning using a given set of motor skills - is
+precisely defined, and then its properties are used to build the
+representation so that it is capable of doing so by construction. The
+result is a formal link between the skills available to a robot and the
+symbols it should use to plan with them. I will present an example of a
+robot autonomously learning a (sound and complete) abstract
+representation directly from sensorimotor data, and then using it to
+plan. I will also argue that this re-representation step is a critical
+component of solving the general AI problem.
 
 
 
@@ -199,10 +215,10 @@ We do not insist on papers being submitted anonymously initially; this decision 
 
 Please send your inquiries to [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
 
-</br>
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 < [Link to other workshops in the series](https://prl-theworkshop.github.io)
 
