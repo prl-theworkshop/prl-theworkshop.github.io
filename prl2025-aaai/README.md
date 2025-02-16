@@ -26,8 +26,7 @@ intersection of planning and reinforcement learning, in particular, those that f
 |         |  *Opening Remarks*   |
 | | AI Planning: A Primer and Survey (Preliminary Report). <u>Dillon Ze Chen</u>, Pulkit Verma, Siddharth Srivastava, Michael Katz, and Sylvie Thiebaux. |
 |         | **Keynote Anders Jonsson:<br>Exploiting Symbolic Structure and Hierarchy in Reinforcement Learning**    |
-| | A Benchmark for Hierarchical Parameterized Action Markov Decision Process.
-<u>Dengxian Yang</u>, Neil Michael Dundon, Elizabeth J Rizor, Scott T. Grafton, Linda Ruth Petzold |
+| | A Benchmark for Hierarchical Parameterized Action Markov Decision Process. <u>Dengxian Yang</u>, Neil Michael Dundon, Elizabeth J Rizor, Scott T. Grafton, Linda Ruth Petzold |
 | | Contextual Bandits for Maximizing Stimulated Word-of-Mouth Rewards. <u>Ahmed Sayeed Faruk</u>, and Elena Zheleva. |
 | | Planning with temporally-extended actions. <u>Palash Chatterjee</u>, and Roni Khardon.|
 | 10:30 - 11:00 | Coffee break |
