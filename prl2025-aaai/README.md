@@ -17,7 +17,7 @@ We solicit interest from AI researchers that work in the
 intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision-making. This is the eigth edition of the [PRL workshop series](https://prl-theworkshop.github.io/) that started at [ICAPS 2020](https://icaps20subpages.icaps-conference.org/workshops/prl/).
 
 ## Program
-
+The workshop location is *Room 120C* of the Pennsylvania Convention Center in Philadelphia, Pennsylvania.
 ## Schedule
 
 | Time (Philadelphia) | Title |
