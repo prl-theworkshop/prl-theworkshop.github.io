@@ -2,8 +2,16 @@
 
 [AAAI'25](https://aaai.org/conference/aaai/aaai-25/workshop-list/#ws34) \
 Philadelphia, Pennsylvania, USA  \
-Date: March 4, 2025 \
+Date: March 4, 2025, 8:30--6:00 \
+Room: *120C*
 [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
+
+
+> ❗Important Announcement
+>
+> Note that PRL will be a full day workshop starting at **8:30 AM** and ending at **6:00 PM**.
+
+
 
 ## Aim and Scope
 
@@ -18,6 +26,7 @@ intersection of planning and reinforcement learning, in particular, those that f
 
 ## Program
 The workshop location is *Room 120C* of the Pennsylvania Convention Center in Philadelphia, Pennsylvania.
+
 ## Schedule
 
 | Time (Philadelphia) | Title |
