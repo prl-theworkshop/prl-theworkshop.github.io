@@ -3,13 +3,13 @@
 [AAAI'25](https://aaai.org/conference/aaai/aaai-25/workshop-list/#ws34) \
 Philadelphia, Pennsylvania, USA  \
 Date: March 4, 2025, 8:30--6:00 \
-Room: *120C*
+Room: *120C*  \
 [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
 
 
 > ❗Important Announcement
 >
-> Note that PRL will be a full day workshop starting at **8:30 AM** and ending at **6:00 PM**.
+> Note that PRL will be a full day workshop starting at **8:30 AM** and ending at **6:00 PM**. 
 
 
 
@@ -109,7 +109,7 @@ component of solving the general AI problem.
 
 ## Accepted Papers
 
-#### Oral
+#### Oral Only
 
 * [Exploring Explainable Multi-player MCTS-minimax Hybrids in Board Game Using Process Mining](papers/2.pdf), *Yiyu Qian, Tim Miller, Liyuan Zhao* 
 * [HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym](papers/5.pdf), *Ngoc La, Ruaridh Mon-Williams*
@@ -122,7 +122,7 @@ component of solving the general AI problem.
 * [Overcoming Slow Decision Frequencies in Continuous Control: Model-Based Sequence Reinforcement Learning for Model-Free Control](papers/22.pdf), *Devdhar Patel, Hava T Siegelmann*
 * [Controller Synthesis from Deep Reinforcement Learning Policies](papers/23.pdf), *Florent Delgrange, Guy Avni, Anna Lukina, Christian Schilling, Ann Nowe, Guillermo Perez*
   
-#### Poster
+#### Poster Only
 
 * [Concurrent Learning with Aggregated States via Randomized Least Squares Value Iteration](papers/3.pdf), *Yan Chen, Qinxun Bai, Shi Dong, Maria Dimakopoulou, Yiteng Zhang, Zhengyuan Zhou* 
 * [Liner Shipping Network Design with Reinforcement Learning](papers/4.pdf), *Utsav Dutta, Yifan Lin, Zhaoyang Larry Jin*
