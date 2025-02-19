@@ -35,19 +35,19 @@ The workshop location is *Room 120C* of the Pennsylvania Convention Center in Ph
 |         |  *Opening Remarks*   |
 | | AI Planning: A Primer and Survey (Preliminary Report). <u>Dillon Ze Chen</u>, Pulkit Verma, Siddharth Srivastava, Michael Katz, and Sylvie Thiebaux. |
 | | A Benchmark for Hierarchical Parameterized Action Markov Decision Process. <u>Dengxian Yang</u>, Neil Michael Dundon, Elizabeth J Rizor, Scott T. Grafton, Linda Ruth Petzold |
-|  | **Keynote Marlos Machado:<br>Representation-Driven Option Discovery in RL: Model-Free Success & Model-Based Challenges** |
+|  | ⭐ **Keynote Marlos Machado:⭐ <br>Representation-Driven Option Discovery in RL: Model-Free Success & Model-Based Challenges** |
 | | Contextual Bandits for Maximizing Stimulated Word-of-Mouth Rewards. <u>Ahmed Sayeed Faruk</u>, and Elena Zheleva. |
 | | Planning with temporally-extended actions. <u>Palash Chatterjee</u>, and Roni Khardon.|
 | 10:30 - 11:00 | Coffee break |
 |  11:00 - 12:30 | **Poster Session** |
 |  12:30 - 14:00 | Lunch |
 |  14:00 - 15:30 | **Session II** |
-|         | **Keynote Anders Jonsson:<br>Exploiting Symbolic Structure and Hierarchy in Reinforcement Learning**    |
+|         |⭐ **Keynote Anders Jonsson: ⭐ <br>Exploiting Symbolic Structure and Hierarchy in Reinforcement Learning**    |
 |  | Active Teacher Selection for Reinforcement Learning from Human Feedback. <u>Rachel Freedman</u>, Justin Svegliato, Kyle Hollins Wray, and Stuart Russell. |
 |  | HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym. <u>Ngoc La</u>, and Ruaridh Mon-Williams |
 |    15:30 - 16:00    | Coffee break    |
 |    16:00 - 18:00   | **Session III** |
-|  | **Keynote George Konidaris** |
+|  | ⭐ **Keynote George Konidaris: ⭐ <br> Signal to Symbol  (via Skills)**  |
 |  | Overcoming Slow Decision Frequencies in Continuous Control: Model-Based Sequence Reinforcement Learning for Model-Free Control. <u>Devdhar Patel</u>, and Hava T Siegelmann.|
 |  | Controller Synthesis from Deep Reinforcement Learning Policies. <u>Florent Delgrange</u>, Guy Avni, Anna Lukina, Christian Schilling, Ann Nowe, and Guillermo Perez. |
 | | Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning. Huchen Jiang, Yangyang Ma, CHAOFAN DING, Kexin Luan, and <u>XINHAN DI</u>. |
