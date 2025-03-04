@@ -128,7 +128,6 @@ component of solving the general AI problem.
 * [Liner Shipping Network Design with Reinforcement Learning](papers/4.pdf), *Utsav Dutta, Yifan Lin, Zhaoyang Larry Jin*
 * [ContextFormer: Stitching via Expert Calibration](papers/7.pdf), *Ziqi Zhang, Jingzehua Xu, Jinxin Liu, Zifeng Zhuang, Donglin Wang, Miao Liu, Shuai Zhang*
 * [RELAX: Reinforcement Learning Enabled 2D-LiDAR based Autonomous System for Parsimonious UAVs](papers/9.pdf), *Guanlin Wu, Zhuokai Zhao, Huan Chen, Jinyi Zhao, Yangke Zhang, Yutao He*
-* [InterLevel: Synthesizing Stair-Navigation Skills in Character-Scene Interactions](papers/10.pdf), *Jack Shilton, Boeun Kim, Hyung Jin Chang*
 * [Neurosymbolic Reinforcement Learning With Sequential Guarantees](papers/13.pdf), *Lennert De Smet, Gabriele Venturato, Luc De Raedt, Giuseppe Marra*
 * [SPRIG: Stackelberg Perception-Reinforcement Learning with Internal Game Dynamics](papers/15.pdf), *Fernando Martinez, Juntao Chen, Yingdong Lu*
 * [Networked Restless Multi-Arm Bandits with Reinforcement Learnin](papers/24.pdf), *Hanmo Zhang, Kai Wang*
