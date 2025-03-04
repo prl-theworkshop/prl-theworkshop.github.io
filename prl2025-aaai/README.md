@@ -131,7 +131,6 @@ component of solving the general AI problem.
 * [InterLevel: Synthesizing Stair-Navigation Skills in Character-Scene Interactions](papers/10.pdf), *Jack Shilton, Boeun Kim, Hyung Jin Chang*
 * [Neurosymbolic Reinforcement Learning With Sequential Guarantees](papers/13.pdf), *Lennert De Smet, Gabriele Venturato, Luc De Raedt, Giuseppe Marra*
 * [SPRIG: Stackelberg Perception-Reinforcement Learning with Internal Game Dynamics](papers/15.pdf), *Fernando Martinez, Juntao Chen, Yingdong Lu*
-* [Gen-HypRL : Generative Policy learning Framework for Multi-Task Reinforcement Learning](papers/20.pdf), *Jayaram Reddy, Sanket Hemant Kalwar, Brojeshwar Bhowmick, Arun Kumar Singh, Madhava Krishna*
 * [Networked Restless Multi-Arm Bandits with Reinforcement Learnin](papers/24.pdf), *Hanmo Zhang, Kai Wang*
 * [Average-Reward Reinforcement Learning with Entropy Regularizatio](papers/26.pdf), *Jacob Adamczyk, Volodymyr Makarenko, Stas Tiomkin, Rahul V Kulkarni*
 
