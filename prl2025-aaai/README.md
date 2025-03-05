@@ -124,7 +124,6 @@ component of solving the general AI problem.
   
 #### Poster Only
 
-* [Concurrent Learning with Aggregated States via Randomized Least Squares Value Iteration](papers/3.pdf), *Yan Chen, Qinxun Bai, Shi Dong, Maria Dimakopoulou, Yiteng Zhang, Zhengyuan Zhou* 
 * [Liner Shipping Network Design with Reinforcement Learning](papers/4.pdf), *Utsav Dutta, Yifan Lin, Zhaoyang Larry Jin*
 * [ContextFormer: Stitching via Expert Calibration](papers/7.pdf), *Ziqi Zhang, Jingzehua Xu, Jinxin Liu, Zifeng Zhuang, Donglin Wang, Miao Liu, Shuai Zhang*
 * [RELAX: Reinforcement Learning Enabled 2D-LiDAR based Autonomous System for Parsimonious UAVs](papers/9.pdf), *Guanlin Wu, Zhuokai Zhao, Huan Chen, Jinyi Zhao, Yangke Zhang, Yutao He*
