@@ -1,6 +1,6 @@
 # PRL @ ICAPS 2025
 
-[ICAPS'25](https://icaps25.icaps-conference.org) \ 
+[ICAPS'25](https://icaps25.icaps-conference.org) 
 <!-- todo: set link to PRL site of ICAPS when it is published -->
 Melbourne, Victoria, Australia  \
 Date: November, day tba, 2025 \
