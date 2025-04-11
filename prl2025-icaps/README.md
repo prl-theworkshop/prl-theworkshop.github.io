@@ -103,7 +103,7 @@ TODO -->
 * [Dillon Ze Chen](https://dillonzchen.github.io), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France.
 * [Floris den Hengst](https://florisdh.nl), Vrije Universiteit, Amsterdam, Netherlands.
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany.
-* [Ayal Taitler](https://sites.google.com/view/ataitler/home), University of Toronto, Toronto, Canada.
+* [Ayal Taitler](https://sites.google.com/view/ataitler/home), Ben-Gurion University, Be'er Sheva, Israel.
 
 
 Please send your inquiries to [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
