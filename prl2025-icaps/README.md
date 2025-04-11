@@ -38,8 +38,8 @@ We invite submissions at the intersection of AI Planning and (reinforcement) Lea
 
 ## Important Dates
 
-* Paper submission deadline: tba <!-- August 1, AOE->
-* Paper acceptance notification: tba <!-- August 31, AOE->
+* Paper submission deadline: tba <!-- August 1, AOE-->
+* Paper acceptance notification: tba <!-- August 31, AOE-->
 
 ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
