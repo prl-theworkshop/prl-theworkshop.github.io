@@ -24,8 +24,10 @@ We invite submissions at the intersection of AI Planning and (reinforcement) Lea
 
 * Reinforcement learning (model-based, Bayesian, deep, hierarchical, etc.)
 * Learning for planning (L4P)
+* Generalized planning
 * Monte Carlo planning
 * Model representation
+* Model learning
 * Planning using approximated/uncertain (learned) models
 * Learning search heuristics for planner guidance
 * Theoretical aspects of planning and reinforcement learning
@@ -69,7 +71,8 @@ We solicit workshop paper submissions relevant to the above call of the followin
  * Short papers -- up to 4 pages + unlimited references / appendices
  * Extended abstracts -- up to 2 pages + unlimited references/appendices 
  
-Please format submissions in ICAPS style (see instructions in the [Author Kit](https://icaps25.icaps-conference.org/files/icaps2025-author-kit.zip)). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main ICAPS conference to the workshop.
+Please format submissions in ICAPS style (see instructions in the [Author Kit](https://icaps25.icaps-conference.org/files/icaps2025-author-kit.zip)). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main ICAPS conference to the workshop. 
+As this workshop is non-archival, you may submit already accepted papers from other conferences if they fit the workshops's scope. 
 
 Some accepted long papers will be invited for contributed talks and potentially also a slot in the poster presentation session. 
 <!-- ~~All accepted papers (long as well as short) and extended abstracts will be given a slot in the poster presentation session.~~  -->
