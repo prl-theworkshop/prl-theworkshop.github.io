@@ -3,10 +3,11 @@
 
 ## Current Edition
 
-### [PRL @ AAAI 2025](https://prl-theworkshop.github.io/prl2025-aaai/)
+### [PRL @ ICAPS 2025](https://prl-theworkshop.github.io/prl2025-icaps/)
 
 
 ## Previous Editions
+- [PRL @ AAAI 2025](https://prl-theworkshop.github.io/prl2025-aaai/)
 - [PRL @ ICAPS 2024](https://prl-theworkshop.github.io/prl2024-icaps/)
 - [PRL @ IJCAI 2023](https://prl-theworkshop.github.io/prl2023-ijcai/)
 - [PRL @ ICAPS 2023](https://prl-theworkshop.github.io/prl2023-icaps/)

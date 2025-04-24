@@ -40,8 +40,8 @@ We invite submissions at the intersection of AI Planning and (reinforcement) Lea
 
 ## Important Dates
 
-* Paper submission deadline: tba <!-- August 1, AOE-->
-* Paper acceptance notification: tba <!-- August 31, AOE-->
+* Paper submission deadline: August 1, AOE
+* Paper acceptance notification: August 31, AOE
 
 ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
@@ -82,23 +82,10 @@ Extended abstracts are intended as brief summaries of already published papers, 
 As the main purpose of this workshop is to solicit discussion, the authors are invited to use the appendix of their submissions for that purpose.
 
 
-<!-- timo: we still need to decide whether we want openreview -->
 Paper submissions should be made through OpenReview. The submission link will be added shortly.
-<!-- [OpenReview](https://openreview.net/group?id=PRL/2024/ICAPS).  -->
 
 We do not insist on papers being submitted anonymously initially; this decision is left to the discretion of the author. If a paper is simultaneously being considered at a venue where anonymity is required, you have the option to submit it without author details, considering the possibility of a shared reviewer pool. However, please be aware that upon acceptance, the paper will be publicly posted on the PRL website with full author information.
 
-<!-- ### Workshop Proceedings (optional)
-
-TODO
-
-### Policy on Previously Published Materials (optional) 
-
-TODO -->
-
-<!-- ## Workshop Committee
-
-TODO -->
 
 ## Organizing Committee
 * [Zlatan Ajanović](https://zlatanajanovic.com), Delft University of Technology, Delft, Netherlands.
