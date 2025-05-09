@@ -5,6 +5,10 @@
 
 ### [PRL @ ICAPS 2025](https://prl-theworkshop.github.io/prl2025-icaps/)
 
+* Paper submission deadline: August 1, AOE
+* Paper acceptance notification: August 31, AOE
+
+ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
 ## Previous Editions
 - [PRL @ AAAI 2025](https://prl-theworkshop.github.io/prl2025-aaai/)
