@@ -1,6 +1,6 @@
 # PRL @ ICAPS 2025
 
-[ICAPS'25](https://icaps25.icaps-conference.org) 
+[ICAPS'25](https://icaps25.icaps-conference.org/program/workshops/prl/) 
 <!-- todo: set link to PRL site of ICAPS when it is published -->
 Melbourne, Victoria, Australia  \
 Date: November, day tba, 2025 \
@@ -60,8 +60,22 @@ Select accepted papers are given a slot in the program: 15 minutes for content +
 
 ## Poster Sessions
 The program includes two poster sessions in order to have enough time for discussions. All authors are expected to participate in the poster session.
-
-## List of Accepted Papers -->
+<!--  -->
+## List of Accepted Papers 
+* First-Order Representation Languages for Goal-Conditioned RL, *Simon Ståhlberg, Hector Geffner*
+* Inductive Logic Programming for Heuristic Search, *Rojina Panta, Vedant Khandelwal, Celeste Veronese, Amit Sheth, Daniele Meli, Forest Agostinelli*
+* The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards, *Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn*
+* Deep Reinforcement Learning for Rapid Spacecraft Science Operations Scheduling to Maximize Science Return, *Alex M. Zhang, Lara Waldrop*
+* Learning Heuristic Functions for HTN Planning, *Daniel Höller*
+* Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation, *Viraj Parimi, Brian C. Williams*
+* Beyond Single-Step Updates: Reinforcement Learning of Heuristics with Limited-Horizon Search, *Gal Hadar, Forest Agostinelli, Shahaf S. Shperberg*
+* MOOSE: Satisficing and Optimal Generalised Planning via Goal Regression, *Dillon Ze Chen, Till Hofmann, Toryn Q. Klassen, Sheila A. McIlraith*
+* Quantum Circuit Synthesis with Deep Reinforcement Learning and Heuristic Search, *Ian Turner, Peng Fu, Forest Agostinelli*
+* Learning Per-Domain Generalizing Policies Using Offline Reinforcement Learning, *Nicola J. Müller, Moritz Oster, Timo P. Gros*
+* Multi-Agent Deep Reinforcement Learning for UAV Flocking and Collision Avoidance in Challenging Environments, *Mohammad Reza Rezaee, Nor Asilah Wati Abdul Hamid*
+* Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces, *Jonas Ehrhardt, Johannes Schmidt, René Heesch, Oliver Niggemann*
+* Learning to Learn from Search, *Forest Agostinelli, Shahaf S. Shperberg*
+* Synthesis of Shields for Safe Reinforcement Learning in Discrete and Continuous State and Action Spaces, *Srinivas Nedunuri*
 
 ## Submission Details
 
