@@ -103,7 +103,7 @@ We do not insist on papers being submitted anonymously initially; this decision 
 
 
 ## Organizing Committee
-* [Zlatan Ajanović](https://zlatanajanovic.com), Delft University of Technology, Delft, Netherlands.
+* [Zlatan Ajanović](https://zlatanajanovic.com), RWTH Aachen University, Aachen, Germany.
 * [Forest Agostinelli](https://cse.sc.edu/%7Eforesta/), University of South Carolina, Columbia, USA.
 * [Dillon Ze Chen](https://dillonzchen.github.io), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France.
 * [Floris den Hengst](https://florisdh.nl), Vrije Universiteit, Amsterdam, Netherlands.
