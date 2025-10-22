@@ -85,7 +85,7 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marcus.jpg">
 <h3><a target="blank" href="https://www.hutter1.net/">Marcus Hutter </a></h3>
- <h6> Senior Researcher, DeepMind and Professor, Australian National University</a>.</h6>
+ <h6> Senior Researcher, DeepMind and Professor, Australian National University</h6>
 </div> 
 
 
@@ -104,7 +104,7 @@ tba
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./charles-gretton.jpg">
 <h3><a target="blank" href="https://comp.anu.edu.au/people/charles-gretton/">Charles Gretton </a></h3>
- <h6> Associate Professor, Australian National University</a>.</h6>
+ <h6> Associate Professor, Australian National University</h6>
 </div> 
 
 #### Biography 
