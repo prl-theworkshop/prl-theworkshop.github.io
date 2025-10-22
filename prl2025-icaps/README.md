@@ -47,6 +47,7 @@ We invite submissions at the intersection of AI Planning and (reinforcement) Lea
 ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
 ## Schedule
+
 | Time (Melbourne) | Title |
 |:------------:|:-----------|
 |8:30 am |**Opening Remarks** |
