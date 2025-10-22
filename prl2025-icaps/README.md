@@ -50,9 +50,9 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 | Time (Melbourne) | Title |
 |:------------:|:-----------|
-|8:30 am |**Opening Remarks** |
-|8:30 - 09:30 am| **Keynote Marcus Hutter**      |
-|09:30 - 10:00 am | **Session I**|
+| 8:30 am |**Opening Remarks** |
+| 8:30 - 09:30 am| **Keynote Marcus Hutter**      |
+| 09:30 - 10:00 am | **Session I**|
 |              | Srinivas Nedunuri - Synthesis of Shields for Safe Reinforcement Learning in Discrete and Continuous State and Action Spaces  |
 |              | Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn - The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards |
 | 10:00 - 10:30 am | *Coffee Break*    |
@@ -65,16 +65,16 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 | |Gal Hadar, Forest Agostinelli, Shahaf S. Shperberg - Beyond Single-Step Updates: Reinforcement Learning of Heuristics with Limited-Horizon Search |
 | |Rojina Panta, Vedant Khandelwal, Celeste Veronese, Amit Sheth, Daniele Meli, Forest Agostinelli - Inductive Logic Programming for Heuristic Search |
 |    12:00  - 13:30 pm  | *Lunch Break*    |
-| 13:30 - 14:30 pm| **Keynote Charles Gretton:<br>How I Learned to Stop Worrying and Trust the ML** |
+| 13:30 - 14:30 pm  | **Keynote Charles Gretton:<br>How I Learned to Stop Worrying and Trust the ML** |
 | 14:30  - 15:00 pm | **Session IV**    |
 | | Jonas Ehrhardt, Johannes Schmidt, René Heesch, Oliver Niggemann - Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces |
 | | Viraj Parimi, Brian C. Williams - Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation |
 | 15:00 - 15:30 pm | *Coffee Break*    |
 | 15:30 - 16:30 pm | **Poster Session** |
-| 16:30 - 17:00 pm| **Session V**    |
+| 16:30 - 17:00 pm | **Session V**    |
 | | Daniel Höller - Learning Heuristic Functions for HTN Planning |
 | | Ian Turner, Peng Fu, Forest Agostinelli - Quantum Circuit Synthesis with Deep Reinforcement Learning and Heuristic Search |
-| 17:00 pm| **Closing Remarks** |
+| 17:00 pm | **Closing Remarks** |
 
 # Program
 
@@ -84,7 +84,7 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marcus.jpg">
-<h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Marcus Hutter </a></h3>
+<h3><a target="blank" href="https://www.hutter1.net/">Marcus Hutter </a></h3>
  <h6> Senior Researcher, DeepMind and Professor, Australian National University</a>.</h6>
 </div> 
 
@@ -103,7 +103,7 @@ tba
 
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./charles-gretton.jpg">
-<h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Charles Gretton </a></h3>
+<h3><a target="blank" href="https://comp.anu.edu.au/people/charles-gretton/">Charles Gretton </a></h3>
  <h6> Associate Professor, Australian National University</a>.</h6>
 </div> 
 
