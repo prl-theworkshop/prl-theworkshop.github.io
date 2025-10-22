@@ -82,7 +82,7 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 ### Marcus Hutter - Title tba
 
 <div style="text-align: center;">
-<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./anders.png">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marcus.jpg">
 <h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Marcus Hutter </a></h3>
  <h6> Senior Researcher, DeepMind and Professor, Australian National University</a>.</h6>
 </div> 
@@ -101,7 +101,7 @@ tba
 ### Charles Gretton - How I Learned to Stop Worrying and Trust the ML
 
 <div style="text-align: center;">
-<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./anders.png">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./charles-gretton.png">
 <h3><a target="blank" href="https://www.upf.edu/web/anders-jonsson">Charles Gretton </a></h3>
  <h6> Associate Professor, Australian National University</a>.</h6>
 </div> 
