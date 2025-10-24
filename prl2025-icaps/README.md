@@ -56,7 +56,7 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 |              | Srinivas Nedunuri - Synthesis of Shields for Safe Reinforcement Learning in Discrete and Continuous State and Action Spaces  |
 |              | Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn - The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards |
 | 10:00 - 10:30 am | *Coffee Break*    |
-| 10:30 am - 11:15 pm | **Session II** |
+| 10:30 am - 11:15 am | **Session II** |
 |  | Dillon Ze Chen, Till Hofmann, Toryn Q. Klassen, Sheila A. McIlraith - MOOSE: Satisficing and Optimal Generalised Planning via Goal Regression |
 | |Simon Ståhlberg, Hector Geffner - First-Order Representation Languages for Goal-Conditioned RL |
 | | Nicola J. Müller, Moritz Oster, Timo P. Gros - Learning Per-Domain Generalizing Policies Using Offline Reinforcement Learning |
