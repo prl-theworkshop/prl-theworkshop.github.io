@@ -132,7 +132,7 @@ The program includes a poster sessions. All accepted papers must present a poste
 <!--  -->
 ## List of Accepted Papers 
 * [talk+poster] [First-Order Representation Languages for Goal-Conditioned RL](papers/2.pdf), *Simon Ståhlberg, Hector Geffner*
-* [talk+poster] [Inductive Logic Programming for Heuristic Search, *Rojina Panta, Vedant Khandelwal](papers/3.pdf), Celeste Veronese, Amit Sheth, Daniele Meli, Forest Agostinelli*
+* [talk+poster] [Inductive Logic Programming for Heuristic Search(papers/3.pdf), *Rojina Panta, Vedant Khandelwal, Celeste Veronese, Amit Sheth, Daniele Meli, Forest Agostinelli*
 * [talk+poster] [The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards](papers/4.pdf), *Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn*
 * [poster] [Deep Reinforcement Learning for Rapid Spacecraft Science Operations Scheduling to Maximize Science Return](papers/5.pdf), *Alex M. Zhang, Lara Waldrop*
 * [talk+poster] [Learning Heuristic Functions for HTN Planning](papers/6.pdf), *Daniel Höller*
