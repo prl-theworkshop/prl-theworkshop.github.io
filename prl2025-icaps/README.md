@@ -136,13 +136,15 @@ The program includes a poster sessions. All accepted papers must present a poste
 * [talk+poster] [The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards](papers/4.pdf), *Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn*
 * [poster] [Deep Reinforcement Learning for Rapid Spacecraft Science Operations Scheduling to Maximize Science Return](papers/5.pdf), *Alex M. Zhang, Lara Waldrop*
 * [talk+poster] [Learning Heuristic Functions for HTN Planning](papers/6.pdf), *Daniel Höller*
-* [talk+poster] [Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation](papers/7.pdf), *Viraj Parimi, Brian C. Williams*
+<!-- * [talk+poster] [Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation](papers/7.pdf), *Viraj Parimi, Brian C. Williams* -->
+* [talk+poster] Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation, *Viraj Parimi, Brian C. Williams*
 * [talk+poster] [Beyond Single-Step Updates: Reinforcement Learning of Heuristics with Limited-Horizon Search](papers/8.pdf), *Gal Hadar, Forest Agostinelli, Shahaf S. Shperberg*
-* [talk+poster] [MOOSE: Satisficing and Optimal Generalised Planning via Goal Regression](papers/9.pdf), *Dillon Ze Chen, Till Hofmann, Toryn Q. Klassen, Sheila A. McIlraith*
+* [talk+poster] MOOSE: Satisficing and Optimal Generalised Planning via Goal Regression, *Dillon Ze Chen, Till Hofmann, Toryn Q. Klassen, Sheila A. McIlraith*
+<!-- * [talk+poster] [MOOSE: Satisficing and Optimal Generalised Planning via Goal Regression](papers/9.pdf), *Dillon Ze Chen, Till Hofmann, Toryn Q. Klassen, Sheila A. McIlraith* -->
 * [talk+poster] [Quantum Circuit Synthesis with Deep Reinforcement Learning and Heuristic Search](papers/10.pdf), *Ian Turner, Peng Fu, Forest Agostinelli*
 * [talk+poster] [Learning Per-Domain Generalizing Policies Using Offline Reinforcement Learning](papers/11.pdf), *Nicola J. Müller, Moritz Oster, Timo P. Gros*
 * [poster] [Multi-Agent Deep Reinforcement Learning for UAV Flocking and Collision Avoidance in Challenging Environments](papers/12.pdf), *Mohammad Reza Rezaee, Nor Asilah Wati Abdul Hamid*
-* [talk+poster] [Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces](papers/.pdf), *Jonas Ehrhardt, Johannes Schmidt, René Heesch, Oliver Niggemann*
+* [talk+poster] [Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces](papers/14.pdf), *Jonas Ehrhardt, Johannes Schmidt, René Heesch, Oliver Niggemann*
 * [talk+poster] [Learning to Learn from Search](papers/15.pdf), *Forest Agostinelli, Shahaf S. Shperberg*
 
 ## Submission Details
