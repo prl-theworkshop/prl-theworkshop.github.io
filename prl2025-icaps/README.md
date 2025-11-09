@@ -51,9 +51,8 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 | Time (Melbourne) | Title |
 |:------------:|:-----------|
 | 8:30 am |**Opening Remarks** |
-| 8:30 - 09:30 am| **Keynote Marcus Hutter**      |
-| 09:30 - 10:00 am | **Session I**|
-|              | Srinivas Nedunuri - Synthesis of Shields for Safe Reinforcement Learning in Discrete and Continuous State and Action Spaces  |
+| 8:35 - 09:35 am| **Keynote Marcus Hutter**      |
+| 09:35 - 10:00 am | **Session I**|
 |              | Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn - The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards |
 | 10:00 - 10:30 am | *Coffee Break*    |
 | 10:30 am - 11:15 am | **Session II** |
@@ -132,20 +131,19 @@ Select accepted papers are given a slot in the program: 11 minutes for content +
 The program includes a poster sessions. All accepted papers must present a poster in the poster session.
 <!--  -->
 ## List of Accepted Papers 
-* [talk+poster] First-Order Representation Languages for Goal-Conditioned RL, *Simon Ståhlberg, Hector Geffner*
-* [talk+poster] Inductive Logic Programming for Heuristic Search, *Rojina Panta, Vedant Khandelwal, Celeste Veronese, Amit Sheth, Daniele Meli, Forest Agostinelli*
-* [talk+poster] The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards, *Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn*
-* [poster] Deep Reinforcement Learning for Rapid Spacecraft Science Operations Scheduling to Maximize Science Return, *Alex M. Zhang, Lara Waldrop*
-* [talk+poster] Learning Heuristic Functions for HTN Planning, *Daniel Höller*
-* [talk+poster] Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation, *Viraj Parimi, Brian C. Williams*
-* [talk+poster] Beyond Single-Step Updates: Reinforcement Learning of Heuristics with Limited-Horizon Search, *Gal Hadar, Forest Agostinelli, Shahaf S. Shperberg*
-* [talk+poster] MOOSE: Satisficing and Optimal Generalised Planning via Goal Regression, *Dillon Ze Chen, Till Hofmann, Toryn Q. Klassen, Sheila A. McIlraith*
-* [talk+poster] Quantum Circuit Synthesis with Deep Reinforcement Learning and Heuristic Search, *Ian Turner, Peng Fu, Forest Agostinelli*
-* [talk+poster] Learning Per-Domain Generalizing Policies Using Offline Reinforcement Learning, *Nicola J. Müller, Moritz Oster, Timo P. Gros*
-* [poster] Multi-Agent Deep Reinforcement Learning for UAV Flocking and Collision Avoidance in Challenging Environments, *Mohammad Reza Rezaee, Nor Asilah Wati Abdul Hamid*
-* [talk+poster] Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces, *Jonas Ehrhardt, Johannes Schmidt, René Heesch, Oliver Niggemann*
-* [talk+poster] Learning to Learn from Search, *Forest Agostinelli, Shahaf S. Shperberg*
-* [talk+poster] Synthesis of Shields for Safe Reinforcement Learning in Discrete and Continuous State and Action Spaces, *Srinivas Nedunuri*
+* [talk+poster] [First-Order Representation Languages for Goal-Conditioned RL](papers/2.pdf), *Simon Ståhlberg, Hector Geffner*
+* [talk+poster] [Inductive Logic Programming for Heuristic Search, *Rojina Panta, Vedant Khandelwal](papers/3.pdf), Celeste Veronese, Amit Sheth, Daniele Meli, Forest Agostinelli*
+* [talk+poster] [The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards](papers/4.pdf), *Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn*
+* [poster] [Deep Reinforcement Learning for Rapid Spacecraft Science Operations Scheduling to Maximize Science Return](papers/5.pdf), *Alex M. Zhang, Lara Waldrop*
+* [talk+poster] [Learning Heuristic Functions for HTN Planning](papers/6.pdf), *Daniel Höller*
+* [talk+poster] [Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation](papers/7.pdf), *Viraj Parimi, Brian C. Williams*
+* [talk+poster] [Beyond Single-Step Updates: Reinforcement Learning of Heuristics with Limited-Horizon Search](papers/8.pdf), *Gal Hadar, Forest Agostinelli, Shahaf S. Shperberg*
+* [talk+poster] [MOOSE: Satisficing and Optimal Generalised Planning via Goal Regression](papers/9.pdf), *Dillon Ze Chen, Till Hofmann, Toryn Q. Klassen, Sheila A. McIlraith*
+* [talk+poster] [Quantum Circuit Synthesis with Deep Reinforcement Learning and Heuristic Search](papers/10.pdf), *Ian Turner, Peng Fu, Forest Agostinelli*
+* [talk+poster] [Learning Per-Domain Generalizing Policies Using Offline Reinforcement Learning](papers/11.pdf), *Nicola J. Müller, Moritz Oster, Timo P. Gros*
+* [poster] [Multi-Agent Deep Reinforcement Learning for UAV Flocking and Collision Avoidance in Challenging Environments](papers/12.pdf), *Mohammad Reza Rezaee, Nor Asilah Wati Abdul Hamid*
+* [talk+poster] [Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces](papers/.pdf), *Jonas Ehrhardt, Johannes Schmidt, René Heesch, Oliver Niggemann*
+* [talk+poster] [Learning to Learn from Search](papers/15.pdf), *Forest Agostinelli, Shahaf S. Shperberg*
 
 ## Submission Details
 
