@@ -1,10 +1,9 @@
 # PRL @ ICAPS 2026
-<!-- [ICAPS'26](https://icaps25.icaps-conference.org/program/workshops/prl/)  -->
-ICAPS'26
+[ICAPS'26](https://icaps26.icaps-conference.org)
 <!-- todo: set link to PRL site of ICAPS when it is published -->
-Dublin, Ireland
-Date: June 28 or 29, 2026 
-[prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
+Dublin, Ireland \
+Date: June 28 or 29, 2026 \
+[prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com) \
 
 
 ## Aim and Scope
