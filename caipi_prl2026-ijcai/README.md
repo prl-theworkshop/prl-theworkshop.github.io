@@ -66,7 +66,7 @@ We solicit workshop paper submissions relevant to the above call of the followin
  
 We aim to publish the workshop proceedings through CEUR-WS (https:
 //ceur-ws.org/). This is **optional**, meaning accepted submissions can choose to be part of the proceedings but don't have to. 
-Pleaes note that CEUR-WS workshop proceedings are archival.
+Please note that CEUR-WS workshop proceedings are archival.
 The Latex template can be found [here](http://ceur-ws.org/Vol-XXX/
 CEURART.zip), with more information available [here](https://ceur-ws.org/
 HOWTOSUBMIT.html#CEURART).
