@@ -98,7 +98,7 @@ We do not insist on papers being submitted anonymously initially; this decision 
 * Jonas Erhardt, Helmut-Schmidt-University, Hamburg, Germany.
 * Alexander Diedrich, Helmut-Schmidt-University, Hamburg, Germany.
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany.
-* Ren´e Heesch, Helmut-Schmidt-University, Hamburg, Germany.
+* René Heesch, Helmut-Schmidt-University, Hamburg, Germany.
 * [Andrea Micheli](https://andrea.micheli.website), Fondazione Bruno Kessler, Trento, Italy.
 * [Oliver Niggemann](https://www.hsu-hh.de/imb/team), Helmut-Schmidt-University, Hamburg, Germany.
 * [Shahaf S. Shperberg](https://shperb.github.io), Ben-Gurion University, Be'er Sheva, Israel.
