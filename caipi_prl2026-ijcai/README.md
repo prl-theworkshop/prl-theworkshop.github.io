@@ -1,4 +1,4 @@
-# Joint Workshop on Planning or Complex Real-World Applications (CAIPI) and Bridging the Gap Between AI Planning and (Reinforcement) Learning (PRL)
+# Joint Workshop on Planning for Complex Real-World Applications (CAIPI) and Bridging the Gap Between AI Planning and (Reinforcement) Learning (PRL)
 [IJCAI'26](https://2026.ijcai.org/ijcai-ecai-2026-call-for-workshop-proposals/)
 <!-- todo: set link to PRL site of ICAPS when it is published -->
 Bremen, Germany \
