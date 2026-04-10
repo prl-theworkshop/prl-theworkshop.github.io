@@ -3,6 +3,10 @@
 
 ## Current Edition
 
+### [CAIPI&PRL @ IJCAI 2026](https://prl-theworkshop.github.io/caipi_prl2026-ijcai/)
+* Paper submission deadline: May 15, AOE
+* Paper acceptance notification: June 15, AOE
+
 ### [PRL @ ICAPS 2026](https://prl-theworkshop.github.io/prl2026-icaps/)
 * Paper submission deadline: May 10, AOE
 * Paper acceptance notification: June 10, AOE
