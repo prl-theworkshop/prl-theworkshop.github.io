@@ -84,8 +84,8 @@ Extended abstracts are intended as brief summaries of already published papers, 
 As the main purpose of this workshop is to solicit discussion, the authors are invited to use the appendix of their submissions for that purpose.
 
 
-<!-- Paper submissions should be made through [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Workshop/PRL). -->
-Paper submission will be available soon. 
+Paper submissions should be made through [OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI-ECAI/2026/Workshop/PRL).
+<!-- Paper submission will be available soon.  -->
 
 We do not insist on papers being submitted anonymously initially; this decision is left to the discretion of the author. If a paper is simultaneously being considered at a venue where anonymity is required, you have the option to submit it without author details, considering the possibility of a shared reviewer pool. 
 <!-- However, please be aware that upon acceptance, the paper will be publicly posted on the PRL website with full author information. -->
