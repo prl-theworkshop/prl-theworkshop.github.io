@@ -129,8 +129,8 @@ Extended abstracts are intended as brief summaries of already published papers, 
 As the main purpose of this workshop is to solicit discussion, the authors are invited to use the appendix of their submissions for that purpose.
 
 
-<!-- Paper submissions should be made through [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Workshop/PRL). -->
-Paper submission will be available soon. 
+Paper submissions should be made through [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2026/Workshop/PRL).
+<!-- Paper submission will be available soon.  -->
 
 We do not insist on papers being submitted anonymously initially; this decision is left to the discretion of the author. If a paper is simultaneously being considered at a venue where anonymity is required, you have the option to submit it without author details, considering the possibility of a shared reviewer pool. However, please be aware that upon acceptance, the paper will be publicly posted on the PRL website with full author information.
 
@@ -138,8 +138,9 @@ We do not insist on papers being submitted anonymously initially; this decision 
 ## Organizing Committee
 * [Zlatan Ajanović](https://zlatanajanovic.com), RWTH Aachen University, Aachen, Germany.
 * [Dillon Ze Chen](https://dillonzchen.github.io), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France.
+* [Forest Agostinelli](https://cse.sc.edu/%7Eforesta/), University of South Carolina, Columbia, USA.
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany.
-* [Sarah Keren](https://sarahk.cs.technion.ac.il), Technion, Israel Institute of Technology, Haifa, Israel.
+<!-- * [Sarah Keren](https://sarahk.cs.technion.ac.il), Technion, Israel Institute of Technology, Haifa, Israel. -->
 * [Shahaf S. Shperberg](https://shperb.github.io), Ben-Gurion University, Be'er Sheva, Israel.
 * [Ayal Taitler](https://sites.google.com/view/ataitler/home), Ben-Gurion University, Be'er Sheva, Israel.
 
