@@ -41,7 +41,7 @@ We invite submissions at the intersection of AI Planning and (reinforcement) Lea
 
 ## Important Dates
 
-* Paper submission deadline: May 10, AOE
+* Paper submission deadline: ~~May 10~~ May 15, AOE
 * Paper acceptance notification: June 10, AOE
 
 ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
