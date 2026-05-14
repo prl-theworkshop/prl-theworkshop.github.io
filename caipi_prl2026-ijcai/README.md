@@ -50,7 +50,7 @@ learning
 
 ## Important Dates
 
-* Paper submission deadline: May 15, AOE
+* Paper submission deadline: ~~May 15~~ May 25, AOE
 * Paper acceptance notification: June 15, AOE
 
 IJCAI will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
