@@ -48,8 +48,57 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 <!-- ## Schedule -->
 
-<!-- 
 # Program
+
+## Keynotes 
+
+### Alfonso Emilio Gerevini and Ivan Serina - On Learning Planning Heuristics and General Policies through GNNs and Transformers
+
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div style="text-align: center;">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./AlfonsoGerevini.jpeg">
+<h3>Alfonso Emilio Gerevini</h3>
+<h6>Full Professor, University of Brescia, Italy</h6>
+</div>
+<div style="text-align: center;">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./assoc-prof-dr-ivan-serina.jpg">
+<h3>Ivan Serina</h3>
+<h6>Associate Professor, University of Brescia, Italy</h6>
+</div>
+</div>
+
+#### Abstract
+
+Recent advances in deep learning have opened new opportunities for automated planning, while also raising fundamental questions about how learned models can acquire, represent, and exploit planning knowledge. In this talk, we will discuss recent work on learning-based approaches to planning, with a focus on the interaction between neural models and symbolic planning systems.
+The talk will cover methods for learning heuristic functions in lifted classic and numeric planning through Graph Neural Networks, where planning states are encoded as relational structures enriched with propositional and numeric information used to guide search. It will also present transformer-based approaches for learning general planning policies, with particular emphasis on PlanGPT models trained from planning instances to generate action sequences for new problems in the same domain.
+A central theme of the talk will be the synergistic integration of neural learning from data and model-based planning. Learned components can capture reusable knowledge, guide search, or suggest candidate plans, while symbolic models and validators remain essential for enforcing action semantics and validating generated plans to preserve correctness. We will also discuss connections with reinforcement learning as well as the challenges of generalization, robustness, and integration of neural components into planning systems.
+
+#### Biography
+
+**Alfonso Emilio Gerevini** is Professor of Computer Science at the University of Brescia, Italy, where he leads a research group in AI planning and machine learning. He has received eight awards from the International Conference on Automated Planning and Scheduling (ICAPS), including two Influential Paper Awards in 2019 and 2023 (honourable mention), and five awards from the International Planning Competitions.
+Over more than thirty years of research in AI planning, he has worked on a wide range of topics. His most recent work focuses on resilient/robust planning, linear temporal logics for planning, and neural and neuro-symbolic learning for general planning policies, search heuristics, and goal recognition.
+He is a Fellow of the European Association for Artificial Intelligence (EurAI), the International Academy of Artificial Intelligence Sciences (AAIS), and the International Artificial Intelligence Industry Alliance, and a member of the European Laboratory for Learning and Intelligent Systems (ELLIS). He has served the AI and planning communities in various roles, including as Program Co-Chair of ICAPS 2009, Conference Co-Chair of ICAPS 2026, and Associate Editor of the Artificial Intelligence Journal.
+
+**Ivan Serina** is Associate Professor at the Department of Information Engineering of the University of Brescia, Italy. His research focuses on automated planning, heuristic search, plan generation and adaptation, case-based planning, and the integration of machine learning and deep learning techniques into planning systems. He has been a member of the Artificial Intelligence Research Group at the University of Brescia since 1997 and has contributed to the development of planning systems such as LPG. His recent work investigates neural approaches to planning, including Graph Neural Networks for learning planning heuristics and transformer-based models for learning general planning policies, as well as applications of AI planning and optimization techniques to water management.
+
+### Joerg Hoffmann - Automatic Safety Debugging of Tree-Ensemble Action Policies in AI Planning
+
+<div style="text-align: center;">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./joerg_hoffmann.jpg">
+<h3>Joerg Hoffmann</h3>
+<h6>Full Professor, Saarland University, Saarbrücken, Germany</h6>
+</div>
+
+#### Abstract
+
+Safety is a key concern for learned action policies. Here we discuss a complete methodology toolbox allowing to effectively find unsafe policy runs, find the action decisions causing unsafety on these runs, repair the policy to fix these decisions, and verify that the repaired policy is safe. Together, these tools form a fully automatic safety debugging loop for learned policies. We realize this loop in numeric planning under initial-state and action-outcome uncertainty, with the policy objective being to reach the goal while avoiding unsafe states. We focus on tree ensembles as the policy representation, as in our setting these imitate neural teacher policies.
+
+#### Biography
+
+Joerg Hoffmann is a Professor of CS at Saarland University, Saarbrücken, Germany. He has published more than 200 scientific papers, has been Program Co-Chair of AAAI'12 as well as Conference Co-Chair of ICAPS 2010 and 2020, and has received various prizes including the EurAI Dissertation award 2002. His core research area is AI automated planning, with connections to related fields such as ML and verification, and a recent focus on quality assurance for learned action policies. He is a Fellow of AAAI and EurAI.
+
+<!-- 
+# Program (placeholder from prior year)
 
 ## Keynotes 
 
