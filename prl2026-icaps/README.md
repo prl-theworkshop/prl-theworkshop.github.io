@@ -186,7 +186,6 @@ We do not insist on papers being submitted anonymously initially; this decision 
 
 ## Organizing Committee
 * [Zlatan Ajanović](https://zlatanajanovic.com), RWTH Aachen University, Aachen, Germany.
-* [Dillon Ze Chen](https://dillonzchen.github.io), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France.
 * [Forest Agostinelli](https://cse.sc.edu/%7Eforesta/), University of South Carolina, Columbia, USA.
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany.
 <!-- * [Sarah Keren](https://sarahk.cs.technion.ac.il), Technion, Israel Institute of Technology, Haifa, Israel. -->
