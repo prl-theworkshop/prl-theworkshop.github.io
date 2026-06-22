@@ -47,6 +47,38 @@ We invite submissions at the intersection of AI Planning and (reinforcement) Lea
 ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
 <!-- ## Schedule -->
+## Schedule
+
+| Time (Dublin) | Title |
+|:------------:|:-----------|
+| 8:30 am |**Opening Remarks** |
+| 8:35 - 09:35 am| **Keynote Ivan Serina Alfonso Emilio Gerevini:<br>On Learning Planning Heuristics and General Policies through GNNs and Transformers**    |
+| 09:30 - 10:00 am | **Session I**|
+|              | Kristina Levina, Nikolaos Pappas, Athanasios Karapantelakis, Aneta Vulgarakis Feljan, Jendrik Seipp - Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines |
+|              | Andy Edmondson, Ron Petrick - PBRMS: Priority-Based Reward-Machine Switching for Context-Aware Reinforcement Learning in Non-Stationary POMDPs |
+| 10:00 - 10:30 am | *Coffee Break*    |
+| 10:30 am - 12:00 pm | **Session II** |
+|  | Jonas Reiter, Jakob Elias Gebler, Hector Geffner - Differentiable Learning of Lifted Action Schemas for Classical Planning |
+|  | Yuval Aroosh, Ayal Taitler - Model-Driven Policy Optimization in Differentiable Simulators via Stochastic Exploration |
+|  | Magnus Cunow, Nicola J. Müller, Timo P. Gros, Gregor Behnke, Daniel Höller - An Admissible Neuro-Symbolic Landmark Cut Heuristic – Preliminary Results |
+|  | Jonas Gösgens, Niklas Jansen, Hector Geffner - Learning Lifted Action Models from Traces with Minimal Information About Actions and States |
+|  | Markus Fritzsche, Elliot Gestrin, Jendrik Seipp - Symmetry-Aware Transformer Training for Automated Planning |
+|  | Gustavo De Mari Pereira, Leliane N. de Barros - Effective Reinforcement Learning Exploration in Stochastic Shortest Paths with Dead-Ends |
+|    12:00  - 13:30 pm  | *Lunch Break*    |
+| 13:30 - 14:25 am| **Keynote Joerg Hoffmann:<br>Automatic Safety Debugging of Tree-Ensemble Action Policies in AI Planning**    |
+| 14:25 am - 15:00 pm | **Session III** |
+|  | Srinivas Nedunuri, Douglas Cale Crowder - Synthesis of Shields for Safe Reinforcement Learning in Both Discrete and Continuous State and Action Spaces |
+|  | Arman Mohammadi, Markus Fritzsche, Jendrik Seipp - Towards Symbolic Planning via Diffusion |
+|  | Forest Agostinelli - The DeepXube Software Package for Solving Pathfinding Problems with Learned Heuristic Functions and Search |
+| 15:00 - 15:30 pm | *Coffee Break*    |
+| 15:30  - 17:00 pm | **Session IV**    |
+| | S.T. Lin - On the Possibility of Solving STRIPS Planning Problems with REINFORCE |
+| | S.T. Lin, Nicola J. Müller, Tim Nico Bauerschmidt, Chaahat Jain, Jörg Hoffmann, Isabel Valera - Using a Search-Based Safety Oracle for RL Policy Fine-Tuning |
+| | Arnaud Lequen, Clément Legrand-Lixon, Léo Saulières - Pareto Q-Learning with Reward Machines |
+| | Yusuf Syed, Viraj Parimi, Brian C. Williams - MoMo: Conditioned Contrastive Representation Learning for Preference-Modulated Planning |
+| | Forest Agostinelli, Shahaf S. Shperberg - Data Efficient Training of Heuristic Functions for Satisficing Search |
+| | Misagh Soltani, Forest Agostinelli - Heuristic Learning and Search Without Exhaustive Action Enumeration |
+| 17:00 pm | **Closing Remarks** |
 
 # Program
 
@@ -186,10 +218,8 @@ We do not insist on papers being submitted anonymously initially; this decision 
 
 ## Organizing Committee
 * [Zlatan Ajanović](https://zlatanajanovic.com), RWTH Aachen University, Aachen, Germany.
-* [Dillon Ze Chen](https://dillonzchen.github.io), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France.
 * [Forest Agostinelli](https://cse.sc.edu/%7Eforesta/), University of South Carolina, Columbia, USA.
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany.
-<!-- * [Sarah Keren](https://sarahk.cs.technion.ac.il), Technion, Israel Institute of Technology, Haifa, Israel. -->
 * [Shahaf S. Shperberg](https://shperb.github.io), Ben-Gurion University, Be'er Sheva, Israel.
 * [Ayal Taitler](https://sites.google.com/view/ataitler/home), Ben-Gurion University, Be'er Sheva, Israel.
 
