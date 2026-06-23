@@ -188,7 +188,24 @@ The program includes a poster sessions. All accepted papers must present a poste
 
 
 <!-- ## List of Accepted Papers  -->
-
+## Accepted Papers
+* [talk] [Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines](papers/2_Reinforcement_Learning_for_L.pdf) ([OpenReview](https://openreview.net/forum?id=AfRCCaEXq2)), *Kristina Levina, Nikolaos Pappas, Athanasios Karapantelakis, Aneta Vulgarakis Feljan, Jendrik Seipp*
+* [talk] [PBRMS: Priority-Based Reward-Machine Switching for Context-Aware Reinforcement Learning in Non-Stationary POMDPs](papers/3_PBRMS_Priority_Based_Reward_.pdf) ([OpenReview](https://openreview.net/forum?id=L8h7f4sk6l)), *Andy Edmondson, Ron Petrick*
+* [talk] [Differentiable Learning of Lifted Action Schemas for Classical Planning](papers/4_Differentiable_Learning_of_L.pdf) ([OpenReview](https://openreview.net/forum?id=fjPZgmKg1b)), *Jonas Reiter, Jakob Elias Gebler, Hector Geffner*
+* [talk] [MoMo: Conditioned Contrastive Representation Learning for Preference-Modulated Planning](papers/5_MoMo_Conditioned_Contrastive.pdf) ([OpenReview](https://openreview.net/forum?id=QME33nC8aB)), *Yusuf Syed, Viraj Parimi, Brian C. Williams*
+* [talk] [An Admissible Neuro-Symbolic Landmark Cut Heuristic – Preliminary Results](papers/6_An_Admissible_Neuro_Symbolic.pdf) ([OpenReview](https://openreview.net/forum?id=nQak2eOgt2)), *Magnus Cunow, Nicola J. Müller, Timo P. Gros, Gregor Behnke, Daniel Höller*
+* [talk] [Model-Driven Policy Optimization in Differentiable Simulators via Stochastic Exploration](papers/7_Model_Driven_Policy_Optimiza.pdf) ([OpenReview](https://openreview.net/forum?id=O57GJQNfi2)), *Yuval Aroosh, Ayal Taitler*
+* [talk] [Learning Lifted Action Models from Traces with Minimal Information About Actions and States](papers/9_Learning_Lifted_Action_Model.pdf) ([OpenReview](https://openreview.net/forum?id=gdnBpd1ntg)), *Jonas Gösgens, Niklas Jansen, Hector Geffner*
+* [talk] [Symmetry-Aware Transformer Training for Automated Planning](papers/10_Symmetry_Aware_Transformer_.pdf) ([OpenReview](https://openreview.net/forum?id=9Gx5s2sc6d)), *Markus Fritzsche, Elliot Gestrin, Jendrik Seipp*
+* [talk] [Effective Reinforcement Learning Exploration in Stochastic Shortest Paths with Dead-Ends](papers/11_Effective_Reinforcement_Lea.pdf) ([OpenReview](https://openreview.net/forum?id=YyFb5zQ5PY)), *Gustavo De Mari Pereira, Leliane N. de Barros*
+* [talk] [Synthesis of Shields for Safe Reinforcement Learning in Both Discrete and Continuous State and Action Spaces](papers/13_Synthesis_of_Shields_for_Sa.pdf) ([OpenReview](https://openreview.net/forum?id=kp7kIujk3F)), *Srinivas Nedunuri, Douglas Cale Crowder*
+* [talk] [Towards Symbolic Planning via Diffusion](papers/14_Towards_Symbolic_Planning_v.pdf) ([OpenReview](https://openreview.net/forum?id=wNfICOZzWU)), *Arman Mohammadi, Markus Fritzsche, Jendrik Seipp*
+* [talk] [On the Possibility of Solving STRIPS Planning Problems with REINFORCE](papers/15_On_the_Possibility_of_Solvi.pdf) ([OpenReview](https://openreview.net/forum?id=QroQkGBJYU)), *S.T. Lin*
+* [talk] [Using a Search-Based Safety Oracle for RL Policy Fine-Tuning](papers/16_Using_a_Search_Based_Safety.pdf) ([OpenReview](https://openreview.net/forum?id=eG4u8O10a5)), *S.T. Lin, Nicola J. Müller, Tim Nico Bauerschmidt, Chaahat Jain, Jörg Hoffmann, Isabel Valera*
+* [talk] [Pareto Q-Learning with Reward Machines](papers/17_Pareto_Q_Learning_with_Rewa.pdf) ([OpenReview](https://openreview.net/forum?id=0LmlpddShf)), *Arnaud Lequen, Clément Legrand-Lixon, Léo Saulières*
+* [talk] [Data Efficient Training of Heuristic Functions for Satisficing Search](papers/19_Data_Efficient_Training_of_.pdf) ([OpenReview](https://openreview.net/forum?id=dviGgWaoHj)), *Forest Agostinelli, Shahaf S. Shperberg*
+* [talk] [Heuristic Learning and Search Without Exhaustive Action Enumeration](papers/21_Heuristic_Learning_and_Sear.pdf) ([OpenReview](https://openreview.net/forum?id=H4CpM0PP8w)), *Misagh Soltani, Forest Agostinelli*
+* [talk] [The DeepXube Software Package for Solving Pathfinding Problems with Learned Heuristic Functions and Search](papers/18_The_DeepXube_Software_Packa.pdf) ([OpenReview](https://openreview.net/forum?id=CDaiA6keWn)), *Forest Agostinelli*
 
 ## Submission Details
 
@@ -217,7 +234,7 @@ We do not insist on papers being submitted anonymously initially; this decision 
 
 
 ## Organizing Committee
-* [Zlatan Ajanović](https://zlatanajanovic.com), RWTH Aachen University, Aachen, Germany.
+* [Zlatan Ajanović](https://zlatanajanovic.com), UAS Technikum Wien, Vienna, Austria.
 * [Forest Agostinelli](https://cse.sc.edu/%7Eforesta/), University of South Carolina, Columbia, USA.
 * [Timo P. Gros](https://mosi.uni-saarland.de/people/timo/), German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany.
 * [Shahaf S. Shperberg](https://shperb.github.io), Ben-Gurion University, Be'er Sheva, Israel.
