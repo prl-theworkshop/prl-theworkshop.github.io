@@ -113,13 +113,28 @@ He is a Fellow of the European Association for Artificial Intelligence (EurAI), 
 
 **Ivan Serina** is Associate Professor at the Department of Information Engineering of the University of Brescia, Italy. His research focuses on automated planning, heuristic search, plan generation and adaptation, case-based planning, and the integration of machine learning and deep learning techniques into planning systems. He has been a member of the Artificial Intelligence Research Group at the University of Brescia since 1997 and has contributed to the development of planning systems such as LPG. His recent work investigates neural approaches to planning, including Graph Neural Networks for learning planning heuristics and transformer-based models for learning general planning policies, as well as applications of AI planning and optimization techniques to water management.
 
-### Joerg Hoffmann - Automatic Safety Debugging of Tree-Ensemble Action Policies in AI Planning
+### Joerg Hoffmann and Chaahat Jain - Automatic Safety Debugging of Tree-Ensemble Action Policies in AI Planning
 
+<!-- <div style="text-align: center;">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./joerg_hoffmann.jpg">
+<h3>Joerg Hoffmann</h3>
+<h6>Full Professor, Saarland University, Saarbrücken, Germany</h6>
+</div> -->
+
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 <div style="text-align: center;">
 <img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./joerg_hoffmann.jpg">
 <h3>Joerg Hoffmann</h3>
 <h6>Full Professor, Saarland University, Saarbrücken, Germany</h6>
 </div>
+<div style="text-align: center;">
+<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  
+src="./chaahat1.jpg">
+<h3>Chaahat Jain</h3>
+<h6>PhD Student, Saarland University, Saarbrücken, Germany</h6>
+</div>
+</div>
+
 
 #### Abstract
 
@@ -127,7 +142,16 @@ Safety is a key concern for learned action policies. Here we discuss a complete 
 
 #### Biography
 
-Joerg Hoffmann is a Professor of CS at Saarland University, Saarbrücken, Germany. He has published more than 200 scientific papers, has been Program Co-Chair of AAAI'12 as well as Conference Co-Chair of ICAPS 2010 and 2020, and has received various prizes including the EurAI Dissertation award 2002. His core research area is AI automated planning, with connections to related fields such as ML and verification, and a recent focus on quality assurance for learned action policies. He is a Fellow of AAAI and EurAI.
+**Joerg Hoffmann** is a Professor of CS at Saarland University, Saarbrücken, Germany. He has published more than 200 scientific papers, has been Program Co-Chair of AAAI'12 as well as Conference Co-Chair of ICAPS 2010 and 2020, and has received various prizes including the EurAI Dissertation award 2002. His core research area is AI automated planning, with connections to related fields such as ML and verification, and a recent focus on quality assurance for learned action policies. He is a Fellow of AAAI and EurAI.
+
+**Chaahat Jain** is a PhD student at the chair of Prof. Jörg Hoffmann in the CS
+department at Saarland University, Saarbrücken, Germany and a member of
+the Neuroexplicit Models of Language, Vision and Action research
+training group. His research lies in the learning, safety verification,
+and repair of action policies in planning. Specifically, he is focused on
+understanding how possible policy representations, from symbolic
+formulations to machine learning models such as neural networks, effects
+their quality and reparability.
 
 <!-- 
 # Program (placeholder from prior year)
