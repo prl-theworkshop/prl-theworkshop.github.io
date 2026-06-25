@@ -52,10 +52,10 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 | Time (Dublin) | Title |
 |:------------:|:-----------|
 | 8:30 am |**Opening Remarks** |
-| 8:35 - 09:35 am| **Keynote Ivan Serina Alfonso Emilio Gerevini:<br>On Learning Planning Heuristics and General Policies through GNNs and Transformers**    |
-| 09:30 - 10:00 am | **Session I**|
+| 08:35 - 9:05 am | **Session I**|
 |              | Kristina Levina, Nikolaos Pappas, Athanasios Karapantelakis, Aneta Vulgarakis Feljan, Jendrik Seipp - Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines |
 |              | Andy Edmondson, Ron Petrick - PBRMS: Priority-Based Reward-Machine Switching for Context-Aware Reinforcement Learning in Non-Stationary POMDPs |
+| 9:05 - 10:00 am| **Keynote Ivan Serina Alfonso Emilio Gerevini:<br>On Learning Planning Heuristics and General Policies through GNNs and Transformers**    |
 | 10:00 - 10:30 am | *Coffee Break*    |
 | 10:30 am - 12:00 pm | **Session II** |
 |  | Jonas Reiter, Jakob Elias Gebler, Hector Geffner - Differentiable Learning of Lifted Action Schemas for Classical Planning |
