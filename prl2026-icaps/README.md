@@ -2,7 +2,7 @@
 [ICAPS'26](https://icaps26.icaps-conference.org)
 <!-- todo: set link to PRL site of ICAPS when it is published -->
 Dublin, Ireland \
-Date: June 28 or 29, 2026 \
+Date: June 28 \
 [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com) \
 
 
