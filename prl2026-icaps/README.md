@@ -51,34 +51,34 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 | Time (Dublin) | Title |
 |:------------:|:-----------|
-| 8:30 am |**Opening Remarks** |
-| 8:35 - 09:35 am| **Keynote Ivan Serina Alfonso Emilio Gerevini:<br>On Learning Planning Heuristics and General Policies through GNNs and Transformers**    |
-| 09:30 - 10:00 am | **Session I**|
+| 9:00 |**Opening Remarks** |
+| 09:05 - 10:35 | **Session I**|
 |              | Kristina Levina, Nikolaos Pappas, Athanasios Karapantelakis, Aneta Vulgarakis Feljan, Jendrik Seipp - Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines |
 |              | Andy Edmondson, Ron Petrick - PBRMS: Priority-Based Reward-Machine Switching for Context-Aware Reinforcement Learning in Non-Stationary POMDPs |
-| 10:00 - 10:30 am | *Coffee Break*    |
-| 10:30 am - 12:00 pm | **Session II** |
 |  | Jonas Reiter, Jakob Elias Gebler, Hector Geffner - Differentiable Learning of Lifted Action Schemas for Classical Planning |
 |  | Yuval Aroosh, Ayal Taitler - Model-Driven Policy Optimization in Differentiable Simulators via Stochastic Exploration |
 |  | Magnus Cunow, Nicola J. Müller, Timo P. Gros, Gregor Behnke, Daniel Höller - An Admissible Neuro-Symbolic Landmark Cut Heuristic – Preliminary Results |
 |  | Jonas Gösgens, Niklas Jansen, Hector Geffner - Learning Lifted Action Models from Traces with Minimal Information About Actions and States |
+| 10:35 - 11:05 | *Coffee Break*    |
+| 11:05 - 12:00 | **Keynote Ivan Serina and Alfonso Emilio Gerevini:<br>On Learning Planning Heuristics and General Policies through GNNs and Transformers**    |
+| 12:00 - 13:00 | **Session II** |
 |  | Markus Fritzsche, Elliot Gestrin, Jendrik Seipp - Symmetry-Aware Transformer Training for Automated Planning |
 |  | Gustavo De Mari Pereira, Leliane N. de Barros - Effective Reinforcement Learning Exploration in Stochastic Shortest Paths with Dead-Ends |
-|    12:00  - 13:30 pm  | *Lunch Break*    |
-| 13:30 - 14:25 am| **Keynote Joerg Hoffmann:<br>Automatic Safety Debugging of Tree-Ensemble Action Policies in AI Planning**    |
-| 14:25 am - 15:00 pm | **Session III** |
+| | S.T. Lin - On the Possibility of Solving STRIPS Planning Problems with REINFORCE |
+| | S.T. Lin, Nicola J. Müller, Tim Nico Bauerschmidt, Chaahat Jain, Jörg Hoffmann, Isabel Valera - Using a Search-Based Safety Oracle for RL Policy Fine-Tuning |
+|  14:30  - 15:25 pm  | *Lunch Break*   |
+| 14:30 - 15:25 am| **Keynote Joerg Hoffmann and Chaahat Jain:<br>Automatic Safety Debugging of Tree-Ensemble Action Policies in AI Planning**   |
+| 15:25 am - 16:00 pm | **Session III** |
 |  | Srinivas Nedunuri, Douglas Cale Crowder - Synthesis of Shields for Safe Reinforcement Learning in Both Discrete and Continuous State and Action Spaces |
 |  | Arman Mohammadi, Markus Fritzsche, Jendrik Seipp - Towards Symbolic Planning via Diffusion |
 |  | Forest Agostinelli - The DeepXube Software Package for Solving Pathfinding Problems with Learned Heuristic Functions and Search |
-| 15:00 - 15:30 pm | *Coffee Break*    |
-| 15:30  - 17:00 pm | **Session IV**    |
-| | S.T. Lin - On the Possibility of Solving STRIPS Planning Problems with REINFORCE |
-| | S.T. Lin, Nicola J. Müller, Tim Nico Bauerschmidt, Chaahat Jain, Jörg Hoffmann, Isabel Valera - Using a Search-Based Safety Oracle for RL Policy Fine-Tuning |
+| 16:00 - 16:30 pm | *Coffee Break*    |
+| 16:30  - 17:30 pm | **Session IV**    |
 | | Arnaud Lequen, Clément Legrand-Lixon, Léo Saulières - Pareto Q-Learning with Reward Machines |
 | | Yusuf Syed, Viraj Parimi, Brian C. Williams - MoMo: Conditioned Contrastive Representation Learning for Preference-Modulated Planning |
 | | Forest Agostinelli, Shahaf S. Shperberg - Data Efficient Training of Heuristic Functions for Satisficing Search |
 | | Misagh Soltani, Forest Agostinelli - Heuristic Learning and Search Without Exhaustive Action Enumeration |
-| 17:00 pm | **Closing Remarks** |
+| 17:30 pm | **Closing Remarks** |
 
 # Program
 
