@@ -55,6 +55,25 @@ learning
 
 IJCAI will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
 
+## Program
+
+| Time | Title | Authors |
+|---|---|---|
+| 9:00 | Opening Remarks |  |
+| 9:10 | Dynamic Haven Selection for Multi-Agent Pickup and Delivery in Constrained Warehouses | Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji, Itsuki Noda |
+| 9:30 | Modelling Choices in Neurosymbolic Action Model Learning from Visual Traces | Adem Kikaj, Lennert De Smet, Giuseppe Marra, Luc De Raedt |
+| 9:50 | ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability | Juarez Monteiro, Nathan Gavenski, Guilherme Drummond Lima, Francisco Galuppo Azevedo, Odinaldo Rodrigues, Adriano Veloso |
+| 10:10 | Discrete Vision Tokens and Temporal Transformers for City-Scale Crowd Flow Prediction | Antoni Zięciak, Michał Szczygieł, Michał Pikus, Jarosław Wąs |
+| 10:30 | Coffee Break / Poster Session |  |
+| 11:00 | Conflict-Component Decomposition for Quantum-Ready Multi-Agent Path Finding | Ujjwal Mishra, Dwarikanath Mahapatra, Mohna Chakraborty, Behzad Bozorgtabar, Murari Mandal, Sudipta Roy |
+| 11:20 | Keynote | Hector Geffner |
+| 12:30 | Lunch Break / Poster Session |  |
+| 14:00 | Neuro-Symbolic Cooperative Multi-Agent Reinforcement Learning | Kim Paulke, Jonas Ehrhardt, René Heesch, Oliver Niggemann |
+| 14:20 | Drop the Act: Probe-Filtered RL for Faithful Chain-of-Thought Reasoning | Swapnil Parekh |
+| 14:40 | SAVGO: Learning State–Action Value Geometry with Cosine Similarity for Continuous Control | Stavros Orfanoudakis, Pedro P. Vergara |
+| 15:00 | Network-Based Interventions for HIV Prevention via Cascade-Aware Suppression of Transmission | Akseli Kangaslahti, Davin Choo, Milind Tambe, Alastair van Heerden, Cheryl Johnson |
+| 15:20 | Closing Remarks |  |
+
 ## Submission Details
 
 
@@ -104,6 +123,34 @@ We do not insist on papers being submitted anonymously initially; this decision 
 * [Shahaf S. Shperberg](https://shperb.github.io), Ben-Gurion University, Be'er Sheva, Israel.
 * [Ayal Taitler](https://sites.google.com/view/ataitler/home), Ben-Gurion University, Be'er Sheva, Israel.
 * Niklas Widulle, Helmut-Schmidt-University, Hamburg, Germany.
+
+## Program Committee
+
+- Alexandre Albore, French Aerospace Lab
+- Kaja Balzereit, Faculty of Engineering and Mathematics, University of Applied Sciences Bielefeld
+- Arthur Bit-Monnot, Laboratory for Analysis and Architecture of Systems, French National Centre for Scientific Research
+- Alexander Diedrich, Institute of Artificial Intelligence, Helmut Schmidt University
+- Jonas Ehrhardt, Institute of Artificial Intelligence, Helmut Schmidt University
+- Aljosha Köcher, Institute of Automation Technology, Helmut Schmidt University
+- Ingo Pill, Institute for Software Technology, Graz University of Technology
+- Marcos Quinones-Grueiro, Institute for Software Integrated Systems, Vanderbilt University
+- Elisa Tosello, Planning Scheduling and Optimization Unit, Fondazione Bruno Kessler
+- Luis Miguel Vieira da Silva, Institute of Automation Technology, Helmut Schmidt University
+- Niklas Widulle, Institute of Artificial Intelligence, Helmut Schmidt University
+- Alexander Windmann, Institute of Artificial Intelligence, Helmut Schmidt University
+- Alois Zoitl, LIT Cyber-Physical Systems Lab, Johannes Kepler University Linz
+- Patrick Rodler, University of Klagenfurt
+- Scott Sanner, University of Toronto
+- Argamann Mordoch, Ben-Gurion University, Be’er Sheva
+- Forest Agostinelli, University of South Carolina
+- Zlatan Ajanović, RWTH Aachen University
+- Dillon Ze Chen, Laboratory for Analysis and Architecture of Systems (LAAS-CNRS)
+- Timo P. Gros, German Research Center for Artificial Intelligence (DFKI)
+- Shahaf S. Shperberg, Ben-Gurion University
+- Ayal Taitler, Ben-Gurion University, Be’er Sheva
+- Roni Stern, Ben-Gurion University, Be’er Sheva
+
+
 
 Please send your inquiries to [prl.theworkshop@gmail.com](mailto:prl.theworkshop@gmail.com)
 
