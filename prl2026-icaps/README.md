@@ -60,7 +60,7 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 |  | Magnus Cunow, Nicola J. Müller, Timo P. Gros, Gregor Behnke, Daniel Höller - An Admissible Neuro-Symbolic Landmark Cut Heuristic – Preliminary Results |
 |  | Jonas Gösgens, Niklas Jansen, Hector Geffner - Learning Lifted Action Models from Traces with Minimal Information About Actions and States |
 | 10:35 - 11:05 | *Coffee Break*    |
-| 11:05 - 12:00 | **Keynote Ivan Serina and Alfonso Emilio Gerevini:<br>On Learning Planning Heuristics and General Policies through GNNs and Transformers**    |
+| 11:05 - 12:00 | **Keynote Alfonso Emilio Gerevini and Ivan Serina:<br>On Learning Planning Heuristics and General Policies through GNNs and Transformers**    |
 | 12:00 - 13:00 | **Session II** |
 |  | Markus Fritzsche, Elliot Gestrin, Jendrik Seipp - Symmetry-Aware Transformer Training for Automated Planning |
 |  | Gustavo De Mari Pereira, Leliane N. de Barros - Effective Reinforcement Learning Exploration in Stochastic Shortest Paths with Dead-Ends |
